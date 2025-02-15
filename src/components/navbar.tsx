@@ -1,7 +1,9 @@
+import { ThemeSwitcher } from './ui/theme-switcher';
+
 const Navbar = () => {
   return (
     <nav className="container mx-auto w-full mt-4 md:max-w-5xl border-b border-gray-200 dark:border-gray-700">
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4">
         <a
           href="https://flowbite.com/"
           className="flex items-center space-x-3 rtl:space-x-reverse"
@@ -85,6 +87,9 @@ const Navbar = () => {
               />
             </svg>
           </button>
+          <div className="ml-4">
+            <ThemeSwitcher />
+          </div>
         </div>
         <div
           className="items-center justify-between hidden w-full md:flex md:w-auto md:order-1"
