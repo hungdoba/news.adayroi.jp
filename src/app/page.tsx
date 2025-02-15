@@ -49,10 +49,7 @@ export default async function Page() {
                   <dl>
                     <dt className="sr-only">Published on</dt>
                     <dd className="text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
-                      <time dateTime={date}>
-                        {/* {formatDate(date, siteMetadata.locale)} */}
-                        2021-09-01
-                      </time>
+                      <time dateTime={date}>2021-09-01</time>
                     </dd>
                   </dl>
                   <div className="space-y-5 xl:col-span-3">
@@ -66,11 +63,9 @@ export default async function Page() {
                             {title}
                           </Link>
                         </h2>
-                        {/* <div className="flex flex-wrap">
-                            {tags.map((tag) => (
-                              <Tag key={tag} text={tag} />
-                            ))}
-                          </div> */}
+                        <div className="flex flex-wrap">
+                          {tags && tags.map((tag) => <p key={tag}>{tag}</p>)}
+                        </div>
                       </div>
                       <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                         {summary}

@@ -1,14 +1,18 @@
+import Link from 'next/link';
 import { ThemeSwitcher } from './ui/theme-switcher';
 
 const Navbar = () => {
   return (
     <nav className="border-b border-gray-200 dark:border-gray-700">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto py-4">
-        <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
+        <Link
+          href="/"
+          className="flex items-center space-x-3 rtl:space-x-reverse"
+        >
           <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
             Adayroi
           </span>
-        </a>
+        </Link>
         <div className="flex md:order-2">
           <button
             type="button"
