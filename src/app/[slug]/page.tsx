@@ -38,7 +38,7 @@ export default async function BlogPage({ params }: Props) {
   return (
     <MaxWidthWrapper className="prose dark:prose-invert">
       <div className="flex ">
-        <div className="px-16">
+        <div className="px-4">
           <h1>{data.title}</h1>
           <div dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
         </div>
