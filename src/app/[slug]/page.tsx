@@ -10,15 +10,9 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 import fs from 'fs';
 import matter from 'gray-matter';
-// import { Metadata } from 'next';
 
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
 import Onthispage from '@/components/Onthispage';
-
-// type Props = {
-//   params: { slug: string; title: string; description: string };
-//   searchParams: { [key: string]: string | string[] | undefined };
-// };
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -53,16 +47,3 @@ export default async function BlogPage({ params }: Props) {
     </MaxWidthWrapper>
   );
 }
-
-// export async function generateMetadata({
-//   params: _params,
-// }: Props): Promise<Metadata> {
-//   const params = await Promise.resolve(_params);
-//   const filePath = `content/${params.slug}.md`;
-//   const fileContent = fs.readFileSync(filePath, 'utf-8');
-//   const { data } = matter(fileContent);
-//   return {
-//     title: `${data.title} - ProgrammingWithHarry`,
-//     description: data.description,
-//   };
-// }
