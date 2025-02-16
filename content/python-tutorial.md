@@ -194,7 +194,7 @@ _Italics_ add style.
 
 ## Images
 
-![Blog Featured Image](../1.jpg 'Image Title')
+![Blog Featured Image](../blog/1.jpg 'Image Title')
 
 ## Quote Blocks
 
