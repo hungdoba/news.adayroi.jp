@@ -13,10 +13,10 @@ interface BlogType {
   imageUrl?: string;
 }
 
-const dirContent = fs.readdirSync('content', 'utf-8');
+const dirContent = fs.readdirSync('content/posts', 'utf-8');
 
 const posts: BlogType[] = dirContent.map((file) => {
-  const fileContent = readFileSync(`content/${file}`, 'utf-8');
+  const fileContent = readFileSync(`content/posts/${file}`, 'utf-8');
   const { data } = matter(fileContent);
   const value: BlogType = {
     slug: data.slug,

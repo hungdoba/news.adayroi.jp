@@ -30,7 +30,7 @@ export default async function BlogPage({ params }: Props) {
     .use(remarkGfm)
     .use(rehypeAutolinkHeadings);
 
-  const filePath = `content/${slug}.md`;
+  const filePath = `content/posts/${slug}.md`;
   const fileContent = fs.readFileSync(filePath, 'utf-8');
   const { data, content } = matter(fileContent);
 
