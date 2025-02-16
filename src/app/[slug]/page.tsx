@@ -8,7 +8,7 @@ import rehypeStringify from 'rehype-stringify';
 import rehypeHighlight from 'rehype-highlight';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
-import fs from 'fs';
+import fs, { readFileSync } from 'fs';
 import matter from 'gray-matter';
 
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
@@ -16,6 +16,19 @@ import Onthispage from '@/components/Onthispage';
 
 interface Props {
   params: Promise<{ slug: string }>;
+}
+
+export async function generateStaticParams() {
+  const dirContent = fs.readdirSync('content/posts', 'utf-8');
+
+  return dirContent.map((file) => {
+    const fileContent = readFileSync(`content/posts/${file}`, 'utf-8');
+    const { data } = matter(fileContent);
+
+    return {
+      slug: data.slug || file.replace(/\.md$/, ''),
+    };
+  });
 }
 
 export default async function BlogPage({ params }: Props) {
