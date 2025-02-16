@@ -65,9 +65,5 @@ def deploy_project():
         print(f"An unexpected error occurred: {e}")
 
 if __name__ == "__main__":
-    # create_markdown_file()
-    
-    # Ask for deployment
-    # should_deploy = input("Do you want to deploy the project? (y/n): ")
-    # if should_deploy.lower() == 'y':
-        deploy_project()
+    create_markdown_file()
+    deploy_project()
