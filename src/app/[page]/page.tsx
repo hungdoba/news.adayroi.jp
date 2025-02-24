@@ -1,36 +1,47 @@
 import React from 'react';
-import fs, { readFileSync } from 'fs';
-import matter from 'gray-matter';
 import Link from 'next/link';
+import { readContentDir, readMDFile } from '@/lib/pathDir';
+import matter from 'gray-matter';
 
-interface BlogType {
-  slug: string;
-  title: string;
-  date: string;
-  summary: string;
-  tags: string[];
-  description: string;
-  imageUrl?: string;
+interface Props {
+  params: Promise<{ page: number }>;
 }
 
-const dirContent = fs.readdirSync('content/posts', 'utf-8');
+export async function generateStaticParams() {
+  const dirContent = await readContentDir();
+  const totalPosts = dirContent.length;
 
-const posts: BlogType[] = dirContent.map((file) => {
-  const fileContent = readFileSync(`content/posts/${file}`, 'utf-8');
-  const { data } = matter(fileContent);
-  const value: BlogType = {
-    slug: data.slug,
-    title: data.title,
-    date: '2021-09-01',
-    summary: data.summary,
-    tags: data.tags,
-    description: data.description,
-    imageUrl: data?.imageUrl,
-  };
-  return value;
-});
+  const totalPages = Math.ceil(
+    totalPosts / parseInt(process.env.POSTS_PER_PAGE ?? '6', 6)
+  );
 
-export default async function Page() {
+  return Array.from({ length: totalPages }).map((_, index) => {
+    return {
+      page: index + 1,
+    };
+  });
+}
+
+export default async function Page({ params }: Props) {
+  const { page } = await params;
+  const dirContent = await readContentDir(page);
+  const posts: Article[] = await Promise.all(
+    dirContent.map(async (file) => {
+      const fileContent = await readMDFile(`content/posts/${file}`);
+      const { data } = matter(fileContent);
+      const value: Article = {
+        slug: data.slug,
+        title: data.title,
+        date: '2021-09-01',
+        summary: data.summary,
+        tags: data.tags,
+        description: data.description,
+        imageUrl: data?.imageUrl,
+      };
+      return value;
+    })
+  );
+
   return (
     <div className="px-4 divide-y divide-gray-200 dark:divide-gray-700">
       <ul className="divide-y divide-gray-200 dark:divide-gray-700">
