@@ -4,39 +4,38 @@ import matter from 'gray-matter';
 import Link from 'next/link';
 
 interface BlogType {
-  slug: string;
   title: string;
-  date: string;
-  summary: string;
-  tags: string[];
+  slug: string;
   description: string;
-  imageUrl?: string;
+  created_at: string;
 }
 
 const dirContent = fs.readdirSync('content/posts', 'utf-8');
 
-const posts: BlogType[] = dirContent.map((file) => {
-  const fileContent = readFileSync(`content/posts/${file}`, 'utf-8');
-  const { data } = matter(fileContent);
-  const value: BlogType = {
-    slug: data.slug,
-    title: data.title,
-    date: '2021-09-01',
-    summary: data.summary,
-    tags: data.tags,
-    description: data.description,
-    imageUrl: data?.imageUrl,
-  };
-  return value;
-});
+const posts: BlogType[] = dirContent
+  .map((file) => {
+    const fileContent = readFileSync(`content/posts/${file}`, 'utf-8');
+    const { data } = matter(fileContent);
+    const value: BlogType = {
+      title: data.title,
+      slug: data.slug,
+      description: data.description,
+      created_at: data.created_at,
+    };
 
+    return value;
+  })
+  .sort(
+    (a, b) =>
+      new Date(b.created_at).getTime() - new Date(a.created_at).getTime()
+  );
 export default async function Page() {
   return (
     <div className="px-4 divide-y divide-gray-200 dark:divide-gray-700">
       <ul className="divide-y divide-gray-200 dark:divide-gray-700">
         {!posts.length && 'No posts found.'}
         {posts.map((post) => {
-          const { slug, date, title, summary, tags } = post;
+          const { title, slug, description, created_at } = post;
           return (
             <li key={slug} className="py-12">
               <article>
@@ -44,7 +43,13 @@ export default async function Page() {
                   <dl>
                     <dt className="sr-only">Published on</dt>
                     <dd className="text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
-                      <time dateTime={date}>2021-09-01</time>
+                      <time dateTime={created_at}>
+                        {new Date(created_at).toLocaleDateString('en-US', {
+                          year: 'numeric',
+                          month: 'long',
+                          day: 'numeric',
+                        })}
+                      </time>
                     </dd>
                   </dl>
                   <div className="space-y-5 xl:col-span-3">
@@ -58,12 +63,12 @@ export default async function Page() {
                             {title}
                           </Link>
                         </h2>
-                        <div className="flex flex-wrap">
+                        {/* <div className="flex flex-wrap">
                           {tags && tags.map((tag) => <p key={tag}>{tag}</p>)}
-                        </div>
+                        </div> */}
                       </div>
                       <div className="prose max-w-none text-gray-500 dark:text-gray-400">
-                        {summary}
+                        {description}
                       </div>
                     </div>
                     <div className="text-base leading-6 font-medium">

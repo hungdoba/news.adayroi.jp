@@ -40,23 +40,25 @@ const Onthispage = ({
 
   return (
     <div className={cn('hidden md:block ', className)}>
-      <div className="sticky top-20">
-        <h2>On This Page </h2>
-        <ul className="not-prose text-xs">
-          {links &&
-            links.map((link) => {
-              return (
-                <li key={link.id} className="pt-1">
-                  <a href={`#${link.id}`}>
-                    {link.text.slice(0, 50)}
+      {links?.length != 0 && (
+        <div className="sticky top-10">
+          <h2>Mục lục</h2>
+          <ul className="not-prose text-xs">
+            {links &&
+              links.map((link) => {
+                return (
+                  <li key={link.id} className="pt-1">
+                    <a href={`#${link.id}`}>
+                      {link.text.slice(0, 50)}
 
-                    {link.text.length > 50 ? '...' : ''}
-                  </a>
-                </li>
-              );
-            })}
-        </ul>
-      </div>
+                      {link.text.length > 50 ? '...' : ''}
+                    </a>
+                  </li>
+                );
+              })}
+          </ul>
+        </div>
+      )}
     </div>
   );
 };

@@ -14,6 +14,8 @@ import matter from 'gray-matter';
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
 import Onthispage from '@/components/Onthispage';
 
+import Image from 'next/image';
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
@@ -51,11 +53,11 @@ export default async function BlogPage({ params }: Props) {
   return (
     <MaxWidthWrapper className="prose dark:prose-invert">
       <div className="flex ">
-        <div className="px-4">
-          <h1>{data.title}</h1>
+        <div className="px-8">
+          {/* <p>{data.description}</p> */}
           <div dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
         </div>
-        <Onthispage className="text-sm w-[50%]" htmlContent={htmlContent} />
+        <Onthispage className="text-sm w-[100%]" htmlContent={htmlContent} />
       </div>
     </MaxWidthWrapper>
   );
