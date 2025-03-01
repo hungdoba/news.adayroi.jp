@@ -1,29 +1,32 @@
 ---
 title: Số phận bất ngờ của tàu điện ngầm Tokyo tại Philippines
 slug: tau-dien-ngam-tokyo-philippines
-description: Hai toa tàu điện ngầm Tokyo Metro Marunouchi Line 02 series đã được tặng không tính phí cho Đại học FEATI ở Philippines và được sử dụng như thế nào?
+description: Hai toa tàu điện ngầm dòng 02 của tuyến Marunouchi, Tokyo, nay được sử dụng như thiết bị đào tạo tại trường Đại học FEATI, Philippines.
 created_at: 2025-03-01
-use: false
+use: true
 ---
+# Số phận bất ngờ của tàu điện ngầm Tokyo tại Philippines: Hai toa tàu 02 series giờ ở đâu?
 
-# Số phận bất ngờ của tàu điện ngầm Tokyo tại Philippines: Hai toa tàu 02 series hiện đang ở đâu?
+Tàu 02 series, thế hệ trước của tàu điện ngầm tuyến Marunouchi, Tokyo Metro. Từ năm 2018, quá trình thay thế bằng dòng 2000 series bắt đầu và hoàn tất vào tháng 12 năm 2024. Khác với dòng 500 series (thế hệ trước nữa) được chuyển giao sang Argentina và một số toa vẫn đang hoạt động, hầu hết các toa 02 series đều bị tháo dỡ.
 
-Tàu điện ngầm Tokyo Metro Marunouchi Line đời cũ, dòng 02 series. Từ năm 2018, quá trình thay thế bằng dòng 2000 series bắt đầu, và đến tháng 12 năm 2024, tất cả các toa tàu đã chính thức ngừng hoạt động. Trái ngược với dòng 500 series (tiền nhiệm của dòng 02 series), phần lớn đã được chuyển nhượng sang Argentina và một số vẫn đang hoạt động, hầu hết các toa tàu 02 series đều được tháo dỡ.  [【Xem hình ảnh đầu tiên】Quảng cáo trong xe vẫn giữ nguyên như thời còn hoạt động. Hình ảnh hiếm hoi về toa tàu Tokyo Metro Marunouchi Line 02 series hiện nay tại một trường đại học ở Philippines](https://toyokeizai.net/articles/photo/861530?pn=1&utm_source=yahoo&utm_medium=http&utm_campaign=link_back&utm_content=inarticle)
+[Xem ảnh đầu tiên: Nội thất và quảng cáo trong toa tàu vẫn giữ nguyên như thời còn hoạt động. Hình ảnh hiếm hoi về toa tàu 02 series của tuyến Marunouchi, Tokyo Metro, hiện đang ở trường đại học Philippines.](https://toyokeizai.net/articles/photo/861530?pn=1&utm_source=yahoo&utm_medium=http&utm_campaign=link_back&utm_content=inarticle)
 
-Tuy nhiên, hai toa tàu 02 series số hiệu 151 và 251 đã được tặng không tính phí cho Đại học FEATI (Feati University) ở Philippines vào tháng 2 năm 2020. Đại học FEATI, nơi tiếp nhận những toa tàu 02 series này, là trường đại học như thế nào, và mối quan hệ giữa trường với Tokyo Metro vẫn tiếp diễn ra sao?
-
-
-## Đại học FEATI: Trường đại học có khoa Kỹ thuật Đường sắt
-
-Đại học FEATI là một trường đại học tư thục nằm ở khu vực thủ đô Manila, Philippines, với 4 khoa: Kỹ thuật, Giáo dục Hàng hải, Quản trị Kinh doanh và Kiến trúc, bao gồm 15 chuyên ngành.  Mặc dù quy mô nhỏ với khoảng 600 sinh viên, đây là một trường đại học có đặc điểm riêng biệt.  【Hình ảnh】Quảng cáo trong xe vẫn giữ nguyên như thời còn hoạt động. Hình ảnh hiếm hoi về toa tàu Tokyo Metro Marunouchi Line 02 series hiện nay tại một trường đại học ở Philippines
-
-Ban đầu được thành lập vào năm 1946 với vai trò là trường dạy nghề hàng không, cho đến nay, chương trình đào tạo của khoa Kỹ thuật vẫn rất chú trọng vào thực hành. Chuyên ngành hàng không vẫn là chuyên ngành lớn nhất, và trên tầng cao nhất của trường có trưng bày nhiều loại máy bay nhỏ, động cơ cánh quạt và nhiều bộ phận khác làm tài liệu học tập.
-
-Khoa Kỹ thuật có 9 chuyên ngành, và một trong số đó là chuyên ngành Kỹ thuật Đường sắt. Chuyên ngành này được thành lập vào năm 2021 như một khóa học thuộc khoa Kỹ thuật, và được Bộ Giáo dục Philippines công nhận vào năm 2024. Hiện tại có 36 sinh viên đang theo học, và lứa sinh viên đầu tiên sẽ tốt nghiệp vào tháng 9 năm nay.
+Tuy nhiên, hai toa tàu 02 series số hiệu 151 và 251 đã được chuyển giao miễn phí cho Đại học FEATI (Fairty) tại Philippines vào tháng 2 năm 2020.  Đại học FEATI là trường gì, và mối quan hệ giữa họ và Tokyo Metro như thế nào?
 
 
-"Nhu cầu về nhân lực ngành đường sắt tại Philippines hiện nay rất cao," ông Francisco Segovia, hiệu trưởng trường đại học, cho biết. Hiện nay, đất nước này đang triển khai nhiều dự án đường sắt quy mô lớn, bao gồm tuyến đường sắt ngoại ô bắc nam (khoảng 150km) và tuyến tàu điện ngầm Manila (khoảng 33km) đang được xây dựng với sự hỗ trợ của khoản vay ưu đãi của Nhật Bản. Dự kiến sẽ cần đến 15.000 người trong 10 năm tới.
+## Trường đại học có khoa Kỹ thuật Đường sắt
 
-![](images/20250301_113717_530.png)
-![](images/20250301_113717_930.jpg)
+Đại học FEATI là một trường đại học tư thục nằm ở khu vực thủ đô Manila, Philippines, với 4 khoa: Kỹ thuật, Giáo dục Hàng hải, Quản trị Kinh doanh và Kiến trúc, bao gồm 15 chuyên ngành.  Với khoảng 600 sinh viên, quy mô trường khá nhỏ nhưng có những điểm đặc trưng riêng.
 
+Ban đầu được thành lập năm 1946 như một trường dạy nghề hàng không, cho đến nay chương trình đào tạo kỹ thuật vẫn luôn chú trọng thực hành. Chuyên ngành Hàng không vẫn là chuyên ngành lớn nhất, và trên tầng cao nhất của trường, các loại máy bay nhỏ, động cơ propellor và nhiều phụ tùng khác được trưng bày như tài liệu giảng dạy.
+
+Khoa Kỹ thuật có 9 chuyên ngành, trong đó có Khoa Kỹ thuật Đường sắt. Được thành lập năm 2021 như một khóa học thuộc Khoa Kỹ thuật, chuyên ngành này đã được Bộ Giáo dục Philippines công nhận vào năm 2024. Hiện tại có 36 sinh viên theo học, và khóa học đầu tiên sẽ tốt nghiệp vào tháng 9 năm nay.
+
+
+## Nhu cầu nhân lực đường sắt tại Philippines
+
+"Nhu cầu về nguồn nhân lực đường sắt hiện nay tại Philippines rất cao," ông Francisco Segovia, hiệu trưởng trường, cho biết. Hiện nay, đất nước này đang triển khai nhiều dự án đường sắt quy mô lớn, bao gồm tuyến đường sắt đô thị Bắc-Nam (khoảng 150km) và tuyến tàu điện ngầm Manila (khoảng 33km) - được xây dựng một phần nhờ khoản vay ưu đãi của Nhật Bản.  Ước tính sẽ cần đến 15.000 lao động trong vòng 10 năm tới.
+
+[![](images/20250301_163054_884.jpg)
+
+Hai toa tàu 02 series được chuyển giao miễn phí cho Đại học FEATI, Philippines và các sinh viên (Ảnh: Tác giả)](https://news.yahoo.co.jp/articles/88f87bc96ed9f9d474c2c7e6e95502b495e8ba48/images/000)
