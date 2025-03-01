@@ -45,7 +45,7 @@ export default async function BlogPage({ params }: Props) {
 
   const filePath = `content/posts/${slug}.md`;
   const fileContent = fs.readFileSync(filePath, 'utf-8');
-  const { data, content } = matter(fileContent);
+  const { content } = matter(fileContent);
 
   const htmlContent = (await processor.process(content)).toString();
   return (
