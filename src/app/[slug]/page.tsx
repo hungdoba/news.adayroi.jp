@@ -14,8 +14,6 @@ import matter from 'gray-matter';
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
 import Onthispage from '@/components/Onthispage';
 
-import Image from 'next/image';
-
 interface Props {
   params: Promise<{ slug: string }>;
 }
