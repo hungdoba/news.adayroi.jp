@@ -8,7 +8,7 @@ import rehypeStringify from 'rehype-stringify';
 import rehypeHighlight from 'rehype-highlight';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
-import fs, { readFileSync } from 'fs';
+import fs from 'fs';
 import matter from 'gray-matter';
 
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
@@ -22,11 +22,8 @@ export async function generateStaticParams() {
   const dirContent = fs.readdirSync('content/posts', 'utf-8');
 
   return dirContent.map((file) => {
-    const fileContent = readFileSync(`content/posts/${file}`, 'utf-8');
-    const { data } = matter(fileContent);
-
     return {
-      slug: data.slug || file.replace(/\.md$/, ''),
+      slug: file.replace(/\.md$/, ''),
     };
   });
 }
