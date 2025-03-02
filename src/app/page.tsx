@@ -10,11 +10,11 @@ interface BlogType {
   created_at: string;
 }
 
-const dirContent = fs.readdirSync('content/posts', 'utf-8');
+const dirContent = fs.readdirSync('content', 'utf-8');
 
 const posts: BlogType[] = dirContent
   .map((file) => {
-    const fileContent = readFileSync(`content/posts/${file}`, 'utf-8');
+    const fileContent = readFileSync(`content/${file}`, 'utf-8');
     const { data } = matter(fileContent);
     const value: BlogType = {
       title: data.title,
@@ -31,7 +31,7 @@ const posts: BlogType[] = dirContent
   );
 export default async function Page() {
   return (
-    <div className="px-4 divide-y divide-gray-200 dark:divide-gray-700">
+    <div className="px-4">
       <ul className="divide-y divide-gray-200 dark:divide-gray-700">
         {!posts.length && 'No posts found.'}
         {posts.map((post) => {
@@ -41,10 +41,10 @@ export default async function Page() {
               <article>
                 <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
                   <dl>
-                    <dt className="sr-only">Published on</dt>
+                    <dt className="sr-only ">Published on</dt>
                     <dd className="text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
                       <time dateTime={created_at}>
-                        {new Date(created_at).toLocaleDateString('en-US', {
+                        {new Date(created_at).toLocaleDateString('vi-VN', {
                           year: 'numeric',
                           month: 'long',
                           day: 'numeric',
@@ -58,7 +58,7 @@ export default async function Page() {
                         <h2 className="text-2xl leading-8 font-bold tracking-tight">
                           <Link
                             href={`/${slug}`}
-                            className="text-gray-900 dark:text-gray-100"
+                            className="text-gray-900 dark:text-white"
                           >
                             {title}
                           </Link>
@@ -74,10 +74,10 @@ export default async function Page() {
                     <div className="text-base leading-6 font-medium">
                       <Link
                         href={`/${slug}`}
-                        className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                        className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-gray-600 dark:text-gray-300"
                         aria-label={`Read more: "${title}"`}
                       >
-                        Read more &rarr;
+                        Đọc thêm &rarr;
                       </Link>
                     </div>
                   </div>

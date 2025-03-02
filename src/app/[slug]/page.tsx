@@ -19,7 +19,7 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  const dirContent = fs.readdirSync('content/posts', 'utf-8');
+  const dirContent = fs.readdirSync('content', 'utf-8');
 
   return dirContent.map((file) => {
     return {
@@ -40,7 +40,7 @@ export default async function BlogPage({ params }: Props) {
     .use(remarkGfm)
     .use(rehypeAutolinkHeadings);
 
-  const filePath = `content/posts/${slug}.md`;
+  const filePath = `content/${slug}.md`;
   const fileContent = fs.readFileSync(filePath, 'utf-8');
   const { content } = matter(fileContent);
 

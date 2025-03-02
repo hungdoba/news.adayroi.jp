@@ -10,10 +10,11 @@ const Navbar = () => {
         </Link>
         <ul className="flex items-center space-x-4">
           <li>
-            <Link href="https://chat.adayroi.jp">Chat</Link>
+            <Link href="https://chat.adayroi.jp">BrSE AI</Link>
           </li>
+          <li className="h-4 border-r border-gray-500"></li>
           <li>
-            <Link href="https://adayroi.jp">Main</Link>
+            <Link href="https://adayroi.jp">Trang chủ</Link>
           </li>
           <li>
             <ThemeSwitcher />
