@@ -10,7 +10,15 @@ const Navbar = () => {
         </Link>
         <ul className="flex items-center space-x-4">
           <li>
-            <Link href="https://chat.adayroi.jp">BrSE AI</Link>
+            <Link href="https://prompt.adayroi.jp">Prompt AI</Link>
+          </li>
+          <li className="h-4 border-r border-gray-500"></li>
+          <li>
+            <Link href="https://fix.adayroi.jp">AI Sửa JP</Link>
+          </li>
+          <li className="h-4 border-r border-gray-500"></li>
+          <li>
+            <Link href="https://comtor.adayroi.jp">AI Comtor</Link>
           </li>
           <li className="h-4 border-r border-gray-500"></li>
           <li>
