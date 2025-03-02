@@ -14,9 +14,9 @@ export const metadata: Metadata = {
   title: 'Adayroi - Vietnamese news in Japan',
   description:
     'Các thông tin thời sự mới nhất liên quan đến Việt Nam tại Nhật Bản',
-  other: {
-    'facebook-domain-verification': 'mvob3h4kavncy0qahbotzv2fa03bz3',
-  },
+  // other: {
+  //   'facebook-domain-verification': 'mvob3h4kavncy0qahbotzv2fa03bz3',
+  // },
 };
 
 export default function RootLayout({
