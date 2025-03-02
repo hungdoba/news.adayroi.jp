@@ -18,7 +18,7 @@ const posts: BlogType[] = dirContent
     const { data } = matter(fileContent);
     const value: BlogType = {
       title: data.title,
-      slug: data.slug,
+      slug: file.replace(/\.md$/, ''),
       description: data.description,
       created_at: data.created_at,
     };
