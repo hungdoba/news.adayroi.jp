@@ -25,7 +25,7 @@ export default function RootLayout({
     <html lang="vi">
       <body className={`${roboto_mono.className} antialiased`}>
         <Providers>
-          <div className="container mx-auto w-full md:max-w-6xl">
+          <div className="md:container mx-auto w-full md:max-w-6xl">
             <Navbar />
             {children}
             <Footer />
