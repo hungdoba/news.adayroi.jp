@@ -4,7 +4,7 @@ import { ThemeSwitcher } from './ui/theme-switcher';
 const Navbar = () => {
   return (
     <nav className="border-b-2 border-gray-700">
-      <div className="w-full flex justify-between items-center p-4">
+      <div className="w-full flex justify-between items-center p-4 md:px-0">
         <Link className="flex text-xl" href="/">
           Adayroi
         </Link>
