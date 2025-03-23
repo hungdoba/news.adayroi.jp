@@ -39,8 +39,8 @@ const Onthispage = ({
   }, [htmlContent]);
 
   return (
-    <div className={cn('hidden md:block ', className)}>
-      {links?.length != 0 && (
+    links?.length != 0 && (
+      <div className={cn('hidden md:block ', className)}>
         <div className="sticky top-10">
           <h2>Mục lục</h2>
           <ul className="not-prose text-xs">
@@ -58,8 +58,8 @@ const Onthispage = ({
               })}
           </ul>
         </div>
-      )}
-    </div>
+      </div>
+    )
   );
 };
 
