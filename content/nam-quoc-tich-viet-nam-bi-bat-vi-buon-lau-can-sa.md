@@ -1,28 +1,25 @@
 ---
 title: Nam quốc tịch Việt Nam bị bắt vì buôn lậu cần sa
 slug: nam-quoc-tich-viet-nam-bi-bat-vi-buon-lau-can-sa
-description: Một người đàn ông mang quốc tịch Việt Nam đã bị bắt giữ vì tội buôn lậu cần sa giấu trong túi hoa quả khô từ Việt Nam.
+description: Cảnh sát Saitama bắt giữ một người đàn ông quốc tịch Việt Nam vì nghi ngờ buôn lậu cần sa từ Việt Nam vào Nhật Bản.
 use: true
-url: https://news.yahoo.co.jp/articles/4496b6a792ada22a15f74fd956ec2410dd0ccb69
-created_at: 2025-04-10 18:13:20
+url: https://news.yahoo.co.jp/articles/1b5614a66324db69457c88e72d87a52f108658f2
+created_at: 2025-04-11 07:36:59
 ---
 
 
-# Nam quốc tịch Việt Nam bị bắt vì buôn lậu cần sa giấu trong túi hoa quả khô
+# Nam quốc tịch Việt Nam bị bắt vì nghi ngờ buôn lậu cần sa tại Saitama
 
-![](images/20250410_180333_159.webp)
+Công an tỉnh Saitama đã bắt giữ một người đàn ông 24 tuổi quốc tịch Việt Nam vì nghi ngờ buôn lậu cần sa từ Việt Nam vào Nhật Bản hồi tháng 12 năm ngoái.
 
-**Tang vật bị thu giữ**
+Người bị bắt là Nguyễn Ngọc Quí (24 tuổi), không nghề nghiệp, thường trú tại khu vực Ueno, thành phố Fukaya.
 
-Một người đàn ông mang quốc tịch Việt Nam đã bị bắt giữ vì tội buôn lậu cần sa giấu trong túi hoa quả khô.
-[【Video】Cần sa bị thu giữ](https://abema.tv/video/episode/89-93_s10_p42837?pl=1&utm_campaign=times_yahoo_10172981_centertx_ap_free_episode_89-93_s10_p42837&utm_medium=web&utm_source=abematimes)
+Nguyễn Ngọc Quí bị tình nghi đã hai lần buôn lậu tổng cộng khoảng 3,3 kg cần sa từ Việt Nam về căn hộ của anh ta tại Fukaya, với giá trị ước tính khoảng 16,5 triệu Yên (tương đương khoảng 2,7 tỷ đồng Việt Nam).
 
-Nghi phạm Nguyễn Ngọc Quí (24 tuổi) bị tình nghi đã buôn lậu khoảng 3kg cần sa khô, với giá trị ước tính khoảng 15 triệu Yên (khoảng 2,4 tỷ đồng) từ Việt Nam trong hai lần, kể từ tháng 11 năm 2024.
+Theo cảnh sát, cần sa được giấu trong các bao bì đựng trái cây khô và ngũ cốc.
 
-Theo cảnh sát, Nguyễn Ngọc Quí đã khai báo hành lý của mình là thực phẩm và giấu cần sa trong túi hoa quả khô để qua mặt sự kiểm tra.  Cần sa đã được phát hiện bởi nhân viên hải quan khi kiểm tra các kiện hàng đến từ Việt Nam, nơi đang gia tăng số vụ buôn lậu cần sa.
+Vụ việc được phát hiện sau khi cơ quan Hải quan Tokyo báo cáo vào tháng 11 năm ngoái, sau đó cảnh sát Saitama đã tiến hành điều tra và xác định được hành vi phạm tội của Nguyễn Ngọc Quí.
 
-Nghi phạm đã sử dụng thủ đoạn gửi hàng đến một căn phòng khác trong chung cư nơi hắn sinh sống và nhờ người khác nhận hàng rồi lấy lại sau đó, để thực hiện hành vi buôn lậu nhiều lần.
+Cảnh sát cho biết hiện chưa tiết lộ lời khai của nghi phạm vì lý do ảnh hưởng đến quá trình điều tra.
 
-“Thật đáng ngạc nhiên. Có nhiều trường hợp người ta bị lợi dụng mà không hay biết.” (người dân trong chung cư)
-
-Cảnh sát chưa tiết lộ về việc nghi phạm có nhận tội hay không. (ANN news)
+Đây không phải là lần đầu tiên Nguyễn Ngọc Quí bị bắt giữ. Trước đó, anh ta đã bị bắt 4 lần vì các tội danh liên quan đến buôn lậu cần sa, với tổng lượng cần sa bị thu giữ ước tính khoảng 8,3 kg, tương đương với giá trị khoảng 41,5 triệu Yên (tương đương khoảng 6,8 tỷ đồng Việt Nam).
