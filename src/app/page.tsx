@@ -2,6 +2,7 @@ import React from 'react';
 import fs, { readFileSync } from 'fs';
 import matter from 'gray-matter';
 import Link from 'next/link';
+import Image from 'next/image';
 
 interface BlogType {
   title: string;
@@ -39,7 +40,7 @@ export default async function Page() {
           return (
             <li key={slug} className="py-12">
               <article>
-                <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0">
+                <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:space-y-0 xl:gap-x-6">
                   <dl>
                     <dt className="sr-only ">Published on</dt>
                     <dd className="text-base leading-6 font-medium text-gray-500 dark:text-gray-400">
@@ -50,6 +51,19 @@ export default async function Page() {
                           day: 'numeric',
                         })}
                       </time>
+
+                      {new Date(created_at).toDateString() <=
+                        new Date().toDateString() && (
+                        <div className="my-4 relative w-full aspect-video">
+                          <Image
+                            fill={true}
+                            src={`/images/${slug}.webp`}
+                            alt={title}
+                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                            className="object-cover"
+                          />
+                        </div>
+                      )}
                     </dd>
                   </dl>
                   <div className="space-y-5 xl:col-span-3">
