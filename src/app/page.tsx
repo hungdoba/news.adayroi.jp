@@ -11,7 +11,7 @@ export default function Page() {
       <ul className="divide-y divide-gray-200 dark:divide-gray-700">
         {posts.map((post, index) => (
           <li key={post.slug || index} className="py-12">
-            <PostCard {...post} />
+            <PostCard priority={index < 4} {...post} />
           </li>
         ))}
       </ul>

@@ -1,12 +1,13 @@
-import { formatDate } from '@/lib/utils';
-import Image from 'next/image';
 import Link from 'next/link';
+import { formatDate } from '@/lib/utils';
+import ExportedImage from 'next-image-export-optimizer';
 
 interface Props {
   title: string;
   slug: string;
   description: string;
   createdAt: string;
+  priority?: boolean;
 }
 
 export default function PostCard({
@@ -14,6 +15,7 @@ export default function PostCard({
   slug,
   description,
   createdAt,
+  priority = false,
 }: Props) {
   return (
     <article>
@@ -26,12 +28,13 @@ export default function PostCard({
             </dd>
           </dl>
           <div className="my-4 relative w-full aspect-video">
-            <Image
+            <ExportedImage
               fill
               src={`/images/${slug}.webp`}
               alt={title}
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover rounded"
+              priority={priority}
             />
           </div>
         </div>
