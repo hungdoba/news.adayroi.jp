@@ -1,5 +1,5 @@
-import Link from 'next/link';
-import { ThemeSwitcher } from './ui/theme-switcher';
+import Link from "next/link";
+import { ThemeSwitcher } from "./ui/theme-switcher";
 
 const Navbar = () => {
   return (
@@ -10,15 +10,11 @@ const Navbar = () => {
         </Link>
         <ul className="flex items-center space-x-2 md:space-x-4">
           <li>
-            <Link href="https://prompt.adayroi.jp">Prompt</Link>
-          </li>
-          <li className="h-4 border-r border-gray-500"></li>
-          <li>
-            <Link href="https://fix.adayroi.jp">Sửa</Link>
-          </li>
-          <li className="h-4 border-r border-gray-500"></li>
-          <li>
             <Link href="https://comtor.adayroi.jp">Dịch</Link>
+          </li>
+          <li className="h-4 border-r border-gray-500"></li>
+          <li>
+            <Link href="https://jlpt.adayroi.jp">JLPT</Link>
           </li>
           <li className="h-4 border-r border-gray-500"></li>
           <li>
