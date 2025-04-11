@@ -41,3 +41,4 @@ next-env.d.ts
 
 .venv
 /out
+public/images/next-image-export-optimizer-hashes.json
