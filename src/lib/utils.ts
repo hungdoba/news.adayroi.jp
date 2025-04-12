@@ -7,6 +7,10 @@ export function cn(...inputs: ClassValue[]) {
   return twMerge(clsx(inputs));
 }
 
+export function todayJST() {
+  return new Date(Date.now() + 9 * 60 * 60 * 1000);
+}
+
 export function toDateString(date: string | Date) {
   try {
     return new Date(date).toISOString().split('T')[0];
@@ -26,7 +30,7 @@ export function formatDate(date: Date | string, locale = 'vi-VN') {
 
 export const get7DaysCentered = (dateStr?: string): string[] => {
   let date = dateStr ? new Date(dateStr) : new Date();
-  const today = new Date();
+  const today = todayJST();
 
   const maxDate = addDays(date, 3);
   if (maxDate > today) {

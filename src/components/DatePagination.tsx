@@ -10,14 +10,14 @@ import {
 } from '@/components/ui/pagination';
 
 import { format, subDays } from 'date-fns';
-import { get7DaysCentered, toDateString } from '@/lib/utils';
+import { get7DaysCentered, toDateString, todayJST } from '@/lib/utils';
 
 interface Props {
   selectedDateStr?: string;
 }
 
 export default function DatePagination({ selectedDateStr }: Props) {
-  const today = toDateString(new Date());
+  const today = toDateString(todayJST());
   const selectedDate = selectedDateStr || today;
   const last7Days = get7DaysCentered(selectedDate);
   const yesterdayLink = format(
@@ -40,13 +40,13 @@ export default function DatePagination({ selectedDateStr }: Props) {
             <PaginationLink
               className="hidden sm:inline"
               href={`/${dateStr}`}
-              isActive={dateStr === selectedDateStr}
+              isActive={dateStr === selectedDate}
             >
               {format(new Date(dateStr), "dd 'tháng' MM", { locale: vi })}
             </PaginationLink>
             <PaginationLink
               href={`/${dateStr}`}
-              isActive={dateStr === selectedDateStr}
+              isActive={dateStr === selectedDate}
               className="sm:hidden"
               size={new Date(dateStr).getDate() === 1 ? 'default' : 'icon'}
             >

@@ -1,7 +1,7 @@
 import fs from 'fs';
 import matter from 'gray-matter';
 import { BlogType } from '@/type/blog';
-import { toDateString } from './utils';
+import { toDateString, todayJST } from './utils';
 
 const CONTENT_DIR = 'content';
 
@@ -36,10 +36,8 @@ export function getPostsOnDay(date?: Date | string): BlogType[] {
   try {
     const posts = getAllPosts();
     const targetDate = date
-      ? typeof date === 'string'
-        ? date
-        : toDateString(date)
-      : toDateString(new Date());
+      ? toDateString(typeof date === 'string' ? new Date(date) : date)
+      : toDateString(todayJST());
 
     return posts
       .filter((post) => toDateString(new Date(post.createdAt)) === targetDate)
