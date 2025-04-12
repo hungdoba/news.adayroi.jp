@@ -30,7 +30,7 @@ export default function PostCard({
           <div className="my-4 relative w-full aspect-video">
             <ExportedImage
               fill
-              src={`/images/${slug}.webp`}
+              src={`/images/thumbnails/${slug}.webp`}
               alt={title}
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               className="object-cover rounded"
