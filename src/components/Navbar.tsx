@@ -11,7 +11,7 @@ const Navbar = () => {
         </Link>
         <ul className="flex items-center space-x-2 md:space-x-4">
           <li>
-            <Link href="https://news.adayroi.jp">News</Link>
+            <Link href="https://jlpt.adayroi.jp">JLPT</Link>
           </li>
 
           <li className="h-4 border-r border-gray-500"></li>
