@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/d9130277946a1a06a5bcc0dc1c5a8f3fabbed195
 created_at: 2025-04-16 19:24:42
 ---
 
-
 # 3 người Việt bị truy tố tội trộm 2610kg dây đồng
 
-![](images/20250416_191506_894.webp)
+![](/images/20250416_191506_894.webp)
 
 Sở cảnh sát tỉnh Hyogo - Khu vực Nakayamadori 2, trung tâm thành phố Kobe
 

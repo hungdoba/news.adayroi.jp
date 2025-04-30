@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/a28d78f37afa6a8c7cd4c5c913b051fde3b05953
 created_at: 2025-04-16 06:37:42
 ---
 
-
 # Nhà báo, nhà phê bình Tokuoka Takawo qua đời ở tuổi 95
 
-![](images/20250416_063154_859.webp)
+![](/images/20250416_063154_859.webp)
 
 Ông Tokuoka Takawo (tháng 10 năm 2010, tại Yokohama)
 

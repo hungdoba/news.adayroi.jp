@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/fad4c476c183dc1d8191af6c1b7c012478bd5839
 created_at: 2025-04-15 17:58:54
 ---
 
-
 # Ngoại trưởng Mỹ: Sẽ có thỏa thuận lớn với Trung Quốc về thuế quan, đàm phán với Nhật Bản vào ngày 16
 
-![](images/20250415_174849_130.webp)
+![](/images/20250415_174849_130.webp)
 
 Ảnh: Bộ trưởng Tài chính Mỹ Scott Besant (phải) và Tổng thống Argentina Javier Milei (trái) tại buổi họp báo chung ở Buenos Aires, Argentina ngày 14/4/2025. (Ảnh: AFP)
 

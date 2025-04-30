@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/aa4ca6ce1888bc87896b0b882e6f529a14ebfc0b
 created_at: 2025-04-09 06:54:09
 ---
 
-
 # Cảnh sát Thái Lan bắt giữ nghi phạm lừa đảo người Nhật
 
-![](images/20250409_064841_686.webp)
+![](/images/20250409_064841_686.webp)
 
 Một người đàn ông được cho là chủ mưu của các nhóm lừa đảo hoạt động tại Campuchia và Việt Nam đã bị dẫn độ về Nhật Bản. [【Hình ảnh】“Hai tổ chức lừa đảo người Nhật hoạt động ngầm” Nghi phạm chủ mưu… Phỏng vấn quan chức cảnh sát Thái Lan đã bắt giữ](https://news.tv-asahi.co.jp/news_society/articles/photos/900022294.html) Đó là Yamaguchi Tetsuya (46 tuổi), cựu thành viên của Kanto Rengō, người đang điều hành một nhà hàng Nhật Bản tại Campuchia.
 

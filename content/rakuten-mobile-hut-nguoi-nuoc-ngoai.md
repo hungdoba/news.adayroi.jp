@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/716e70930d717a77dab3551703ee51e9ae1e9e9a
 created_at: 2025-04-16 06:37:42
 ---
 
-
 # Rakuten Mobile thu hút người nước ngoài nhờ "tiếng Nhật dễ hiểu"
 
-![](images/20250416_063145_194.webp)
+![](/images/20250416_063145_194.webp)
 
 Buổi họp báo của Rakuten Mobile dành cho giới truyền thông
 
@@ -60,10 +59,10 @@ Rakuten Mobile cũng đã quảng bá về việc tiết kiệm chi phí truyề
 
 Theo báo cáo của Tổ chức Du lịch Thế giới Liên hợp quốc (UNWTO), số lượng khách du lịch quốc tế đã quay trở lại mức trước đại dịch, và Rakuten Mobile cũng muốn thúc đẩy việc sử dụng dịch vụ ở nước ngoài.
 
-Với gói cước "Rakuten mạnh nhất" do Rakuten Mobile cung cấp, bạn có thể sử dụng tốc độ cao lên đến 2GB khi đi du lịch nước ngoài. Ví dụ, với Google Search, bạn có thể tìm kiếm khoảng 625 trang, với Google Maps khoảng 1000 lần, với email (khoảng 5KB/email) khoảng 200.000 email, với YouTube (450MB/giờ) khoảng 2,2 giờ xem video, mỗi hoạt động này tiêu tốn khoảng 1GB dung lượng.  Việc có thể làm điều này “hai lần” có nghĩa là 2GB cũng đủ dùng cho nhiều việc.
+Với gói cước "Rakuten mạnh nhất" do Rakuten Mobile cung cấp, bạn có thể sử dụng tốc độ cao lên đến 2GB khi đi du lịch nước ngoài. Ví dụ, với Google Search, bạn có thể tìm kiếm khoảng 625 trang, với Google Maps khoảng 1000 lần, với email (khoảng 5KB/email) khoảng 200.000 email, với YouTube (450MB/giờ) khoảng 2,2 giờ xem video, mỗi hoạt động này tiêu tốn khoảng 1GB dung lượng. Việc có thể làm điều này “hai lần” có nghĩa là 2GB cũng đủ dùng cho nhiều việc.
 
-Sau khi vượt quá 2GB, tốc độ sẽ giảm xuống (tối đa 128kbps) nhưng bạn vẫn có thể tiếp tục sử dụng dữ liệu mà không phải trả thêm phí.  Điều kiện là tốc độ sẽ giảm sau khi dùng đến một mức độ nhất định, nhưng bạn vẫn có thể dùng mà không phải trả thêm phí khi ở nước ngoài, đây là một điểm mạnh.
+Sau khi vượt quá 2GB, tốc độ sẽ giảm xuống (tối đa 128kbps) nhưng bạn vẫn có thể tiếp tục sử dụng dữ liệu mà không phải trả thêm phí. Điều kiện là tốc độ sẽ giảm sau khi dùng đến một mức độ nhất định, nhưng bạn vẫn có thể dùng mà không phải trả thêm phí khi ở nước ngoài, đây là một điểm mạnh.
 
-Đối với cuộc gọi thoại, nếu bạn sử dụng ứng dụng "Rakuten Link", bạn có thể gọi điện thoại miễn phí đến số điện thoại Nhật Bản ngay cả khi ở nước ngoài.  Mặc dù có một số khác biệt về tính năng giữa iOS và Android, nhưng nó rất tiện lợi khi liên lạc với gia đình và bạn bè trong nước.  Ngoài ra, bạn có thể sử dụng miễn phí mạng xã hội và trò chuyện Rakuten Link với nhau, cả ở Nhật Bản và nước ngoài.
+Đối với cuộc gọi thoại, nếu bạn sử dụng ứng dụng "Rakuten Link", bạn có thể gọi điện thoại miễn phí đến số điện thoại Nhật Bản ngay cả khi ở nước ngoài. Mặc dù có một số khác biệt về tính năng giữa iOS và Android, nhưng nó rất tiện lợi khi liên lạc với gia đình và bạn bè trong nước. Ngoài ra, bạn có thể sử dụng miễn phí mạng xã hội và trò chuyện Rakuten Link với nhau, cả ở Nhật Bản và nước ngoài.
 
 Nếu tốc độ bị giới hạn sau khi vượt quá 2GB là vấn đề, bạn có thể thuê bộ định tuyến Wi-Fi di động tại sân bay hoặc sử dụng SIM card của địa phương. Tuy nhiên, ông Nishiura cho biết người dùng Rakuten Mobile ở nước ngoài thường nhận xét rằng "không cần phải thay SIM card tại địa phương" và "không cần trả thêm phí nên rất yên tâm".

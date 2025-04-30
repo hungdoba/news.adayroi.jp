@@ -7,20 +7,19 @@ url: https://news.yahoo.co.jp/articles/90db2ad5183024bcbff4206342815f5d7b643fb2
 created_at: 2025-04-18 06:42:01
 ---
 
-
 # Tưởng nhớ cựu Phó Ngoại trưởng Mỹ Richard Armitage: Sự ra đi của một người bạn Nhật Bản
 
-![](images/20250418_063503_760.webp)
+![](/images/20250418_063503_760.webp)
 
 Richard Armitage (AP/Afro)
 
 Richard Armitage, cựu Phó Ngoại trưởng Mỹ, một nhân vật thân Nhật Bản hàng đầu trong giới ngoại giao Mỹ, đã qua đời vào ngày 13 tháng 4. Ông đã nỗ lực không ngừng để nâng tầm mối quan hệ Nhật - Mỹ thành một liên minh hiệu quả, chứ không chỉ là khẩu hiệu suông, và đã gián tiếp thúc đẩy sự thay đổi chính sách an ninh quốc phòng của Nhật Bản, như việc chấp nhận quyền tự vệ tập thể.
 
-Thời điểm này, Tổng thống Trump liên tục bày tỏ sự bất mãn và chỉ trích Nhật Bản.  Trong bối cảnh một nhà lãnh đạo thiếu hiểu biết liên tục đưa ra những phát ngôn ngớ ngẩn, mối lo ngại về việc liên minh Nhật - Mỹ sẽ trôi dạt khi mất đi một nhân vật có trọng lượng như ông Armitage là không nhỏ.
+Thời điểm này, Tổng thống Trump liên tục bày tỏ sự bất mãn và chỉ trích Nhật Bản. Trong bối cảnh một nhà lãnh đạo thiếu hiểu biết liên tục đưa ra những phát ngôn ngớ ngẩn, mối lo ngại về việc liên minh Nhật - Mỹ sẽ trôi dạt khi mất đi một nhân vật có trọng lượng như ông Armitage là không nhỏ.
 
 ## Mong muốn mạnh mẽ về sửa đổi Điều 9 Hiến pháp
 
-Tại Nhật Bản, nhiều lời tiếc thương đã được gửi đến sau khi ông Armitage qua đời.  Thủ tướng Kishida Fumio đã bày tỏ lời chia buồn trang trọng, dù mang tính hình thức, rằng: “Tôi bày tỏ lòng kính trọng đối với những đóng góp của ông trong việc tăng cường liên minh Nhật - Mỹ với kiến thức sâu rộng và cầu nguyện cho linh hồn ông được yên nghỉ.”
+Tại Nhật Bản, nhiều lời tiếc thương đã được gửi đến sau khi ông Armitage qua đời. Thủ tướng Kishida Fumio đã bày tỏ lời chia buồn trang trọng, dù mang tính hình thức, rằng: “Tôi bày tỏ lòng kính trọng đối với những đóng góp của ông trong việc tăng cường liên minh Nhật - Mỹ với kiến thức sâu rộng và cầu nguyện cho linh hồn ông được yên nghỉ.”
 
 Tôi đã có cuộc phỏng vấn riêng với ông Armitage khi ông còn là Phó Ngoại trưởng trong nhiệm kỳ đầu tiên của chính quyền Bush (con) vào tháng 8 năm 2004. Ông đã nhấn mạnh cam kết bảo vệ Nhật Bản là tuyệt đối, đồng thời chỉ ra điểm yếu thiếu sự tương hỗ trong mối quan hệ: “Điều 9 Hiến pháp Nhật Bản là một ràng buộc đối với sự hợp tác (giữa Nhật - Mỹ). Nếu tàu chiến Mỹ bị tấn công, Nhật Bản sẽ không giúp đỡ. Đó là một chiều.”
 

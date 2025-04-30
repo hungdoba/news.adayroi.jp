@@ -7,39 +7,37 @@ url: https://news.yahoo.co.jp/articles/fd03c44e2430e80a47fbfb04a87c81f76d23f14d
 created_at: 2025-04-06 14:28:55
 ---
 
-
 # Người nước ngoài cư trú bất hợp pháp: Tội phạm hay nạn nhân?
 
-
-![](images/20250406_142254_545.webp)
+![](/images/20250406_142254_545.webp)
 
 Một phụ nữ cư trú bất hợp pháp rời khỏi phòng – Tháng 2 năm 2025, thành phố Kiryū, tỉnh Gunma
 
-![](images/20250406_142254_898.webp)
+![](/images/20250406_142254_898.webp)
 
 Một người đàn ông Philippines bị bắt giữ bởi cảnh sát tỉnh Gunma – Tháng 2 năm 2025, thành phố Kiryū, tỉnh Gunma
 
-![](images/20250406_142255_287.webp)
+![](/images/20250406_142255_287.webp)
 
 Cảnh sát tỉnh Gunma và nhân viên Cục Quản lý Xuất nhập cảnh đang họp trước khi bắt giữ người cư trú bất hợp pháp – Tháng 2 năm 2025, thành phố Kiryū, tỉnh Gunma
 
-![](images/20250406_142255_625.webp)
+![](/images/20250406_142255_625.webp)
 
 Chùa Đại Ân, nơi trú ẩn cho người Việt Nam gặp khó khăn tại Nhật Bản – Tháng 12 năm 2024, thành phố Honjō, tỉnh Saitama
 
-![](images/20250406_142256_062.webp)
+![](/images/20250406_142256_062.webp)
 
 Sư trụ trì Tích Tâm Chí của chùa Đại Ân – Tháng 12 năm 2024, thành phố Honjō, tỉnh Saitama
 
-![](images/20250406_142256_490.webp)
+![](/images/20250406_142256_490.webp)
 
 Sư trụ trì Tích Tâm Chí trò chuyện với các Phật tử – Tháng 12 năm 2024
 
-![](images/20250406_142256_834.webp)
+![](/images/20250406_142256_834.webp)
 
 Văn bản yêu cầu của Nghị viện Châu Âu. Yêu cầu không sử dụng thuật ngữ người nhập cư bất hợp pháp, mà thay vào đó là người lao động không đăng ký/bất hợp lệ.
 
-![](images/20250406_142257_085.webp)
+![](/images/20250406_142257_085.webp)
 
 Tờ rơi của Mạng lưới Hỗ trợ Người nhập cư
 
@@ -93,7 +91,7 @@ Từ năm 2020, trong thời kỳ đại dịch, sư Chí đã kêu gọi hỗ t
 
 Hiện nay, vẫn có nhiều người đến chùa để xin lời khuyên vì nhiều lý do khác nhau, chẳng hạn như sảy thai hoặc bị bắt nạt ở nơi làm việc. Sư Chí kể về câu chuyện của một phụ nữ 20 tuổi mà ông mới cứu giúp cách đây vài ngày.
 
-Người phụ nữ này đến Nhật Bản vào năm 2022 với tư cách thực tập sinh kỹ năng. Năm 2024, khi đang làm việc tại một nhà máy ở tỉnh Saitama, cô bị máy ép kẹp đứt một tay. Cô bị nhà máy sa thải đột ngột và không được bồi thường chi phí điều trị hoặc tiền bồi thường. 
+Người phụ nữ này đến Nhật Bản vào năm 2022 với tư cách thực tập sinh kỹ năng. Năm 2024, khi đang làm việc tại một nhà máy ở tỉnh Saitama, cô bị máy ép kẹp đứt một tay. Cô bị nhà máy sa thải đột ngột và không được bồi thường chi phí điều trị hoặc tiền bồi thường.
 
 Cô đã phải trả một khoản phí môi giới khổng lồ cho một công ty môi giới việc làm ở Việt Nam và đang mắc nợ. Thời hạn cư trú của cô hết hạn vào tháng 12 năm 2024. Cô có một đứa con 8 tuổi ở Việt Nam, nhưng vì nợ nần, cô đã than thở với sư Chí rằng “không muốn về nước”.
 

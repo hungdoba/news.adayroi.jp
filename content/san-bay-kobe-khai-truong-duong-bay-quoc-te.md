@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/208aaa94010327bcd8817fead2957193b4e980ac
 created_at: 2025-04-19 14:47:41
 ---
 
-
 # Sân bay Kobe khai trương đường bay quốc tế: Các chuyến bay đầu tiên gần như kín chỗ
 
-![](images/20250419_144555_125.webp)
+![](/images/20250419_144555_125.webp)
 
 Máy bay của Starlux Airlines (phía trước) và Korean Air đã hạ cánh xuống sân bay Kobe. Phía xa bên trái là máy bay của Skymark Airlines = Sáng ngày 18, khu vực trung tâm thành phố Kobe (Ảnh: Jiro Kasahara)
 

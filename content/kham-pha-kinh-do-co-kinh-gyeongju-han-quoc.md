@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/532c24a171efef4578a9aabd95474b28ae06f62a
 created_at: 2025-04-22 21:30:18
 ---
 
-
 # Khám phá kinh đô cổ kính Gyeongju của Hàn Quốc
 
-![](images/20250422_212111_544.webp)
+![](/images/20250422_212111_544.webp)
 
 Đông Cung và Nguyệt Trì với các cặp đôi đang tận hưởng vẻ đẹp của hoa anh đào vào ban đêm
 
@@ -51,7 +50,7 @@ Tháp đã bị người Nhật Bản tháo dỡ và tu sửa lại trong nhữn
 
 ## Nguyệt Trì và Đông Cung: Vẻ đẹp huyền ảo về đêm
 
-Điểm nhấn của chuyến đi là Nguyệt Trì (Wolji) – hồ nhân tạo lớn nhất thời Silla, cùng với Đông Cung – cung điện phụ của hoàng gia.  Vẻ đẹp lung linh huyền ảo của cảnh đêm nơi đây thật khó quên.
+Điểm nhấn của chuyến đi là Nguyệt Trì (Wolji) – hồ nhân tạo lớn nhất thời Silla, cùng với Đông Cung – cung điện phụ của hoàng gia. Vẻ đẹp lung linh huyền ảo của cảnh đêm nơi đây thật khó quên.
 
 Truyền thuyết kể rằng Vua Văn Vũ đã cho đào hồ rộng khoảng 200 mét cả chiều dài và chiều rộng để mừng chiến thắng thống nhất Tam Quốc, và cho xây dựng đảo, núi, trồng cây hoa và nuôi chim thú. Các quý tộc thường tổ chức tiệc trên thuyền, thưởng ngoạn ánh trăng phản chiếu trên mặt nước.
 

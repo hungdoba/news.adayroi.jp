@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/7b5ff8d7600877b551a63af89fd48a93793798ad
 created_at: 2025-04-10 18:13:21
 ---
 
-
 # Mỹ-Việt Nam đồng ý đàm phán thỏa thuận thương mại
 
-![](images/20250410_180400_774.webp)
+![](/images/20250410_180400_774.webp)
 
 Hình ảnh: Đại diện Thương mại Hoa Kỳ (USTR) Katherine Tai. Ảnh chụp ngày 8 tháng 4 tại Washington (Reuters/Kevin Mohatt, 2025)
 

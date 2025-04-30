@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/1c38c0cddbb8a811c98f4dae92c1b93e187409f1
 created_at: 2025-04-25 18:06:15
 ---
 
-
 # TOEIC vô dụng khi du lịch nước ngoài?
 
-![](images/20250425_175931_113.webp)
+![](/images/20250425_175931_113.webp)
 
 ※Hình ảnh chỉ mang tính minh họa - Ảnh = iStock.com／tupungato
 
@@ -66,7 +65,7 @@ Một AI khác là trò chơi nhập vai hội thoại tiếng Anh sử dụng C
 
 Với tính năng "Advanced Voice Mode" được tích hợp từ mùa thu năm ngoái, nó trở nên mạnh mẽ hơn nữa. Bạn có thể thực hiện trò chơi nhập vai hội thoại tự nhiên như thể đang nói chuyện với người bản xứ.
 
-Bạn có thể kiểm tra xem tiếng Anh của mình được hiểu đến mức độ nào, và nhờ AI không cần phải khách sáo nên bạn có thể cứ hỏi đi hỏi lại cho đến khi hiểu rõ nghĩa.  Bạn có thể vừa trò chuyện vừa học tiếng Anh. Bạn có thể trải nghiệm phương pháp học tiếng Anh tiên tiến này.
+Bạn có thể kiểm tra xem tiếng Anh của mình được hiểu đến mức độ nào, và nhờ AI không cần phải khách sáo nên bạn có thể cứ hỏi đi hỏi lại cho đến khi hiểu rõ nghĩa. Bạn có thể vừa trò chuyện vừa học tiếng Anh. Bạn có thể trải nghiệm phương pháp học tiếng Anh tiên tiến này.
 
 Có rất nhiều ứng dụng học tiếng Anh tích hợp AI. Ví dụ như "ELSA Speak", "Speak", "Speak buddy" là những ứng dụng học tiếng Anh tích hợp AI. Ứng dụng này có chức năng kiểm tra phát âm của người dùng và chỉ ra điểm yếu, hỗ trợ việc luyện tập nói, một kỹ năng mà người Nhật thường gặp khó khăn.
 
@@ -92,7 +91,7 @@ Mặt khác, kể từ sau đại dịch, nhiều cơ sở như bảo tàng đã
 
 Đặc biệt, tôi thấy rất tiện lợi khi có thể đặt chỗ, chỉ định điểm đến và thanh toán tất cả chỉ bằng ứng dụng điện thoại thông minh như Uber và Grab. Sự phổ biến của dịch vụ chia sẻ xe đã số hóa đã giúp loại bỏ được những lo lắng về việc phải thương lượng điểm đến và tuyến đường với tài xế, hay bị tính phí taxi không chính xác, bị chặt chém tại sân bay.
 
-Điện thoại thông minh hỗ trợ chuyến đi. Điều cần lưu ý là trộm cắp và mất mát. Tôi cũng từng nghe nói có trường hợp người ta bị đánh cắp điện thoại khi đưa điện thoại cho người khác chụp ảnh.  Việc mất điện thoại thông minh sẽ ảnh hưởng đến tất cả mọi thứ từ dịch thuật, thanh toán đến liên lạc khẩn cấp, nếu mất đi nó bạn sẽ không thể di chuyển được. Thông tin cá nhân của bạn cũng có thể bị rò rỉ hoặc bạn có thể gặp nguy hiểm.
+Điện thoại thông minh hỗ trợ chuyến đi. Điều cần lưu ý là trộm cắp và mất mát. Tôi cũng từng nghe nói có trường hợp người ta bị đánh cắp điện thoại khi đưa điện thoại cho người khác chụp ảnh. Việc mất điện thoại thông minh sẽ ảnh hưởng đến tất cả mọi thứ từ dịch thuật, thanh toán đến liên lạc khẩn cấp, nếu mất đi nó bạn sẽ không thể di chuyển được. Thông tin cá nhân của bạn cũng có thể bị rò rỉ hoặc bạn có thể gặp nguy hiểm.
 
 Vì vậy, tôi khuyên bạn nên mang theo hai chiếc điện thoại thông minh. Trong chuyến đi, đừng mang theo điện thoại thông minh thường ngày mà hãy sử dụng điện thoại thông minh rẻ tiền đã thêm eSIM làm máy chuyên dụng để dịch thuật và chụp ảnh. Hiện nay, điện thoại thông minh là mục tiêu của những kẻ móc túi trên khắp thế giới. Đừng để điện thoại trong ba lô hoặc túi quần sau, hãy cẩn thận mang theo.
 

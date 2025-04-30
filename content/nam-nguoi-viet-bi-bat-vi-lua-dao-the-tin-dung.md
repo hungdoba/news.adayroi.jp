@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/38c0dd084aaa39292778cbd7108a29d38d8d2abc
 created_at: 2025-04-19 09:18:51
 ---
 
-
 # Nam người Việt bị bắt vì lừa đảo thẻ tín dụng
 
-![](images/20250419_091318_897.webp)
+![](/images/20250419_091318_897.webp)
 
 Trụ sở sở cảnh sát tỉnh Hyogo - Khu vực Nakayamadori 2, thành phố Kobe
 
@@ -19,7 +18,7 @@ Ngày 18 tháng 4, Cảnh sát tỉnh Hyogo, Cục điều tra mạng và đồn
 Vụ việc liên quan đến nghi phạm đã cấu kết với người khác để sử dụng thông tin thẻ tín dụng của một phụ nữ 50 tuổi ở tỉnh Osaka, đăng ký vào dịch vụ thanh toán điện tử và mua thuốc lá, bia lon và hai mặt hàng khác (tổng cộng 1033 yên) tại một cửa hàng tiện lợi ở thành phố Toda, tỉnh Saitama vào ngày 17 tháng 2.
 Trong quá trình điều tra, nghi phạm đã giữ im lặng.
 
-Theo Cục điều tra mạng, nghi phạm đã liên lạc với kẻ chủ mưu thông qua nhóm chat trên ứng dụng nhắn tin mã hóa cao “Telegram”.  Trong nhóm chat này, ít nhất khoảng 200 số thẻ tín dụng đã được tìm thấy.
+Theo Cục điều tra mạng, nghi phạm đã liên lạc với kẻ chủ mưu thông qua nhóm chat trên ứng dụng nhắn tin mã hóa cao “Telegram”. Trong nhóm chat này, ít nhất khoảng 200 số thẻ tín dụng đã được tìm thấy.
 
 Cục điều tra mạng cho rằng, theo sự chỉ dẫn của kẻ chủ mưu, nghi phạm đã sử dụng các số thẻ tín dụng trong nhóm chat để đăng ký thông tin thẻ vào tài khoản dịch vụ thanh toán điện tử và mua hàng. Người phụ nữ bị sử dụng thẻ tín dụng trái phép cho biết bà không hề hay biết gì về vụ việc.
 

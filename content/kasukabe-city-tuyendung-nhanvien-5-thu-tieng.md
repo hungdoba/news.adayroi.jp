@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/b55603ee532db968fa3daf8132ddeee887fa185c
 created_at: 2025-04-24 18:06:07
 ---
 
-
 # Thành phố Kasukabe tuyển dụng nhân viên nói được 5 thứ tiếng để hỗ trợ người nước ngoài
 
-![](images/20250424_175919_247.webp)
+![](/images/20250424_175919_247.webp)
 
-*Tại quầy thông tin tổng hợp tầng 1*
+_Tại quầy thông tin tổng hợp tầng 1_
 
 Từ tháng 4, thành phố Kasukabe đã tuyển dụng 3 người nước ngoài có thể nói tiếng Việt, Trung Quốc, Anh, Thổ Nhĩ Kỳ và Pháp. (Theo Nhật báo Kinh tế Kasukabe) [【Ảnh】Không chỉ hướng dẫn, còn dịch thuật nữa](https://kasukabe.keizai.biz/photoflash/3314/)
 

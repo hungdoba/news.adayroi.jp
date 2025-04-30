@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/5104c84b0cf55c06bb6c844272667d6c41d207d5
 created_at: 2025-04-19 09:18:51
 ---
 
-
 # Nam người Việt bị truy tố tội lừa đảo
 
-![](images/20250419_091326_203.webp)
+![](/images/20250419_091326_203.webp)
 
 Một người đàn ông 26 tuổi mang quốc tịch Việt Nam đã bị truy tố ngày 18 tháng 4 vì tội trộm cắp tiền do lừa đảo mà có, sử dụng hơn 60 thẻ ATM bị đánh cắp. Cảnh sát đã công bố ảnh các tang vật thu giữ gồm hơn 60 thẻ ATM, điện thoại thông minh và hơn 50 triệu yên tiền mặt.
 
-Người đàn ông, sống tại khu vực Koto, Tokyo, bị tình nghi đã sử dụng 46 thẻ ATM do người khác sở hữu một cách bất hợp pháp để rút khoảng 28,14 triệu yên từ các máy ATM tại các cửa hàng tiện lợi ở Yokohama, tỉnh Kanagawa, từ ngày 30 tháng 11 đến ngày 1 tháng 12 năm 2024.  Anh ta bị buộc tội trộm cắp.
+Người đàn ông, sống tại khu vực Koto, Tokyo, bị tình nghi đã sử dụng 46 thẻ ATM do người khác sở hữu một cách bất hợp pháp để rút khoảng 28,14 triệu yên từ các máy ATM tại các cửa hàng tiện lợi ở Yokohama, tỉnh Kanagawa, từ ngày 30 tháng 11 đến ngày 1 tháng 12 năm 2024. Anh ta bị buộc tội trộm cắp.
 
 Trong quá trình điều tra, người đàn ông khai nhận: "Tôi là người đã rút toàn bộ số tiền. Tôi không biết đó là tiền lừa đảo". Như vậy, anh ta chỉ thừa nhận một phần tội danh.
 

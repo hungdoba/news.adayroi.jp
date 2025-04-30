@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/7a2278d77698b292904a5d5c40402f758eb6a6b0
 created_at: 2025-04-06 07:12:49
 ---
 
-
 # Trump: Việt Nam sẵn sàng loại bỏ thuế nhập khẩu hàng hóa Mỹ
 
-![](images/20250406_070251_417.webp)
+![](/images/20250406_070251_417.webp)
 
 Tổng thống Mỹ Donald Trump cho biết trên mạng xã hội rằng Tổng Bí thư Nguyễn Phú Trọng, người đứng đầu Việt Nam, đã bày tỏ sự sẵn sàng loại bỏ thuế đối với các sản phẩm của Mỹ. Điều này nhằm mục đích tránh các mức thuế mới, cứng rắn hơn từ phía Mỹ.
 

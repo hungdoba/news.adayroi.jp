@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/9dd4d6aa388ef5ddc6098a5a559884a6396a93c9
 created_at: 2025-04-15 17:58:54
 ---
 
-
 # Chủ tịch Tập Cận Bình thăm Việt Nam, kêu gọi chống lại "sự bắt nạt đơn phương" giữa chiến tranh thương mại Mỹ - Trung
 
-![](images/20250415_174836_381.webp)
+![](/images/20250415_174836_381.webp)
 
-*Chủ tịch nước Trung Quốc Tập Cận Bình vẫy tay tại Việt Nam - ngày 14 tháng 4*
+_Chủ tịch nước Trung Quốc Tập Cận Bình vẫy tay tại Việt Nam - ngày 14 tháng 4_
 
 Hồng Kông (CNN) - Chủ tịch Trung Quốc Tập Cận Bình đã kêu gọi Việt Nam cùng nhau chống lại "sự bắt nạt đơn phương" và kiên trì bảo vệ thương mại tự do và cởi mở. Ông Tập đang cố gắng định vị Trung Quốc là đối tác ổn định, trái ngược với Mỹ, khi bắt đầu chuyến thăm các quốc gia châu Á, nơi ngành công nghiệp xuất khẩu đóng vai trò quan trọng trong nền kinh tế.
 

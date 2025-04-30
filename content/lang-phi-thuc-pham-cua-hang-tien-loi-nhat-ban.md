@@ -7,20 +7,19 @@ url: https://news.yahoo.co.jp/articles/fc296bea3176a416c5539e1813e87ee744deccb7
 created_at: 2025-04-07 20:04:06
 ---
 
-
 # Thực trạng đáng báo động: Lãng phí thực phẩm khổng lồ tại cửa hàng tiện lợi Nhật Bản
 
-![](images/20250407_195332_805.webp)
+![](/images/20250407_195332_805.webp)
 
 Gạo Nhật Bản - Hình ảnh do Trung tâm Sinh thái Thực phẩm Nhật Bản cung cấp
 
-Trong bối cảnh thiếu gạo đang diễn ra, thực phẩm đang bị vứt bỏ với số lượng lớn tại một số nơi, điển hình là các cửa hàng tiện lợi. Nhà báo Ide Rumi cho biết: "Một lượng thực phẩm khổng lồ đang bị vứt bỏ mỗi năm. Tính trung bình mỗi cửa hàng là 4.68 triệu yên, chỉ riêng các cửa hàng tiện lợi lớn đã lên tới khoảng 269.2 tỷ yên."  [【Biểu đồ】Vì sao không thể nào sinh lời… Cơ chế kinh doanh cửa hàng tiện lợi gây khó khăn cho chủ cửa hàng](https://president.jp/articles/photo/93878?pn=2&cx_referrertype=yahoo&yhref=20250407-00093878-president-soci)  ※Bài viết này trích dẫn và biên tập lại một phần nội dung từ sách "Chúng ta đang vứt bỏ cái gì?" (chủ biên Ide Rumi) của nhà xuất bản Chikuma.
+Trong bối cảnh thiếu gạo đang diễn ra, thực phẩm đang bị vứt bỏ với số lượng lớn tại một số nơi, điển hình là các cửa hàng tiện lợi. Nhà báo Ide Rumi cho biết: "Một lượng thực phẩm khổng lồ đang bị vứt bỏ mỗi năm. Tính trung bình mỗi cửa hàng là 4.68 triệu yên, chỉ riêng các cửa hàng tiện lợi lớn đã lên tới khoảng 269.2 tỷ yên." [【Biểu đồ】Vì sao không thể nào sinh lời… Cơ chế kinh doanh cửa hàng tiện lợi gây khó khăn cho chủ cửa hàng](https://president.jp/articles/photo/93878?pn=2&cx_referrertype=yahoo&yhref=20250407-00093878-president-soci) ※Bài viết này trích dẫn và biên tập lại một phần nội dung từ sách "Chúng ta đang vứt bỏ cái gì?" (chủ biên Ide Rumi) của nhà xuất bản Chikuma.
 
 ## Tâm tư của chủ cửa hàng tiện lợi
 
 Cuối năm 2022, một chủ cửa hàng tiện lợi đã đăng tải trên mạng xã hội như sau:
 
-"Chi phí bỏ phí hàng năm của cửa hàng tôi là 4,8 triệu yên. Mặc dù vậy, tùy theo khung giờ, kệ hàng vẫn trống trơn. Tôi đã giảm thiểu lượng bỏ phí khá nhiều so với trước đây, nhưng đây vẫn là thực tế. Khó khăn quá. Nếu giảm nhiều hơn nữa thì kệ hàng sẽ càng trống." 
+"Chi phí bỏ phí hàng năm của cửa hàng tôi là 4,8 triệu yên. Mặc dù vậy, tùy theo khung giờ, kệ hàng vẫn trống trơn. Tôi đã giảm thiểu lượng bỏ phí khá nhiều so với trước đây, nhưng đây vẫn là thực tế. Khó khăn quá. Nếu giảm nhiều hơn nữa thì kệ hàng sẽ càng trống."
 
 Bài đăng vào ngày hôm sau có nội dung: "Mùng 1 Tết, tình hình hoàn toàn khác so với dữ liệu năm trước. Soba đón giao thừa nằm la liệt trên kệ hàng."
 
@@ -66,7 +65,7 @@ Lý do tôi vẫn tiếp tục hoạt động giảm thiểu lãng phí thực p
 
 Ông Imamo Haruki, đại diện của tổ chức phi lợi nhuận POSSE, một tổ chức tham gia hơn 5.000 cuộc tư vấn về lao động và cuộc sống mỗi năm, cho biết kể từ năm 2022, ông nhận được rất nhiều cuộc gọi tư vấn từ các sinh viên làm thêm nói rằng "việc bỏ phí thực phẩm quá khổ sở nên tôi đã nghỉ việc". Theo một cuộc khảo sát do tổ chức này tiến hành vào mùa thu năm 2022, có tới 40% số người nghỉ việc vì căng thẳng do công việc bỏ phí thực phẩm. Thậm chí có người còn bị trầm cảm.
 
-Tôi đã từng phỏng vấn một phụ nữ người Việt Nam làm việc tại một cửa hàng tiện lợi lớn. Cô ấy vừa học thạc sĩ vừa làm thêm tại hai trong số ba cửa hàng tiện lợi lớn. Trong suốt cuộc phỏng vấn, cô ấy rất điềm tĩnh, nhưng khi nói về việc bỏ phí thực phẩm, cô ấy đã mạnh mẽ nói rằng: "Thật lãng phí! Thật lãng phí quá!" Cô ấy nói rằng ở Việt Nam cô chưa từng thấy việc lãng phí thực phẩm như vậy. 
+Tôi đã từng phỏng vấn một phụ nữ người Việt Nam làm việc tại một cửa hàng tiện lợi lớn. Cô ấy vừa học thạc sĩ vừa làm thêm tại hai trong số ba cửa hàng tiện lợi lớn. Trong suốt cuộc phỏng vấn, cô ấy rất điềm tĩnh, nhưng khi nói về việc bỏ phí thực phẩm, cô ấy đã mạnh mẽ nói rằng: "Thật lãng phí! Thật lãng phí quá!" Cô ấy nói rằng ở Việt Nam cô chưa từng thấy việc lãng phí thực phẩm như vậy.
 
 Việc buộc phải bỏ phí thực phẩm như vậy tại nơi làm thêm sẽ gây ra căng thẳng cho người nước ngoài đang làm việc tại các cửa hàng tiện lợi và có thể làm ảnh hưởng đến ấn tượng của họ về Nhật Bản. Tôi đã từng hỏi một cán bộ cấp cao của trụ sở chính một cửa hàng tiện lợi lớn: "Số lượng người nước ngoài làm việc tại các cửa hàng tiện lợi đang tăng lên, vậy việc để họ bỏ phí một lượng lớn thực phẩm vẫn còn ăn được có phải là vấn đề không?" nhưng tôi không nhận được câu trả lời rõ ràng.
 

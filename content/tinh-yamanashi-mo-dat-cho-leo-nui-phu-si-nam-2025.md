@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/a17f802f893f7198885c28bbd6ddb8177ed09ae1
 created_at: 2025-04-22 06:40:05
 ---
 
-
 # Tỉnh Yamanashi mở đặt chỗ leo núi Phú Sĩ đường Yoshida năm 2025
 
-![](images/20250422_063731_275.webp)
+![](/images/20250422_063731_275.webp)
 
 Núi Phú Sĩ mùa hè
 

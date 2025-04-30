@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/5816c8da703b72bffaa1402ebef61e29f283529e
 created_at: 2025-04-18 18:28:34
 ---
 
-
 # KAMEREO INTERNATIONAL mở rộng sản phẩm nhãn hiệu riêng (PB) và dịch vụ logistics để chuẩn bị cho sự tăng trưởng kinh doanh
 
-![](images/20250418_182044_549.webp)
+![](/images/20250418_182044_549.webp)
 
 Hình ảnh sản phẩm nhãn hiệu riêng (PB)
 

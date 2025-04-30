@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/65d4b3172cfa9b5b020688cc794f85b15da50270
 created_at: 2025-04-10 18:13:21
 ---
 
-
 # Chon Il: Tình yêu dành cho fan tại sự kiện Nhật Bản
 
-![](images/20250410_180407_779.webp)
+![](/images/20250410_180407_779.webp)
 
 (Ảnh: Chosun Online phiên bản tiếng Nhật)
 

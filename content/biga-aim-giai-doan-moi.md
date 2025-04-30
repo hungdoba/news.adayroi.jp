@@ -7,18 +7,17 @@ url: https://news.yahoo.co.jp/articles/73fb3fa33e6bfc35065f2143401598706a89585e
 created_at: 2025-04-26 19:38:58
 ---
 
-
 # Bi ga Aim (38 tuổi): Điều tôi không bao giờ thay đổi dù có chuyển sân khấu
 
-![](images/20250426_193532_446.webp)
+![](/images/20250426_193532_446.webp)
 
-©黄瀬麻以
+© 黄瀬麻以
 
 **(Tiếp theo từ bài viết: “Gần đây tôi không còn cố tỏ ra mạnh mẽ nữa”, Bi ga Aim (38 tuổi) đã cởi mở hơn và trân trọng “giác quan” này: “Cội nguồn của tôi nằm ở Okinawa…”)** [【Hình ảnh】“Gần đây tôi không còn cố tỏ ra mạnh mẽ nữa”, xem loạt ảnh của Bi ga Aim (38 tuổi)](https://bunshun.jp/articles/photo/78451?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&pn=2)
 
 Bi ga Aim đã xuất hiện lần thứ 8 trong mục “Sổ tay sắc đẹp nguyên bản” trên tạp chí “Shukan Bunshun” số ra ngày 17 tháng 4 năm 2025. Vào ngày 24 tháng 3 vừa qua, cô ấy đã công bố việc gia nhập công ty giải trí “Content Three”, đánh dấu một bước ngoặt lớn trong sự nghiệp. Sau 20 năm hoạt động nghệ thuật, cô ấy cuối cùng đã tìm thấy được “bản thân mình”? Chúng tôi đã lắng nghe những chia sẻ về thái độ mềm mại nhưng kiên định của cô ấy: “Tôi không muốn nịnh nọt hay cố gắng làm hài lòng ai cả”. (Phần 3/3)
 
-##  “Bản thân tôi” mà tôi luôn trân trọng
+## “Bản thân tôi” mà tôi luôn trân trọng
 
 ——Trong lời độc thoại ở tập cuối của “Forest”, Kae nói: “Tôi sẽ không nói dối trái tim mình nữa”. Chắc hẳn đây cũng là nguyên tắc bất di bất dịch của chị Bi ga phải không ạ?
 

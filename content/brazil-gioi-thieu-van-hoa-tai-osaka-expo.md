@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/20cb3635a4c4b98223ac177d9afcfc1227481cc4
 created_at: 2025-04-26 19:38:58
 ---
 
-
 # Brazil giới thiệu văn hóa tại Triển lãm Thế giới Osaka
 
-![](images/20250426_193536_531.webp)
+![](/images/20250426_193536_531.webp)
 
-Hình ảnh các thành viên dự án *Construir Artel* khởi động bằng bài tập thể dục buổi sáng tại địa điểm triển lãm.
+Hình ảnh các thành viên dự án _Construir Artel_ khởi động bằng bài tập thể dục buổi sáng tại địa điểm triển lãm.
 
 Theo thông cáo báo chí của Cơ quan xúc tiến thương mại và đầu tư Brazil (Apex Brazil), ngày 21 tháng 6, tại khu vực EXPO Arena “MATSURI”, một điệu nhảy truyền thống của lễ hội Festa Junina của Brazil có tên là “quadrilha” đã được biểu diễn. Nhóm người Nhật gốc Brazil “Dự án Construir Artel” đóng trụ sở tại Osaka, cùng với phụ huynh và học sinh của họ, đã được mời tham gia sự kiện “Tsunagu (Kết nối)” nhằm mục đích kết nối mọi người.
 

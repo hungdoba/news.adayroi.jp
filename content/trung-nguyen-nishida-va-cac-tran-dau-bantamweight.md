@@ -7,16 +7,15 @@ url: https://news.yahoo.co.jp/articles/73ac9fc49754ec60ba771b649d067078e86117f6
 created_at: 2025-04-18 18:28:34
 ---
 
-
 # Trung Nguyen vs. Nishida và các trận đấu Bantamweight đáng chú ý tại Sân vận động Ariake Colosseum ngày 8 tháng 6
 
-![](images/20250418_182047_919.webp)
+![](/images/20250418_182047_919.webp)
 
 Ngày 24 tháng 2, Trung Nguyen (bên phải) đã giành chiến thắng bằng KO và nở nụ cười khi nhận được lời chúc mừng từ Nishida
 
-Ngày 18, phòng tập quyền anh帝拳 (Teiken) đã thông báo rằng chương trình quyền anh chuyên nghiệp "Prime Video Boxing13" sẽ được tổ chức tại Sân vận động Ariake Colosseum, Tokyo vào ngày 8 tháng 6.  Nhà vô địch WBC hạng Bantamweight, Trung Nguyen (27 tuổi) = M・T =, và nhà vô địch IBF, Nishida Ryosuke (28 tuổi) = Rokushima =, sẽ đối đầu trong trận đấu thống nhất hai chiếc đai vô địch. Đây là trận đấu bảo vệ đai lần thứ 4 của Trung Nguyen và lần thứ 2 của Nishida.
+Ngày 18, phòng tập quyền anh 帝拳 (Teiken) đã thông báo rằng chương trình quyền anh chuyên nghiệp "Prime Video Boxing13" sẽ được tổ chức tại Sân vận động Ariake Colosseum, Tokyo vào ngày 8 tháng 6. Nhà vô địch WBC hạng Bantamweight, Trung Nguyen (27 tuổi) = M・T =, và nhà vô địch IBF, Nishida Ryosuke (28 tuổi) = Rokushima =, sẽ đối đầu trong trận đấu thống nhất hai chiếc đai vô địch. Đây là trận đấu bảo vệ đai lần thứ 4 của Trung Nguyen và lần thứ 2 của Nishida.
 
-Hai võ sĩ đã hứa sẽ đối đầu nhau trong buổi phỏng vấn sau trận thắng của Trung Nguyen (ngày 24 tháng 2, Sân vận động Ariake, Tokyo).  Ngày 14 tháng 4, trong buổi phỏng vấn tại Tokyo, Trung Nguyen đã nói về Nishida: "Đây là một võ sĩ có khả năng thực hiện chiến thuật cao. Tôi muốn đối đầu và cảm nhận anh ấy".  Để chuẩn bị cho trận đấu với nhà vô địch thống nhất 4 tổ chức hạng Super Bantamweight, Inoue Naoya (32 tuổi) = Ohashi =, dự kiến ​​diễn ra tại Tokyo Dome vào mùa xuân năm sau, một trận đấu được xem là "trận đấu vĩ đại nhất giữa các võ sĩ Nhật Bản", đây có thể là trận đấu thống nhất cuối cùng của Trung Nguyen ở hạng Bantamweight.
+Hai võ sĩ đã hứa sẽ đối đầu nhau trong buổi phỏng vấn sau trận thắng của Trung Nguyen (ngày 24 tháng 2, Sân vận động Ariake, Tokyo). Ngày 14 tháng 4, trong buổi phỏng vấn tại Tokyo, Trung Nguyen đã nói về Nishida: "Đây là một võ sĩ có khả năng thực hiện chiến thuật cao. Tôi muốn đối đầu và cảm nhận anh ấy". Để chuẩn bị cho trận đấu với nhà vô địch thống nhất 4 tổ chức hạng Super Bantamweight, Inoue Naoya (32 tuổi) = Ohashi =, dự kiến ​​diễn ra tại Tokyo Dome vào mùa xuân năm sau, một trận đấu được xem là "trận đấu vĩ đại nhất giữa các võ sĩ Nhật Bản", đây có thể là trận đấu thống nhất cuối cùng của Trung Nguyen ở hạng Bantamweight.
 
 Ngoài ra, Nasukawa Tenshin (26 tuổi) = Teiken =, hạng 1 thế giới WBC hạng Bantamweight, sẽ tham gia một trận đấu tiền đề thế giới với Victor Santillan (29 tuổi) = Cộng hòa Dominica =, hạng 6 thế giới WBA, trong một trận đấu 10 hiệp hạng Bantamweight. Nếu thuận lợi, anh ấy dự kiến ​​sẽ tham gia trận đấu tranh đai vô địch thế giới đầu tiên vào cuối tháng 11.
 

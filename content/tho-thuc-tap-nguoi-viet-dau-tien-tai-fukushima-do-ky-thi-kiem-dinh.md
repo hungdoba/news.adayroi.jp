@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/5dc56e4c6e8b732c3a62ba16a1e8b87cc91b8456
 created_at: 2025-04-26 19:38:58
 ---
 
-
 # Thợ thực tập người Việt đầu tiên tại Fukushima đỗ kỳ thi kiểm định sản phẩm kết cấu thép xây dựng
 
-![](images/20250426_193514_406.webp)
+![](/images/20250426_193514_406.webp)
 
 Anh Nguyễn Ngọc Toan, thực tập sinh kỹ năng người Việt Nam, đã đạt được chứng chỉ kiểm định sản phẩm kết cấu thép xây dựng, trở thành người đầu tiên trong tỉnh đạt được thành tích này.
 

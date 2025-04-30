@@ -7,13 +7,11 @@ url: https://news.yahoo.co.jp/articles/69f41e85601dde7bcb82ea31033cf55abf971c9b
 created_at: 2025-04-15 17:58:54
 ---
 
-
 # Video quảng bá Okayama bằng 5 thứ tiếng: Thu hút khách du lịch quốc tế
 
-![](images/20250415_174828_921.webp)
+![](/images/20250415_174828_921.webp)
 
 Video quảng bá (trên kênh YouTube chính thức của thành phố Okayama)
-
 
 Thành phố Okayama đã cho ra mắt video quảng bá nhằm thu hút khách du lịch quốc tế với 5 ngôn ngữ. Mục đích là để quảng bá hiệu quả ngành công nghiệp, du lịch và văn hóa của thành phố trong các chuyến thăm quan và hội nghị quốc tế. Ngân sách cho dự án này là khoảng 8 triệu yên.
 

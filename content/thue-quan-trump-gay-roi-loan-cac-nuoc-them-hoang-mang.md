@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/eea21805390d5168cc5675c34860b87ac795326f
 created_at: 2025-04-15 05:50:24
 ---
 
-
 # Thuế quan Trump gây rối loạn, các nước thêm hoang mang
 
-![](images/20250415_054805_222.webp)
+![](/images/20250415_054805_222.webp)
 
 Xe tải và ô tô cá nhân nhập cảnh vào Mỹ từ Canada tại Blaine, Washington.
 

@@ -7,19 +7,18 @@ url: https://news.yahoo.co.jp/articles/cbab8e76d4ccf1ec566582c5ffd36e374a831833
 created_at: 2025-04-17 06:27:54
 ---
 
-
 # Ảnh hưởng thuế quan Trump: Muji gần như không thiệt hại, Uniqlo lại lao đao
 
 ## "Khả năng nhiều doanh nghiệp phá sản"
 
-![](images/20250417_062311_176.webp)
+![](/images/20250417_062311_176.webp)
 
 Cửa hàng Muji tại Manhattan
 
 **(Phần 1/2)** Trong khi giới chức chính trị Nhật Bản đang vật lộn với "thảm họa quốc gia", nền kinh tế Nhật Bản đang bị tàn phá bởi "cú sốc thuế quan". Tác động này được thể hiện rõ nhất qua sự biến động mạnh của thị trường chứng khoán, nhưng thực tế lại khó nắm bắt hơn. Vậy, rốt cuộc những doanh nghiệp và mặt hàng nào sẽ thực sự bị ảnh hưởng?
 [Xem ảnh: Danh sách các doanh nghiệp chịu ảnh hưởng nặng nề từ thuế quan Trump](https://www.dailyshincho.jp/article/2025/04091145/?photo=2)
 
-***
+---
 
 "Về tác động đến nền kinh tế Nhật Bản, trước hết là các ngành công nghiệp xuất khẩu sẽ bị ảnh hưởng", ông Nagamine Toshihiro, Chuyên gia kinh tế trưởng tại Viện Nghiên cứu Kinh tế Dai-ichi Life, chỉ ra.
 

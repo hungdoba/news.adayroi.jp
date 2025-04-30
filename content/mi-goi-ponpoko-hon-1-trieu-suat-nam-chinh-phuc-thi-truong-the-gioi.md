@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/9a180798e60fcd92c01c12e70390fb7c61948db7
 created_at: 2025-04-06 14:28:55
 ---
 
-
 # Mì gói Ponpoko: Hơn 1 triệu suất/năm, chinh phục thị trường thế giới
 
-![](images/20250406_142226_383.webp)
+![](/images/20250406_142226_383.webp)
 
 Một gói mì Ponpoko gồm 6 gói nhỏ. Ngoài hương vị tương truyền thống, còn có hương vị miso và muối (Ảnh chụp bởi tác giả)
 

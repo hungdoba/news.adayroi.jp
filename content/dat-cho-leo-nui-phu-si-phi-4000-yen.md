@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/278e9e35ffb090c3c04824df720927d8cedb0e08
 created_at: 2025-04-24 18:06:07
 ---
 
-
 # Đường leo núi Yoshida, Phú Sĩ: Mở đặt chỗ, phí 4000 yên
 
-![](images/20250424_175915_200.webp)
+![](/images/20250424_175915_200.webp)
 
 Đường leo núi Yoshida, phía tỉnh Yamanashi, chính thức mở đặt chỗ trực tuyến lúc 13h chiều nay. Phí leo núi năm nay là 4000 yên. Hệ thống đặt chỗ leo núi Phú Sĩ được áp dụng từ năm ngoái trên tuyến đường Yoshida (phía tỉnh Yamanashi) nhằm tránh tình trạng hỗn loạn và các vấn đề phát sinh do việc hạn chế người leo núi.
 

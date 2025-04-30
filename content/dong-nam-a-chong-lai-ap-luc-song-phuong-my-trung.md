@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/expert/articles/1159e772c228e38f457a3a18fec3718efd
 created_at: 2025-04-12 07:06:17
 ---
 
-
 # Đông Nam Á: Chống lại áp lực song phương Mỹ - Trung
 
-![](images/20250411_220140_585.webp)Hội nghị Bộ trưởng Tài chính và Thống đốc Ngân hàng Trung ương ASEAN được tổ chức tại Malaysia (10/4/2025) (Ảnh: Reuters/Aflo)
+![](/images/20250411_220140_585.webp)Hội nghị Bộ trưởng Tài chính và Thống đốc Ngân hàng Trung ương ASEAN được tổ chức tại Malaysia (10/4/2025) (Ảnh: Reuters/Aflo)
 
-*   Đông Nam Á, cũng là trung tâm xuất khẩu vòng vo của Trung Quốc, tập trung nhiều quốc gia bị ảnh hưởng nặng nề bởi việc tăng thuế quan của chính quyền Trump.
-*   Các quốc gia Đông Nam Á đã thể hiện phương hướng thúc đẩy giao thương nội khối và mở rộng quan hệ thương mại với các quốc gia ngoài Mỹ - Trung để đối phó với thuế quan của Trump.
-*   Điều này cho thấy quyết tâm không trả đũa Mỹ nhưng cũng không vì thế mà giảm giao thương với Trung Quốc theo ý Mỹ.
+- Đông Nam Á, cũng là trung tâm xuất khẩu vòng vo của Trung Quốc, tập trung nhiều quốc gia bị ảnh hưởng nặng nề bởi việc tăng thuế quan của chính quyền Trump.
+- Các quốc gia Đông Nam Á đã thể hiện phương hướng thúc đẩy giao thương nội khối và mở rộng quan hệ thương mại với các quốc gia ngoài Mỹ - Trung để đối phó với thuế quan của Trump.
+- Điều này cho thấy quyết tâm không trả đũa Mỹ nhưng cũng không vì thế mà giảm giao thương với Trung Quốc theo ý Mỹ.
 
 ## Lập trường của Đông Nam Á
 
@@ -76,9 +75,9 @@ Phản ứng của các nước Nam bán cầu này là hoàn toàn hợp lý.
 
 Vì việc ủng hộ bất cứ cường quốc đối lập nào cũng sẽ dẫn đến nguy cơ bị chi phối, nên việc giảm thiểu rủi ro được coi là có lợi cho an ninh và lợi ích quốc gia.
 
-*   [Bài viết tham khảo: Ba lý do Nam bán cầu muốn gia nhập BRICS - 70 năm đấu tranh bị lãng quên ở các nước tiên tiến](https://news.yahoo.co.jp/expert/articles/5a7098c1029f66a8f20aa46cc79d5d912fbfce33)
+- [Bài viết tham khảo: Ba lý do Nam bán cầu muốn gia nhập BRICS - 70 năm đấu tranh bị lãng quên ở các nước tiên tiến](https://news.yahoo.co.jp/expert/articles/5a7098c1029f66a8f20aa46cc79d5d912fbfce33)
 
-![](images/20250411_220141_948.webp)
+![](/images/20250411_220141_948.webp)
 
 Đó là lý do tại sao Đông Nam Á đã chống lại áp lực "chọn giữa Mỹ và Trung Quốc", và việc khẳng định lại điều này vào thời điểm này cho thấy một quyết tâm mạnh mẽ.
 

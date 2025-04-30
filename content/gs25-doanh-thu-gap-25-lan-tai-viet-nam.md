@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/1d631e91c0aae81a1b0b99b565bfd81b624a99bf
 created_at: 2025-04-23 18:04:05
 ---
 
-
 # GS25: Doanh thu gấp 2,5 lần tại Việt Nam so với Hàn Quốc
 
-![](images/20250423_175723_691.webp)
+![](/images/20250423_175723_691.webp)
 
 Khách hàng tại Hà Nội mua sắm tại cửa hàng GS25 - Ảnh: GS25 cung cấp
 
@@ -18,9 +17,9 @@ Ngày 22, GS25, chuỗi cửa hàng tiện lợi của Hàn Quốc, công bố d
 
 Trước đó, vào ngày 14 tháng trước, GS25 Việt Nam đã khai trương cùng lúc 6 cửa hàng tại Hà Nội. GS25 giải thích: "Sau khi trở thành thương hiệu cửa hàng tiện lợi số 1 tại miền Nam Việt Nam, chúng tôi đã đặt chân đến miền Bắc Việt Nam với điểm tựa là Hà Nội."
 
-GS25 Việt Nam thiết kế quy mô 6 cửa hàng này rất lớn, từ 115 mét vuông (35坪) đến tối đa 540 mét vuông (164坪), mỗi cửa hàng có một chủ đề riêng biệt, như thư viện, mì ramen, rượu, thực phẩm tươi sống, v.v...
+GS25 Việt Nam thiết kế quy mô 6 cửa hàng này rất lớn, từ 115 mét vuông (35 坪) đến tối đa 540 mét vuông (164 坪), mỗi cửa hàng có một chủ đề riêng biệt, như thư viện, mì ramen, rượu, thực phẩm tươi sống, v.v...
 
-Tại hầu hết các cửa hàng ở Hà Nội, 3 sản phẩm bán chạy nhất là các sản phẩm thuộc thương hiệu riêng (PB) của GS25 và các sản phẩm của thương hiệu Hàn Quốc. GS25 cho biết phản ứng của người tiêu dùng đối với các món ăn Hàn Quốc như Tokpokki và Kimbap (cuốn rong biển) rất ấn tượng. GS25 phân tích: "Chiến lược đổi mới sản phẩm bằng cách tận dụng các công thức nấu ăn mang đậm chất Hàn Quốc, thay vì bản địa hóa, đã góp phần tạo nên thành công này tại Hà Nội.  Việc đổi mới này dựa trên kết quả khảo sát sở thích của khách hàng địa phương, qua các bài kiểm tra mù quáng, cho thấy họ ưa chuộng hương vị Hàn Quốc hơn."
+Tại hầu hết các cửa hàng ở Hà Nội, 3 sản phẩm bán chạy nhất là các sản phẩm thuộc thương hiệu riêng (PB) của GS25 và các sản phẩm của thương hiệu Hàn Quốc. GS25 cho biết phản ứng của người tiêu dùng đối với các món ăn Hàn Quốc như Tokpokki và Kimbap (cuốn rong biển) rất ấn tượng. GS25 phân tích: "Chiến lược đổi mới sản phẩm bằng cách tận dụng các công thức nấu ăn mang đậm chất Hàn Quốc, thay vì bản địa hóa, đã góp phần tạo nên thành công này tại Hà Nội. Việc đổi mới này dựa trên kết quả khảo sát sở thích của khách hàng địa phương, qua các bài kiểm tra mù quáng, cho thấy họ ưa chuộng hương vị Hàn Quốc hơn."
 
 Đến cuối tháng này, số lượng cửa hàng GS25 tại Hà Nội sẽ tăng lên 13 cửa hàng. GS25 Việt Nam dự kiến sẽ mở rộng mạng lưới cửa hàng tại khu vực phía Bắc, bao gồm cả Hà Nội, và nâng tổng số cửa hàng lên 500 vào cuối năm nay.
 

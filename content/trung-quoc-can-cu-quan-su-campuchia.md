@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/018d057d2daf15cff6a54d1cd8153cbeb95ab74a
 created_at: 2025-04-06 07:12:48
 ---
 
-
 # Trung Quốc thiết lập căn cứ quân sự chung tại Campuchia
 
-![](images/20250406_070146_969.webp)
+![](/images/20250406_070146_969.webp)
 
 Thủ tướng Campuchia Hun Manet (phải) trò chuyện với Đại sứ Trung Quốc (trái) tại lễ khánh thành dự án mở rộng căn cứ hải quân Ream do Trung Quốc tài trợ - ngày 5/4/2025, AP
 

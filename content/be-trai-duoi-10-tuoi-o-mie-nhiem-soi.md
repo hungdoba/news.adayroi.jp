@@ -7,11 +7,9 @@ url: https://news.yahoo.co.jp/articles/226847cfe88a0f080a8ae39baa8513418298f69e
 created_at: 2025-04-13 10:05:43
 ---
 
-
-
 # Bé trai dưới 10 tuổi ở Kameyama, Mie nhiễm sởi
 
-![](images/20250413_084414_754.webp)
+![](/images/20250413_084414_754.webp)
 
 Theo tỉnh Mie, một bé trai dưới 10 tuổi (chưa đến tuổi đi học) ở thành phố Kameyama đã được xác nhận nhiễm bệnh sởi vào ngày 12 tháng này. Bé trai này bắt đầu sốt vào ngày 10 tháng này và nhập viện tại một cơ sở y tế ở thành phố Tsu kể từ ngày hôm sau.
 Đây là trường hợp nhiễm sởi thứ hai được ghi nhận tại tỉnh Mie trong năm nay.

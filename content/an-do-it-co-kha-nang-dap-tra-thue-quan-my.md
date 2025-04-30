@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/547697b741d091cc54843527d23cccef75ad45c6
 created_at: 2025-04-07 20:04:06
 ---
 
-
 # Ấn Độ ít có khả năng đáp trả thuế quan Mỹ: Đàm phán tiếp tục
 
-![](images/20250407_195412_705.webp)
+![](/images/20250407_195412_705.webp)
 
 Ngày 6 tháng 4, một quan chức chính phủ Ấn Độ cho biết khả năng Ấn Độ sẽ có biện pháp đáp trả lại việc Tổng thống Mỹ Donald Trump áp đặt thuế quan 26% lên hàng hóa của Ấn Độ là thấp, vì hai nước đang tiếp tục đàm phán. Hình ảnh chụp tại bên ngoài Sở giao dịch chứng khoán Bombay, một người đang đọc báo địa phương đưa tin về thuế quan của Trump. Ảnh chụp ngày 4 tháng 4 tại Mumbai (2025, Reuters/Francis Mascarenhas).
 

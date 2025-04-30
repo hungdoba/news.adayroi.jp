@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/446bf29fae55530209734dff2eddb5a6aa4696ad
 created_at: 2025-04-12 07:06:17
 ---
 
-
 # Chính phủ Việt Nam siết chặt hàng hóa Trung Quốc để tránh né thuế quan của Mỹ
 
-![](images/20250411_220200_461.webp)
+![](/images/20250411_220200_461.webp)
 
 Hình ảnh: Lạng Sơn, Việt Nam, tháng 2 năm 2020 (Reuters, 2025)
 
-Chính phủ Việt Nam đang chuẩn bị thực hiện các biện pháp mạnh tay để ngăn chặn tình trạng hàng hóa Trung Quốc né thuế quan của Mỹ bằng cách quá cảnh qua lãnh thổ Việt Nam. Đồng thời, Việt Nam cũng sẽ tăng cường quản lý các mặt hàng nhạy cảm xuất khẩu sang Trung Quốc.  Thông tin này được các nguồn tin thân cận tiết lộ và được Reuters xác nhận từ các văn bản chính phủ.
+Chính phủ Việt Nam đang chuẩn bị thực hiện các biện pháp mạnh tay để ngăn chặn tình trạng hàng hóa Trung Quốc né thuế quan của Mỹ bằng cách quá cảnh qua lãnh thổ Việt Nam. Đồng thời, Việt Nam cũng sẽ tăng cường quản lý các mặt hàng nhạy cảm xuất khẩu sang Trung Quốc. Thông tin này được các nguồn tin thân cận tiết lộ và được Reuters xác nhận từ các văn bản chính phủ.
 
 Các quan chức cấp cao của chính phủ Mỹ đã bày tỏ lo ngại về việc hàng hóa Trung Quốc được gắn mác "Made in Vietnam" để hưởng mức thuế thấp hơn khi nhập khẩu vào Mỹ.
 

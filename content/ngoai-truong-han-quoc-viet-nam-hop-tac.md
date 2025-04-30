@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/c4f3b8be052ebe1f7bc34e05de627904f6379b51
 created_at: 2025-04-16 19:24:43
 ---
 
-
 # Ngoại trưởng Hàn Quốc và Việt Nam nhất trí hợp tác chặt chẽ trước vấn đề thuế quan của Mỹ
 
-![](images/20250416_191553_475.webp)
+![](/images/20250416_191553_475.webp)
 
-Ảnh chụp hai ngoại trưởng Hàn Quốc và Việt Nam bắt tay trong cuộc hội đàm (Nguồn: Yonhap News) -  Cấm sao chép và sử dụng lại
+Ảnh chụp hai ngoại trưởng Hàn Quốc và Việt Nam bắt tay trong cuộc hội đàm (Nguồn: Yonhap News) - Cấm sao chép và sử dụng lại
 
 **Hà Nội, Việt Nam** - Ngày 15 tháng 4, Ngoại trưởng Hàn Quốc Cho Tae-yul đã có cuộc hội đàm với Phó Thủ tướng kiêm Bộ trưởng Ngoại giao Việt Nam tại Hà Nội. Hai bên nhất trí sẽ phối hợp chặt chẽ trong vấn đề thuế quan do chính quyền Trump áp đặt, Bộ Ngoại giao Hàn Quốc thông báo ngày 16 tháng 4.
 
@@ -20,7 +19,7 @@ Thuế quan mà Mỹ áp lên Việt Nam lên tới 46%, điều này có thể 
 
 ## Hợp tác toàn diện giữa Hàn Quốc và Việt Nam
 
-Hai bên tái khẳng định ý chí mạnh mẽ trong việc phát triển mối quan hệ đối tác chiến lược toàn diện giữa Hàn Quốc và Việt Nam.  Họ nhất trí tăng cường hợp tác trong các lĩnh vực ngoại giao - an ninh, thương mại - đầu tư, năng lượng hạt nhân, đường sắt cao tốc, cơ sở hạ tầng lớn và giao lưu nhân dân.
+Hai bên tái khẳng định ý chí mạnh mẽ trong việc phát triển mối quan hệ đối tác chiến lược toàn diện giữa Hàn Quốc và Việt Nam. Họ nhất trí tăng cường hợp tác trong các lĩnh vực ngoại giao - an ninh, thương mại - đầu tư, năng lượng hạt nhân, đường sắt cao tốc, cơ sở hạ tầng lớn và giao lưu nhân dân.
 
 ## Hỗ trợ doanh nghiệp Hàn Quốc tại Việt Nam
 
@@ -28,4 +27,4 @@ Ngoại trưởng Cho Tae-yul đã đề nghị Việt Nam hỗ trợ các doanh
 
 ## Tăng cường giao lưu nhân dân
 
-Ngoại trưởng Cho cũng đề nghị Việt Nam hỗ trợ người Hàn Quốc an toàn khi đi du lịch và sinh sống tại Việt Nam.  Phó Thủ tướng kiêm Bộ trưởng Ngoại giao Việt Nam bày tỏ kỳ vọng về việc mở rộng hợp tác trong lĩnh vực du lịch và văn hóa để thúc đẩy giao lưu nhân dân giữa hai nước.
+Ngoại trưởng Cho cũng đề nghị Việt Nam hỗ trợ người Hàn Quốc an toàn khi đi du lịch và sinh sống tại Việt Nam. Phó Thủ tướng kiêm Bộ trưởng Ngoại giao Việt Nam bày tỏ kỳ vọng về việc mở rộng hợp tác trong lĩnh vực du lịch và văn hóa để thúc đẩy giao lưu nhân dân giữa hai nước.

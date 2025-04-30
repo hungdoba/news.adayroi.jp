@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/71bed8e5cc0d9cc62eea058343c4dddd67c3aa8d
 created_at: 2025-04-16 06:37:42
 ---
 
-
 # Tương lai minh bạch của liên minh Nhật - Mỹ: Cựu Phó Ngoại trưởng Mỹ Richard Armitage
 
-![](images/20250416_063144_380.webp)
+![](/images/20250416_063144_380.webp)
 
-*Cựu Phó Ngoại trưởng Mỹ Richard Armitage - tháng 8 năm 2002, Minato, Tokyo*
+_Cựu Phó Ngoại trưởng Mỹ Richard Armitage - tháng 8 năm 2002, Minato, Tokyo_
 
 Ông đã thẳng thắn, dùng những lời lẽ mạnh mẽ để thúc giục Nhật Bản, một quốc gia đã phụ thuộc sâu sắc vào Mỹ, đóng góp nhiều hơn nữa trong lĩnh vực an ninh. Đồng thời, ông cũng là người vẽ ra bức tranh rõ nét nhất về tương lai của liên minh Nhật - Mỹ. Là một “người quản lý” xuất sắc trong quan hệ song phương, ông Richard Armitage, cựu Phó Ngoại trưởng Mỹ, đã dẫn dắt quá trình hiện đại hóa liên minh này. Tuy nhiên, vào những năm cuối đời, ông phải đối mặt với thách thức đến từ chính nước Mỹ: chủ nghĩa biệt lập của Tổng thống Trump, người chỉ theo đuổi lợi ích riêng của đất nước mình.
 

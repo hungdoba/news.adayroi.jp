@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/9985496a8ed62490b2a76f805a0e1c3237145d8f
 created_at: 2025-04-21 18:17:19
 ---
 
-
 # Thủ tướng Ishiba cảnh báo về sự tiếp cận của Trung Quốc với ASEAN
 
-![](images/20250421_180525_519.webp)
+![](/images/20250421_180525_519.webp)
 
 Trước bối cảnh chiến tranh thương mại Mỹ - Trung xoay quanh thuế quan của Trump, có quan điểm cho rằng Trung Quốc đang tiếp cận ASEAN (Hiệp hội các quốc gia Đông Nam Á) như là người tiên phong cho tự do thương mại. Về vấn đề này, Thủ tướng Ishiba đã phát biểu rằng cần phải “thận trọng” với những hành động của Trung Quốc.
 

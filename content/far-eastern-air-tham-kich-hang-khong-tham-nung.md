@@ -7,18 +7,17 @@ url: https://news.yahoo.co.jp/articles/71ee713c3cb5091f38e7547b3bb39a3143bf1d46
 created_at: 2025-04-26 07:25:44
 ---
 
-
 # Far Eastern Air: Thảm kịch hàng không và tham nhũng 130 tỷ Yên
 
 ## Dừng hoạt động đột ngột
 
-![](images/20250426_072229_881.webp)
+![](/images/20250426_072229_881.webp)
 
 ATR 72-600 (Ảnh: Jeffhuang0627)
 
 Đài Loan, hòn đảo nằm cạnh Nhật Bản, đang phát triển mạnh mẽ nhờ công nghệ tiên tiến như bán dẫn và có mức sống cao. Do đó, nhu cầu về du lịch và kinh doanh rất lớn. Hiện nay, China Airlines (hãng hàng không lớn nhất) và EVA Air (hãng hàng không lớn thứ hai) đang là hai hãng hàng không chủ chốt tại Đài Loan. [【Hình ảnh】 "Trời ơi!" Đây là mức lương bình quân của ANA Holdings! Xem ảnh (6 ảnh)](https://merkmal-biz.jp/photo/91970?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=feed&utm_content=91970_6)
 
-Gần đây, Starlux Airlines đang tăng cường các tuyến bay đến Bắc Mỹ và Nhật Bản, và Tigerair Taiwan, có trụ sở tại Đài Đông và Cao Hùng, cũng đang hoạt động. 
+Gần đây, Starlux Airlines đang tăng cường các tuyến bay đến Bắc Mỹ và Nhật Bản, và Tigerair Taiwan, có trụ sở tại Đài Đông và Cao Hùng, cũng đang hoạt động.
 
 Tuy nhiên, trước đây, Đài Loan cũng có hai hãng hàng không độc lập khác. Một trong số đó là Far Eastern Air (sau đây gọi là Far Eastern), hãng hàng không được giới thiệu trong bài viết này. Far Eastern là một hãng hàng không nổi tiếng chuyên về các tuyến nội địa Đài Loan, nhưng đã đột ngột ngừng hoạt động vào tháng 12 năm 2019. Năm sau đó, người đứng đầu hãng đã bị phát hiện phạm tội kinh tế nghiêm trọng.
 
@@ -30,10 +29,10 @@ Far Eastern được thành lập vào năm 1957 với tư cách là một công
 
 Năm 1996, hãng đã được cấp phép khai thác các tuyến bay từ Cao Hùng đến Palau và Subic (Philippines). Đây là bước ngoặt giúp hãng mở rộng sang các tuyến quốc tế, bao gồm:
 
-* Nhật Bản
-* Hàn Quốc
-* Campuchia
-* Philippines
+- Nhật Bản
+- Hàn Quốc
+- Campuchia
+- Philippines
 
 Năm 2004, hãng bắt đầu vận chuyển hàng hóa, đáp ứng nhu cầu vận chuyển hàng hóa lớn của Đài Loan. Cùng năm đó, hãng cũng đầu tư vào Angkor Air của Campuchia, nhằm mở rộng mạng lưới khắp Đông Nam Á và Đông Á.
 
@@ -43,7 +42,7 @@ Vụ tai nạn này cũng cướp đi sinh mạng của nhà biên kịch Nhật
 
 ## Khủng hoảng do đường sắt cao tốc
 
-![](images/20250426_072230_228.webp)
+![](/images/20250426_072230_228.webp)
 
 Logo của Far Eastern Air
 
@@ -69,7 +68,7 @@ Kết quả là, Far Eastern đã quyết định thuê hai chiếc B737-800, nh
 
 ## Nghi ngờ vi phạm pháp luật, phế truất CEO
 
-![](images/20250426_072230_542.webp)
+![](/images/20250426_072230_542.webp)
 
 Sud Aviation Caravelle năm 1972 (Ảnh: Clinton H Groves)
 
@@ -109,7 +108,7 @@ Sự việc này một lần nữa cho thấy Far Eastern đã bỏ qua trách n
 
 ## Quản lý yếu kém dẫn đến sự sụp đổ
 
-![](images/20250426_072230_998.webp)
+![](/images/20250426_072230_998.webp)
 
 Văn phòng cũ (Ảnh: Solomon203)
 
@@ -117,7 +116,7 @@ Sự thất bại của Far Eastern, đặc biệt là ban quản lý, thật kh
 
 Đài Loan vốn là một quốc gia có nhiều tai nạn hàng không. Nhiều tai nạn do máy bay cũ gây ra, và năm 2002, một tai nạn do sửa chữa không đúng cách đã gây ra vết nứt trên thân máy bay và dẫn đến sự cố vỡ tan trên không trung. Vì vậy, cả cơ quan chức năng và người tiêu dùng đều rất nhạy cảm với vấn đề an toàn. Thế nhưng, Far Eastern lại tiếp tục sử dụng những chiếc máy bay cũ. Hãng đã tiếp tục sử dụng những chiếc máy bay đã hơn 20 năm tuổi.
 
-Mặc dù chính hãng đã gây ra vụ tai nạn hàng không có số người chết nhiều thứ hai trong lịch sử hàng không Đài Loan, nhưng lại coi nhẹ vấn đề an toàn là điều không thể chấp nhận được. Nếu có thể bào chữa thì có lẽ nếu hãng chuyển trọng tâm sang các tuyến bay quốc tế dài hơn từ những năm 1990 và đầu những năm 2000, khi thị trường nội địa còn sôi động, thì có lẽ hãng cũng đã đạt được vị thế như EVA Air hay Starlux Airlines. 
+Mặc dù chính hãng đã gây ra vụ tai nạn hàng không có số người chết nhiều thứ hai trong lịch sử hàng không Đài Loan, nhưng lại coi nhẹ vấn đề an toàn là điều không thể chấp nhận được. Nếu có thể bào chữa thì có lẽ nếu hãng chuyển trọng tâm sang các tuyến bay quốc tế dài hơn từ những năm 1990 và đầu những năm 2000, khi thị trường nội địa còn sôi động, thì có lẽ hãng cũng đã đạt được vị thế như EVA Air hay Starlux Airlines.
 
 Tuy nhiên, EVA Air vốn thuộc quyền sở hữu của một tập đoàn tài chính lớn của Đài Loan nên có nguồn vốn dồi dào. Starlux Airlines cũng được lãnh đạo bởi cựu lãnh đạo của EVA Air, nên có lợi thế về huy động vốn. Việc biển thủ và bỏ mặc máy bay cũ của Far Eastern là hành động cẩu thả chưa từng thấy ở các hãng hàng không trong những năm gần đây.
 

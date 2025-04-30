@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/668c7180a371b99cb9c5dd56a8d187d2e6040ee4
 created_at: 2025-04-16 19:24:42
 ---
 
-
 # Tập Cận Bình kêu gọi Việt Nam phản đối 'hành động bắt nạt' của Mỹ
 
-![](images/20250416_191532_272.webp)
+![](/images/20250416_191532_272.webp)
 
 Chủ tịch Trung Quốc Tập Cận Bình
 

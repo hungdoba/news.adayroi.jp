@@ -7,26 +7,25 @@ url: https://news.yahoo.co.jp/articles/71a17823e3b55a34c7dd0a5dc640fecc8fd51dcd
 created_at: 2025-04-15 17:58:54
 ---
 
-
 # Chiến tranh thuế quan Mỹ - Trung: Xoay chuyển bất ngờ
 
 ## Thuế quan Trump: Loại trừ điện thoại thông minh?!
 
-![](images/20250415_174822_040.webp)
+![](/images/20250415_174822_040.webp)
 
 **Thông báo đột ngột: Loại trừ điện thoại thông minh khỏi thuế quan tương hỗ**
 
 Các động thái xoay quanh thuế quan Trump đang diễn biến phức tạp. Bài viết sẽ phân tích hậu trường quyết định loại trừ điện thoại thông minh khỏi danh sách và diễn biến của cuộc chiến thuế quan với Trung Quốc. [Xem hình ảnh: Chương trình truyền hình thúc đẩy quyết định của ông Trump](https://news.tv-asahi.co.jp/news_international/articles/photos/900022662.html)
 Ngày 11/4, Mỹ thông báo loại trừ thiết bị điện tử như điện thoại thông minh, máy tính và thiết bị sản xuất bán dẫn khỏi danh sách đối tượng áp dụng thuế quan tương hỗ.
 
-![](images/20250415_174822_306.webp)
+![](/images/20250415_174822_306.webp)
 
 **Cơn sốt mua trước thông báo loại trừ điện thoại thông minh**
 
 Trước thông báo, ước tính 80% iPhone trên toàn cầu được sản xuất tại Trung Quốc. Vì vậy, nếu áp thuế 145% lên hàng hóa từ Trung Quốc, giá iPhone dự kiến sẽ tăng mạnh. Điều này dẫn đến hiện tượng mua trước để tránh giá tăng. Một người mua iPhone trước khi có thông báo cho biết: "Tôi muốn mua với giá trước khi áp thuế. Tôi mua 2 chiếc, một cho tôi và một cho anh trai tôi."
 Mỹ loại trừ điện thoại thông minh khỏi danh sách đối tượng áp dụng thuế quan nhằm tránh phản ứng tiêu cực từ người tiêu dùng.
 
-![](images/20250415_174822_617.webp)
+![](/images/20250415_174822_617.webp)
 
 **Về các thiết bị điện tử được loại trừ khỏi thuế quan tương hỗ**
 
@@ -35,21 +34,21 @@ Theo Asahi Shimbun Digital, Bộ trưởng Thương mại Mỹ Gina Raimondo cho
 
 ## Thay đổi chính sách đột ngột: Chương trình truyền hình thúc đẩy quyết định tạm dừng thuế quan tương hỗ?!
 
-![](images/20250415_174822_939.webp)
+![](/images/20250415_174822_939.webp)
 
 **Hậu trường tạm dừng thuế quan tương hỗ 90 ngày**
 
 Tổng thống Trump bất ngờ tuyên bố tạm dừng thuế quan tương hỗ trong 90 ngày. Ông đã rút lại quyết định chỉ trong vòng 13 giờ. Ngày 9/4, ông Trump tuyên bố: "Tôi đã tạm dừng thuế quan đối với các quốc gia không trả đũa. Tôi tin rằng kết quả sẽ rất tốt và những điều không thể tưởng tượng được sẽ trở thành hiện thực vào năm 2025."
 Thị trường tài chính Mỹ sau khi thông báo về thuế quan tương hỗ: Chỉ số Dow Jones giảm mạnh, đồng đô la giảm mạnh và giá trái phiếu kho bạc Mỹ cũng giảm mạnh.
 
-![](images/20250415_174823_245.webp)
+![](/images/20250415_174823_245.webp)
 
 **Chương trình truyền hình yêu thích của ông Trump có tác động?!**
 
 Sáng ngày 9/4, trước khi tuyên bố tạm dừng thuế quan tương hỗ, Tổng thống Trump xem chương trình truyền hình bảo thủ FOX Business ưa thích của ông. Trong chương trình, CEO của JP Morgan Chase, ông Jamie Dimon đã cảnh báo về khả năng suy thoái kinh tế do chính sách thuế quan cao. Sau khi chương trình kết thúc, ông Trump đã gọi điện trực tiếp cho người dẫn chương trình và nói rằng: "Ông Dimon đã đưa ra những nhận xét tốt trên chương trình."
 Chương trình này được cho là đã tác động đến quyết định tạm dừng thuế quan.
 
-![](images/20250415_174823_746.webp)
+![](/images/20250415_174823_746.webp)
 
 **Sự bán tháo trái phiếu kho bạc Mỹ bất ngờ**
 
@@ -57,7 +56,7 @@ Sau khi thông báo về thuế quan tương hỗ, trái phiếu kho bạc Mỹ,
 
 Lãi suất tăng sẽ dẫn đến điều gì? Lãi suất trái phiếu chính phủ có liên quan đến lãi suất cho vay. Lãi suất cho vay tăng sẽ làm tăng chi phí trả nợ thế chấp nhà ở, thẻ tín dụng… dẫn đến giảm chi tiêu của người dân.
 
-![](images/20250415_174824_041.webp)
+![](/images/20250415_174824_041.webp)
 
 **Mỹ là xã hội vay nợ**
 
@@ -66,16 +65,17 @@ Sự gia tăng lãi suất cũng đe dọa chính sách giảm thuế. Ông Naka
 
 ## Trái phiếu kho bạc Mỹ giảm mạnh tại sao? Trên mạng xã hội xuất hiện giả thuyết về sự trả đũa từ Trung Quốc
 
-![](images/20250415_174824_402.webp)
+![](/images/20250415_174824_402.webp)
 
 **Top 3 quốc gia nắm giữ trái phiếu kho bạc Mỹ**
 
 Tại sao giá trái phiếu kho bạc Mỹ giảm mạnh? Dưới đây là các quốc gia nắm giữ trái phiếu kho bạc Mỹ:
+
 1. Nhật Bản: Khoảng 154,9728 nghìn tỷ Yên
 2. Trung Quốc: Khoảng 109,2423 nghìn tỷ Yên
 3. Anh: Khoảng 106,2834 nghìn tỷ Yên
 
-![](images/20250415_174824_684.webp)
+![](/images/20250415_174824_684.webp)
 
 **Giảm giá trái phiếu kho bạc Mỹ: Sự trả đũa từ Trung Quốc?**
 
@@ -84,20 +84,20 @@ Cựu Tổng cục trưởng ANN tại Trung Quốc, ông Fukasaka cho biết: "
 
 ## Cuộc chiến thuế quan Mỹ - Trung leo thang: "Sẽ phớt lờ" - Lập trường thật sự của Trung Quốc...
 
-![](images/20250415_174824_985.webp)
+![](/images/20250415_174824_985.webp)
 
 **Cuộc chiến thuế quan tương hỗ leo thang**
 
 Ngày 2/4, Mỹ áp thuế quan tương hỗ 34%. Ngày 4/4, Trung Quốc trả đũa bằng thuế quan 34%. Ngày 8/4, Mỹ tăng lên 84%. Ngày 9/4, Trung Quốc tăng lên 84%. Sau đó, Mỹ tăng lên 125%. Cộng với thuế quan 20% đã áp dụng trước tháng 3, tổng thuế là 145%. Ngày 11/4, Trung Quốc cũng tăng lên 125%.
 
-![](images/20250415_174825_283.webp)
+![](/images/20250415_174825_283.webp)
 
 **Ông Trump lạc quan**
 
 Tổng thống Trump lạc quan về tình hình: "Tôi tin rằng Trung Quốc sẽ đưa ra kết quả tích cực. Chúng ta hãy chờ xem điều gì sẽ xảy ra. Trung Quốc rất lớn mạnh, Chủ tịch Tập Cận Bình là một nhà lãnh đạo rất vĩ đại và khôn ngoan."
 Phản hồi từ Trung Quốc: "Với mức thuế hiện nay, khả năng sản phẩm của Mỹ được chấp nhận tại thị trường Trung Quốc là bằng không. Ngay cả khi Mỹ tăng thuế, Trung Quốc vẫn sẽ phớt lờ", cho thấy Trung Quốc không có ý định đáp trả trong cuộc chiến thuế quan này.
 
-![](images/20250415_174825_558.webp)
+![](/images/20250415_174825_558.webp)
 
 **Lập trường thật sự của Trung Quốc...**
 
@@ -105,7 +105,7 @@ Chủ tịch Tập Cận Bình dự kiến sẽ thăm Việt Nam, Malaysia và C
 
 ## Cuộc sống ở Mỹ sẽ như thế nào nếu áp thuế 145% lên hàng hóa từ Trung Quốc?
 
-![](images/20250415_174825_808.webp)
+![](/images/20250415_174825_808.webp)
 
 **Cuộc sống ở Mỹ nếu áp thuế 145% lên hàng hóa từ Trung Quốc?**
 

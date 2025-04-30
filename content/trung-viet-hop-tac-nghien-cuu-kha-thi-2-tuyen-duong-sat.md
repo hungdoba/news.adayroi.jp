@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/efe4adfb4a1c5bdd0fef097beb6cfbe11c7b9f5c
 created_at: 2025-04-15 17:58:54
 ---
 
-
 # Trung-Việt hợp tác nghiên cứu khả thi 2 tuyến đường sắt
 
-![](images/20250415_174818_015.webp)
+![](/images/20250415_174818_015.webp)
 
 Ngày 15 tháng 4, trong chuyến thăm Việt Nam của Chủ tịch Trung Quốc Tập Cận Bình (ảnh bên trái), hai nước đã ký kết một thỏa thuận hợp tác bao gồm việc tiến hành nghiên cứu khả thi (phiên bản tiếng Anh: feasibility study) cho hai tuyến đường sắt. Một phần văn bản đã được Reuters xác nhận. Ảnh bên phải là Tổng Bí thư Đảng Cộng sản Việt Nam Tô Lâm. Ảnh chụp ngày 14 tại Hà Nội (2025 - Reuters).
 

@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/06c016740a7cf206ff6a1af7ce1a16569c7af149
 created_at: 2025-04-15 05:50:24
 ---
 
-
 # Trung Quốc và Việt Nam thảo luận về các biện pháp gây thiệt hại cho Mỹ - Tuyên bố của ông Trump
 
-![](images/20250415_054800_714.webp)
+![](/images/20250415_054800_714.webp)
 
 Tổng thống Mỹ Trump ngày 14 tuyên bố rằng Trung Quốc và Việt Nam đang tiến hành các cuộc hội đàm nhằm tìm kiếm các biện pháp gây thiệt hại cho Hoa Kỳ. (Reuters/Kevin Lamarque, 2025)
 

@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/54bcde51b14e1c8269a2a85a5ddbe0c6943e62d2
 created_at: 2025-04-08 18:51:17
 ---
 
-
 # Cặp sách của CEO công nghệ và đồ dùng của anh trai cầu thủ
 
-![](images/20250408_184136_360.webp)
+![](/images/20250408_184136_360.webp)
 
 Ông Mori Kazuki, Giám đốc điều hành LandBridge Corporation
 

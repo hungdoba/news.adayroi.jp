@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/5396863197bec202ded5718e6304f2702c0b0272
 created_at: 2025-04-06 14:28:55
 ---
 
-
 # Cảnh báo: Bệnh sởi nhập khẩu tăng đột biến!
 
-![](images/20250406_070220_557.webp)
+![](/images/20250406_070220_557.webp)
 
 ● Hình ảnh chỉ mang tính minh họa. Nguồn ảnh: Pixta
 

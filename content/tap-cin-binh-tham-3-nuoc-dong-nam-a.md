@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/0018fd9ca9316879c15b8cb883edba1a2e5c3ace
 created_at: 2025-04-12 07:06:17
 ---
 
-
 # Chủ tịch Tập Cận Bình thăm 3 nước Đông Nam Á: Củng cố quan hệ trước sức ép từ Mỹ
 
-![](images/20250411_220202_936.webp)
+![](/images/20250411_220202_936.webp)
 
 Chủ tịch Tập Cận Bình của Trung Quốc – ngày 5/3/2025, Bắc Kinh, chụp ảnh bởi Fujiwara Nobuo
 
@@ -18,6 +17,6 @@ Ngày 11/10, chính phủ Trung Quốc tuyên bố Chủ tịch Tập Cận Bìn
 
 [【Biểu đồ】Trung Quốc "quyết tâm chiến đấu" – uy tín của chính quyền đặt lên bàn cân, thái độ đối đầu mạnh mẽ – sự tự tin và toan tính đằng sau](https://www.asahi.com/articles/photo/AS20250409003711.html?oai=AST4C11T0T4CUHBI00SM&ref=yahoo)
 
-Theo thông báo, Chủ tịch Tập sẽ thăm Việt Nam – đối tác thương mại lớn nhất trong ASEAN – vào các ngày 14 và 15/10.  Đây là chuyến thăm thứ hai của ông Tập đến Việt Nam kể từ tháng 12 năm 2023, cho thấy Trung Quốc muốn nhấn mạnh mối quan hệ mạnh mẽ giữa hai nước.
+Theo thông báo, Chủ tịch Tập sẽ thăm Việt Nam – đối tác thương mại lớn nhất trong ASEAN – vào các ngày 14 và 15/10. Đây là chuyến thăm thứ hai của ông Tập đến Việt Nam kể từ tháng 12 năm 2023, cho thấy Trung Quốc muốn nhấn mạnh mối quan hệ mạnh mẽ giữa hai nước.
 
 Từ ngày 15 đến 18/10, ông Tập sẽ có các chuyến thăm chính thức đến Malaysia – nước chủ trì ASEAN năm nay – và Campuchia – quốc gia đang tăng cường hợp tác an ninh với Trung Quốc trong những năm gần đây. (Bắc Kinh = Hata Sōtarō)

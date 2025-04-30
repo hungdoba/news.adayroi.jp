@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/3ff26bf633ae6237a71f1cb105774c673a8cd6c3
 created_at: 2025-04-23 06:48:11
 ---
 
-
 # Bài học từ Nixon: Đồng minh Mỹ có thể tự phát triển vũ khí hạt nhân?
 
-![](images/20250423_064648_330.webp)
+![](/images/20250423_064648_330.webp)
 
 (Gerasimov174/Backiris/gettyimages_vids)
 

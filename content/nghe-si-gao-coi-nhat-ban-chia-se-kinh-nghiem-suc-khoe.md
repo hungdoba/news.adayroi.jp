@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/59c3d84455b44b722efa9da27da663e7ecced59e
 created_at: 2025-04-16 06:37:42
 ---
 
-
 # Nghệ sĩ gạo cội Nhật Bản chia sẻ kinh nghiệm hài hước về sức khỏe
 
-![](images/20250416_063119_448.webp)
+![](/images/20250416_063119_448.webp)
 
 Hình ảnh: Ông Sugihara (người thứ hai từ trái sang, hàng đầu) cùng với các nghệ sĩ khác tại buổi biểu diễn ở Tokyo.
 
@@ -22,6 +21,6 @@ Qua các hoạt động tại Cục Cảnh sát và Bộ Y tế, ông Sugihara n
 
 Ông Sugihara kể lại rằng, vào cuối tháng 3, ông đã đến Việt Nam tham gia dự án xây dựng lại ký túc xá trường học bị ảnh hưởng bởi lũ lụt. Tại đây, ông bị viêm dạ dày ruột cấp tính. Ông cho biết: “Mặc dù tôi đã nhắc nhở mọi người cẩn thận với rau sống, nhưng chính tôi lại ăn salad.”
 
-Đây là lần đầu tiên ông phải nhập viện ở nước ngoài. Sốt của ông lên tới 39,5 độ C. Ông hài hước kể lại: “Tôi bị tiêu chảy khoảng 100 lần và không biết mình đang ở đâu nữa.”  Khán giả cười ồ lên. Người dẫn chương trình, nghệ sĩ hài Yoshihara Asama (75 tuổi), người cũng là Cán bộ hỗ trợ đặc biệt về phòng chống tội phạm, đã thốt lên: “Tôi muốn làm đệ tử của ông Sugihara!”
+Đây là lần đầu tiên ông phải nhập viện ở nước ngoài. Sốt của ông lên tới 39,5 độ C. Ông hài hước kể lại: “Tôi bị tiêu chảy khoảng 100 lần và không biết mình đang ở đâu nữa.” Khán giả cười ồ lên. Người dẫn chương trình, nghệ sĩ hài Yoshihara Asama (75 tuổi), người cũng là Cán bộ hỗ trợ đặc biệt về phòng chống tội phạm, đã thốt lên: “Tôi muốn làm đệ tử của ông Sugihara!”
 
-Ông Sugihara kết luận: “Hãy luôn khỏe mạnh và đừng bao giờ nghĩ rằng mình sẽ không bị lừa đảo.”  Ca sĩ Oda Yosuko (63 tuổi), vợ của ông Sugihara và cũng là Cán bộ hỗ trợ đặc biệt về phòng chống tội phạm trong dự án “Chấm dứt lừa đảo Oレオレ 47 – Chiến dịch tình thân gia đình” của Cục Cảnh sát Nhật Bản, cùng với Ito Momoka (21 tuổi), thành viên nhóm nhạc AKB48, cũng đã tham gia biểu diễn.
+Ông Sugihara kết luận: “Hãy luôn khỏe mạnh và đừng bao giờ nghĩ rằng mình sẽ không bị lừa đảo.” Ca sĩ Oda Yosuko (63 tuổi), vợ của ông Sugihara và cũng là Cán bộ hỗ trợ đặc biệt về phòng chống tội phạm trong dự án “Chấm dứt lừa đảo O レオレ 47 – Chiến dịch tình thân gia đình” của Cục Cảnh sát Nhật Bản, cùng với Ito Momoka (21 tuổi), thành viên nhóm nhạc AKB48, cũng đã tham gia biểu diễn.

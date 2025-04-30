@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/cd9dd21a39f02b3b2730a2d1b0f7ed31b74c156e
 created_at: 2025-04-19 19:27:44
 ---
 
-
 # Khủng hoảng thuế quan Trump: Doanh nghiệp nhỏ Hàn Quốc im lặng chịu đựng
 
-![](images/20250419_192633_740.webp)
+![](/images/20250419_192633_740.webp)
 
 Tổng thống Mỹ Donald Trump (c)AFP/news1
 

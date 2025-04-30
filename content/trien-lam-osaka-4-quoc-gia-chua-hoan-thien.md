@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/d0ac21ec59509cc03506ce3ec9caad9ab38e8356
 created_at: 2025-04-17 06:27:54
 ---
 
-
 # Triển lãm Osaka ngày thứ 4: 4 quốc gia, bao gồm cả Việt Nam, vẫn chưa hoàn thiện, triển vọng khai trương không chắc chắn… Chile đã khai trương
 
-![](images/20250417_062346_713.webp)
+![](/images/20250417_062346_713.webp)
 
 Triển lãm tại gian hàng Chile. Các sản phẩm dệt truyền thống được trưng bày, màn hình chiếu các hình ảnh về Chile = Ngày 16 tháng 4, quận Cửa Hoa, Osaka (chụp bởi Namun Miya)
 

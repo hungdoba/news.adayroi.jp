@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/d8f6386c9714ea9bf3beebfd6548a0cd4a2f7c67
 created_at: 2025-04-08 18:51:17
 ---
 
-
 # Đà Nẵng tăng trưởng GDP 11,36% trong quý I
 
-![](images/20250408_184145_269.webp)
+![](/images/20250408_184145_269.webp)
 
 Ảnh: NNA
 

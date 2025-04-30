@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/ba0f960509c34d2d7071e8e9d1e23acff88f741b
 created_at: 2025-04-14 21:43:22
 ---
 
-
 # Nhật Bản chưa chìm: Học thuyết của Uzawa và tương lai
 
-![](images/20250414_213448_118.webp)
+![](/images/20250414_213448_118.webp)
 
 (Minh họa = Morinaga You)
 
@@ -84,13 +83,13 @@ Theo bi kịch của tài sản chung, ý tưởng về “vốn được chia s
 
 Uzawa chỉ trích rằng kinh tế học truyền thống chỉ xem xét bi kịch của tài sản chung dưới góc độ “sở hữu tư nhân hoặc kiểm soát nhà nước”. Sau đó, ông giới thiệu nghiên cứu về đất chung của các cộng đồng truyền thống và cho rằng “Việc hình thành đất chung là vấn đề thể chế”.
 
-Bi kịch của tài sản chung chỉ xảy ra khi có hai điều kiện: 1. Đất chung mở cửa cho tất cả mọi người (mở quyền truy cập), 2. Tài nguyên của đất chung chỉ có thể thu được ở đó và sẽ cạn kiệt nếu bị khai thác hết. 
+Bi kịch của tài sản chung chỉ xảy ra khi có hai điều kiện: 1. Đất chung mở cửa cho tất cả mọi người (mở quyền truy cập), 2. Tài nguyên của đất chung chỉ có thể thu được ở đó và sẽ cạn kiệt nếu bị khai thác hết.
 
 Ngược lại, các cộng đồng nông thôn truyền thống có đất chung tương đương với vốn chung xã hội. Bất kỳ ai là cư dân trong làng cũng có thể sử dụng mảnh đất đó. Nếu là núi, thì việc thu thập củi hoặc lá khô là tự do. Việc quản lý đất đai tuân theo phong tục tập quán của làng và được thực hiện bởi toàn bộ dân làng.
 
 Đất chung không đáp ứng điều kiện “mở cửa cho tất cả mọi người” của “bi kịch của tài sản chung”, mà chỉ có người dân trong làng mới được sử dụng (người ngoài không được vào). Hơn nữa, cư dân trong làng được yêu cầu tuân thủ các phong tục tập quán. Nói cách khác, có một trật tự tồn tại dựa trên hệ thống xã hội tương tự như hệ thống pháp luật. Đó là lý do tại sao đất chung có thể tồn tại như một thể chế trong cộng đồng nông thôn.
 
-Điều đó có nghĩa là có thể tạo ra vốn chung xã hội bền vững thông qua các thể chế xã hội như luật pháp. 
+Điều đó có nghĩa là có thể tạo ra vốn chung xã hội bền vững thông qua các thể chế xã hội như luật pháp.
 
 Khi đọc các tác phẩm của Uzawa như “Vốn chung xã hội” (tập san Iwanami Shinsho) và “Kinh tế học của Uzawa Hirofumi” (Nhà xuất bản Nihon Keizai Shinbun), tôi nhận ra rằng khái niệm vốn chung xã hội ông đề xuất không phải là điều mới mẻ.
 

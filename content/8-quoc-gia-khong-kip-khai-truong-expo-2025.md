@@ -7,13 +7,9 @@ url: https://news.yahoo.co.jp/articles/d48358135fea1ca91d45a6baa12be4016342aec7
 created_at: 2025-04-13 10:05:43
 ---
 
-
-
-
-
 # 8 quốc gia không kịp khai trương gian hàng tại ngày khai mạc Expo 2025
 
-![](images/20250413_084416_327.webp)
+![](/images/20250413_084416_327.webp)
 
 Khu vực tổ chức Triển lãm Thế giới Osaka-Kansai (sáng ngày 12, quận 此花, thành phố Osaka, chụp từ trực thăng báo Yomiuri) = Ảnh: Kanazawa Shu
 

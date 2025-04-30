@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/d83f229bb4dd9187b754d1c6c8c262d5092b8702
 created_at: 2025-04-15 05:50:24
 ---
 
-
 # Trump có thể dùng thuế quan để gây sức ép an ninh, thậm chí cả với Nhật Bản
 
 ## Phỏng vấn ［Khủng hoảng - Trật tự kinh tế thế giới］ <2>
 
-![](images/20250415_054759_239.webp)
+![](/images/20250415_054759_239.webp)
 
 Wilbur Ross, cựu Bộ trưởng Thương mại trong chính quyền Trump lần thứ nhất, là một doanh nhân. Sau khi tốt nghiệp trường kinh doanh đại học Harvard, ông làm việc tại các ngân hàng đầu tư và nổi tiếng là chuyên gia tái cấu trúc doanh nghiệp. Ông được biết đến là người am hiểu Nhật Bản, từng tham gia tái cấu trúc các công ty Nhật Bản và là chủ tịch của một tổ chức giao lưu Nhật - Mỹ. Ông là bạn thân và được Tổng thống Trump tin tưởng. 87 tuổi.
 

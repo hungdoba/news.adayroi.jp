@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/6b7815051f4db26cc8d74b40643b9539383ce7ca
 created_at: 2025-04-26 19:38:58
 ---
 
-
 # Nam thanh niên nhiễm sởi sau khi về từ Việt Nam
 
-![](images/20250426_193514_163.webp)
+![](/images/20250426_193514_163.webp)
 
 **Tỉnh trưởng Gunma**
 

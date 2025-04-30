@@ -7,16 +7,15 @@ url: https://news.yahoo.co.jp/articles/ca80e0e1465cf78bb0a4fb2879dce040c7a4e600
 created_at: 2025-04-08 06:46:29
 ---
 
-
 # U-17 Nhật Bản công bố đội hình xuất phát! 3 sự thay đổi so với trận đấu đầu tiên, hướng đến trả thù trước Việt Nam
 
-![](images/20250408_064127_343.webp)
+![](/images/20250408_064127_343.webp)
 
 Đội hình xuất phát được công bố (Hiroyuki SATO)
 
 [4.7 U17 Vòng bảng Asian Cup trận thứ 2 Việt Nam - Nhật Bản Thái Lan]
 
-Đội tuyển U-17 Nhật Bản sẽ thi đấu trận thứ 2 vòng bảng Cúp bóng đá U-17 châu Á tại Saudi Arabia 2025 gặp đội tuyển U-17 Việt Nam vào lúc 24 giờ ngày 7 (giờ Nhật Bản).  Đây là trận đấu then chốt, nếu thắng, Nhật Bản sẽ giành quyền vào vòng loại trực tiếp và tham dự World Cup U-17. Đội hình xuất phát đã được công bố với 3 sự thay đổi so với trận đấu đầu tiên.
+Đội tuyển U-17 Nhật Bản sẽ thi đấu trận thứ 2 vòng bảng Cúp bóng đá U-17 châu Á tại Saudi Arabia 2025 gặp đội tuyển U-17 Việt Nam vào lúc 24 giờ ngày 7 (giờ Nhật Bản). Đây là trận đấu then chốt, nếu thắng, Nhật Bản sẽ giành quyền vào vòng loại trực tiếp và tham dự World Cup U-17. Đội hình xuất phát đã được công bố với 3 sự thay đổi so với trận đấu đầu tiên.
 
 [【Hình ảnh】 Hình ảnh hậu trường của đội tuyển U-17 Nhật Bản trước trận đấu then chốt hướng đến World Cup](https://web.gekisaka.jp/photonews/japan/detail/?427453-427453-pn)
 

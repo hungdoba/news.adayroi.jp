@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/7d798ef5f08ee3b3ea02b014a6cc0df95f750afc
 created_at: 2025-04-22 21:30:18
 ---
 
-
 # Việt Nam tăng cường kiểm soát xuất khẩu gian lận, giữa bối cảnh căng thẳng thương mại Mỹ - Trung
 
-![](images/20250422_212046_636.webp)
+![](/images/20250422_212046_636.webp)
 
 Theo một văn bản mà Reuters đã xác nhận vào ngày 22 tháng 4, Bộ Công Thương Việt Nam đã ban hành thông báo về việc tăng cường kiểm soát xuất khẩu gian lận, nhằm vào các nước nhập khẩu như Mỹ.
 
-Trong thông báo ngày 15, Bộ Công Thương cho rằng các hoạt động gian lận thương mại có thể gia tăng trong bối cảnh căng thẳng thương mại leo thang do thuế quan của Mỹ.  Nếu không ngăn chặn, việc này sẽ khiến "việc các nước áp dụng các biện pháp trừng phạt đối với hàng nhập khẩu trở nên khó khăn hơn". Thông báo không nêu cụ thể quốc gia nào là nguồn gốc xuất khẩu gian lận.
+Trong thông báo ngày 15, Bộ Công Thương cho rằng các hoạt động gian lận thương mại có thể gia tăng trong bối cảnh căng thẳng thương mại leo thang do thuế quan của Mỹ. Nếu không ngăn chặn, việc này sẽ khiến "việc các nước áp dụng các biện pháp trừng phạt đối với hàng nhập khẩu trở nên khó khăn hơn". Thông báo không nêu cụ thể quốc gia nào là nguồn gốc xuất khẩu gian lận.
 
 Tuy nhiên, gần 40% hàng nhập khẩu của Việt Nam đến từ Trung Quốc. Mỹ cáo buộc Trung Quốc đang sử dụng Việt Nam làm trung chuyển để tránh thuế quan của Mỹ.
 

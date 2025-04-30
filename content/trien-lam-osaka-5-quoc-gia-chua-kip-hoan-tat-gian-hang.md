@@ -7,13 +7,9 @@ url: https://news.yahoo.co.jp/articles/7245a9e8ef8a4961f6b5466ed5c5cc4415b35355
 created_at: 2025-04-13 10:05:43
 ---
 
-
-
-
-
 # Triển lãm Osaka: 5 quốc gia chưa kịp hoàn tất gian hàng
 
-![](images/20250413_084417_149.webp)
+![](/images/20250413_084417_149.webp)
 
 Gian hàng Ấn Độ đang trong quá trình xây dựng (ngày 12)
 

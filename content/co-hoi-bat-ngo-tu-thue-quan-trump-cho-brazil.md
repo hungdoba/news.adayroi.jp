@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/3fc5ae989ccd6f256bbde09fee16a0c80747bcaf
 created_at: 2025-04-06 07:12:49
 ---
 
-
 # Cơ hội bất ngờ từ thuế quan Trump cho Brazil
 
-![](images/20250406_070238_891.webp)
+![](/images/20250406_070238_891.webp)
 
 Thuế quan Trump liệu có trở thành động lực thúc đẩy ngành công nghiệp giày dép Brazil? (Một phần bài báo trên trang web G1 ngày 3)
 

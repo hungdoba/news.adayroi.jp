@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/7b2fc9b705f98676431c6b33e077831b2887a719
 created_at: 2025-04-17 06:27:54
 ---
 
-
 # Ngoại trưởng Hàn Quốc hội đàm với Chủ tịch nước và Thủ tướng Việt Nam
 
-![](images/20250417_062410_579.webp)
+![](/images/20250417_062410_579.webp)
 
 Chủ tịch nước Việt Nam Nguyễn Phú Trọng (bên phải) và Ngoại trưởng Hàn Quốc Cho Tae-yul (ảnh: Bộ Ngoại giao Hàn Quốc) - (Tin tức Yonhap) <<Cấm sao chép và sử dụng lại>>
 

@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/d1da2c84868382a2219d6aa41bca833fdeb3bac6
 created_at: 2025-04-25 18:06:16
 ---
 
-
 # Thỏa thuận Nhật-Mỹ: Mỹ muốn đô la mạnh nhưng rẻ?
 
-![](images/20250425_063539_690.webp)
+![](/images/20250425_063539_690.webp)
 
 Cuộc gặp giữa Bộ trưởng Tài chính Nhật Bản và Mỹ dự kiến diễn ra vào ngày 25 (giờ Nhật Bản). Một trong những vấn đề được quan tâm là tỷ giá hối đoái, với mục tiêu của Mỹ là một đồng đô la “mạnh nhưng rẻ”. Điều này đã làm dấy lên lo ngại về một “Plaza Accord 2.0” từ các quốc gia khác. [【Hình ảnh】Yêu cầu dự kiến từ chính quyền Trump](https://news.tv-asahi.co.jp/news_international/articles/photos/900023401.html)
 
@@ -22,7 +21,7 @@ Chính quyền Trump có đang nhắm đến việc giảm giá trị đồng đ
 
 ## Cuộc gặp giữa Bộ trưởng Tài chính Nhật-Mỹ: Những yêu cầu có thể xảy ra?
 
-Vậy, làm thế nào để giảm giá trị đồng đô la mà vẫn duy trì được sức mạnh của nó? Điều mà Nhật Bản và các quốc gia khác lo ngại là yêu cầu can thiệp tỷ giá phối hợp đa phương. Điều này được gọi là “Plaza Accord 2.0”, ám chỉ sự lặp lại của Thỏa thuận Plaza năm 1985, và gần đây còn được gọi là “Thỏa thuận Mar-a-Lago”, lấy tên biệt thự của Tổng thống Trump. 
+Vậy, làm thế nào để giảm giá trị đồng đô la mà vẫn duy trì được sức mạnh của nó? Điều mà Nhật Bản và các quốc gia khác lo ngại là yêu cầu can thiệp tỷ giá phối hợp đa phương. Điều này được gọi là “Plaza Accord 2.0”, ám chỉ sự lặp lại của Thỏa thuận Plaza năm 1985, và gần đây còn được gọi là “Thỏa thuận Mar-a-Lago”, lấy tên biệt thự của Tổng thống Trump.
 
 Trong cuộc gặp giữa Bộ trưởng Tài chính Nhật-Mỹ dự kiến vào ngày 25 (giờ Nhật Bản), những yêu cầu nào có thể được đưa ra?
 

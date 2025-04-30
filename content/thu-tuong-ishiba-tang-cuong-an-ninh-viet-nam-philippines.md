@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/ed1e5c4c55bd1ee4363e4525549a0e9a7903377c
 created_at: 2025-04-25 18:06:15
 ---
 
-
 # Thủ tướng Ishiba tăng cường hợp tác an ninh với hai quốc gia Đông Nam Á
 
-![](images/20250425_175937_464.webp)
+![](/images/20250425_175937_464.webp)
 
 Thông tin cho biết Thủ tướng Ishiba sẽ thăm Việt Nam và Philippines từ ngày 27 đến 30 tháng này để thảo luận về việc cung cấp thiết bị quốc phòng, ký kết các thỏa thuận về thông tin quân sự, và tăng cường hợp tác an ninh cụ thể.
 

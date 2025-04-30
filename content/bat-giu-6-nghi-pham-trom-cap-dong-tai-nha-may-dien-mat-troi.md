@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/df6e4964a6ac5bfc5aaaabb8ceee7b332aecbcb1
 created_at: 2025-04-09 20:02:21
 ---
 
-
 # Bắt giữ 6 nghi phạm trộm cáp đồng tại nhà máy điện mặt trời ở Okayama
 
-![](images/20250409_195231_800.webp)
+![](/images/20250409_195231_800.webp)
 
-Ngày 9 tháng 4 năm nay, 6 người đàn ông mang quốc tịch nước ngoài đã bị bắt giữ vì tình nghi cắt và cố gắng trộm cáp đồng từ một cơ sở điện mặt trời ở phía nam tỉnh Okayama. 
+Ngày 9 tháng 4 năm nay, 6 người đàn ông mang quốc tịch nước ngoài đã bị bắt giữ vì tình nghi cắt và cố gắng trộm cáp đồng từ một cơ sở điện mặt trời ở phía nam tỉnh Okayama.
 
 Sáu người bị bắt giữ vì tội danh cố ý trộm cắp gồm 5 người đàn ông quốc tịch Campuchia, độ tuổi từ 22 đến 34, và 1 người đàn ông quốc tịch Việt Nam, 25 tuổi.
 

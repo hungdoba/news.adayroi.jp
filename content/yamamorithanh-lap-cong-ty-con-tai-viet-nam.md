@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/214235c1dcccd74ce5293de6ad549ce73b419804
 created_at: 2025-04-23 18:04:05
 ---
 
-
 # Yamamori thành lập công ty con tại Việt Nam, tiếp bước Thái Lan
 
-![](images/20250423_175653_200.webp)
+![](/images/20250423_175653_200.webp)
 
 Thị trường ăn uống ngoài trời tại Việt Nam chủ yếu là các món ăn Việt Nam, tiếp theo là các món ăn Nhật Bản.
 
@@ -24,6 +23,6 @@ Theo khảo sát của Yamamori, tỷ lệ ăn uống tại nhà ở Việt Nam 
 
 Công ty đã tiến vào Vương quốc Thái Lan vào năm 1988. Hiện tại, thị trường xuất khẩu nước ngoài của công ty, lấy Thái Lan làm trung tâm, đã bao gồm 20 quốc gia trong khu vực ASEAN, Trung Đông, EU và Úc.
 
-Doanh thu hàng năm của công ty tại Thái Lan năm 2024 là 908 triệu baht (khoảng 3,81 tỷ yên Nhật, quy đổi theo tỷ giá 1 baht = 4,2 yên, *chỉ bao gồm giao dịch tại chỗ, không bao gồm xuất khẩu sang Nhật Bản). Việt Nam là quốc gia nhập khẩu nhiều nhất từ công ty tại Thái Lan, và việc nắm bắt được kinh nghiệm về dòng chảy thương mại cũng là một trong những lý do thúc đẩy việc thâm nhập thị trường này.
+Doanh thu hàng năm của công ty tại Thái Lan năm 2024 là 908 triệu baht (khoảng 3,81 tỷ yên Nhật, quy đổi theo tỷ giá 1 baht = 4,2 yên, \*chỉ bao gồm giao dịch tại chỗ, không bao gồm xuất khẩu sang Nhật Bản). Việt Nam là quốc gia nhập khẩu nhiều nhất từ công ty tại Thái Lan, và việc nắm bắt được kinh nghiệm về dòng chảy thương mại cũng là một trong những lý do thúc đẩy việc thâm nhập thị trường này.
 
 Về việc thành lập cơ sở sản xuất tại Việt Nam, công ty cho biết: “Chúng tôi đang xem xét khả năng sản xuất tại chỗ dựa trên nhu cầu và triển vọng trong tương lai, nhưng hiện tại vẫn chưa được quyết định.”

@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/73065c9d3b3b2fec033f72a45726d007e90a612f
 created_at: 2025-04-17 17:51:26
 ---
 
-
 # Thủ tướng Ishiba thăm Đông Nam Á, hỗ trợ an ninh cho Việt Nam, đàm phán hiệp định thông tin với Philippines
 
-![](images/20250417_174551_486.webp)
+![](/images/20250417_174551_486.webp)
 
-Thủ tướng Ishiba茂 tại Phủ Thủ tướng - Sáng ngày 16, Tokyo, Nagatacho
+Thủ tướng Ishiba 茂 tại Phủ Thủ tướng - Sáng ngày 16, Tokyo, Nagatacho
 
-Thủ tướng Nhật Bản Ishiba茂 sẽ thực hiện chuyến thăm hai quốc gia Đông Nam Á là Việt Nam và Philippines từ ngày 27 đến 30 tháng này.
+Thủ tướng Nhật Bản Ishiba 茂 sẽ thực hiện chuyến thăm hai quốc gia Đông Nam Á là Việt Nam và Philippines từ ngày 27 đến 30 tháng này.
 
 Tại Việt Nam, Thủ tướng sẽ thông báo kế hoạch đưa Việt Nam vào danh sách các quốc gia được hưởng lợi từ chương trình "Hỗ trợ tăng cường năng lực an ninh quốc gia của Chính phủ (OSA)", bao gồm viện trợ thiết bị quốc phòng.
 Tại Philippines, hai nước dự kiến sẽ đạt được thỏa thuận bắt đầu đàm phán về Hiệp định bảo vệ thông tin quân sự toàn diện (GSOMIA).

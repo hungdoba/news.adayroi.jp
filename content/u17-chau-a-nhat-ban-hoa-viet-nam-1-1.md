@@ -7,17 +7,16 @@ url: https://news.yahoo.co.jp/articles/fa4f3f536c3824a4fac4695e99de28caafcf61c5
 created_at: 2025-04-08 18:51:17
 ---
 
-
 # U17 châu Á: Nhật Bản hòa Việt Nam 1-1
 
-![](images/20250408_184154_289.webp)
+![](/images/20250408_184154_289.webp)
 
 (Ảnh: Yoshida Minato, chụp tháng 2 năm 2025)
 
 **Trận đấu:** U-17 Asian Cup: Nhật Bản 1-1 Việt Nam
 **Thời gian:** Ngày 7 tháng 7, tại Taif, Ả Rập Xê Út
 
-Nhật Bản đã hòa Việt Nam với tỷ số 1-1 trong trận đấu thứ hai vòng bảng B.  
+Nhật Bản đã hòa Việt Nam với tỷ số 1-1 trong trận đấu thứ hai vòng bảng B.
 
 Tiền đạo Yoshida Minato (CLB trẻ của Kashima Antlers) ghi bàn thắng thứ hai liên tiếp giúp đội nhà vươn lên dẫn trước. Tuy nhiên, Nhật Bản đã bị gỡ hòa vào những phút cuối cùng của trận đấu.
 

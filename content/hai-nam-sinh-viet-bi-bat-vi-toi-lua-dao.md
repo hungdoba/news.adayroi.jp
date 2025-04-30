@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/c113920cd924d5f694cc2ff3d62a121909730a44
 created_at: 2025-04-09 06:54:09
 ---
 
-
 # Hai sinh viên Việt Nam bị bắt giữ vì nghi ngờ lừa đảo, sử dụng tài khoản ngân hàng để thực hiện lừa đảo đầu tư tại Kobe
 
-![](images/20250409_064852_844.webp)
+![](/images/20250409_064852_844.webp)
 
 Cơ quan Cảnh sát tỉnh Hyogo - Kobe
 

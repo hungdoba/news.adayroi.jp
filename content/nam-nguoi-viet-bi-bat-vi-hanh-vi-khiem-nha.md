@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/dc4074a468c7174952e02c53fa03473ce8109f52
 created_at: 2025-04-16 19:24:43
 ---
 
-
 # Nam người Việt bị bắt vì hành vi khiếm nhã
 
-![](images/20250416_191558_683.webp)
+![](/images/20250416_191558_683.webp)
 
 Cơ quan Cảnh sát thành phố Obihiro, tỉnh Hokkaido, Nhật Bản ngày 15 tháng 4 đã bắt giữ một người đàn ông 35 tuổi, quốc tịch Việt Nam, làm việc tạm thời tại Obihiro, với cáo buộc hành vi khiếm nhã trái ý muốn.
 

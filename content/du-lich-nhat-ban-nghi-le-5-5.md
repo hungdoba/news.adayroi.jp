@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/925bf85eecdddbd3f78dd01bce8d6ed053d02754
 created_at: 2025-04-25 06:38:02
 ---
 
-
 # Du lịch Nhật Bản được ưa chuộng dịp nghỉ lễ 5/5
 
-![](images/20250425_063535_359.webp)
+![](/images/20250425_063535_359.webp)
 
-Lâu đài Osaka＝(Tin tức liên hợp)
+Lâu đài Osaka ＝(Tin tức liên hợp)
 
-【Seoul, Tin tức liên hợp】Ngày 24, hãng hàng không giá rẻ (LCC) Jin Air của Hàn Quốc cho biết các tuyến quốc tế có tỷ lệ đặt chỗ cao trong kỳ nghỉ lễ dài 7 ngày (30/4-6/5) là Osaka (Nhật Bản), Nha Trang (Việt Nam) và Fukuoka (Nhật Bản).  Đứng sau đó là Okinawa, Phú Quốc (Việt Nam) và Guam (Mỹ).
+【Seoul, Tin tức liên hợp】Ngày 24, hãng hàng không giá rẻ (LCC) Jin Air của Hàn Quốc cho biết các tuyến quốc tế có tỷ lệ đặt chỗ cao trong kỳ nghỉ lễ dài 7 ngày (30/4-6/5) là Osaka (Nhật Bản), Nha Trang (Việt Nam) và Fukuoka (Nhật Bản). Đứng sau đó là Okinawa, Phú Quốc (Việt Nam) và Guam (Mỹ).
 
 Năm ngoái, tỷ lệ khách lên máy bay trong kỳ nghỉ tháng 5 là Phú Quốc, Fukuoka, Guam, Nha Trang, Đà Nẵng (Việt Nam) và Bangkok (Thái Lan), nhưng năm nay, các tuyến bay đến Nhật Bản được ưa chuộng hơn so với năm ngoái.
 

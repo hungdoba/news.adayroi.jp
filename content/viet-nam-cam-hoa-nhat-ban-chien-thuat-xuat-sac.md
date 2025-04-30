@@ -7,22 +7,21 @@ url: https://news.yahoo.co.jp/articles/28b4cb9c949d79cc972acabe519bd40c420b8d4f
 created_at: 2025-04-08 18:51:16
 ---
 
-
 # Việt Nam cầm hòa Nhật Bản: Chiến thuật xuất sắc
 
-![](images/20250408_184119_843.webp)
+![](/images/20250408_184119_843.webp)
 
 HLV Roland bày tỏ sự khen ngợi đối với trận hòa kịch tính trước Nhật Bản
 
 Huấn luyện viên trưởng đội tuyển U-17 Việt Nam, ông Cristiano Roland, đã có những chia sẻ về trận đấu với U-17 Nhật Bản. Thông tin được trang chủ Liên đoàn bóng đá châu Á (AFC) đăng tải. [【Video】Ngăn chặn Nhật Bản giành vé dự World Cup! Việt Nam tạo nên kịch tính ở những phút cuối](https://web.ultra-soccer.jp/news/view?news_no=482761&div=movie&from=yahoonews_extra)
 
-Ngày 7/4, lượt trận thứ hai vòng bảng B giải vô địch U17 châu Á đã diễn ra, với cuộc đối đầu giữa Việt Nam và Nhật Bản.  Việt Nam bước vào trận đấu sau trận hòa trước U17 Australia ở lượt trận đầu tiên, trong khi Nhật Bản đã giành chiến thắng trước U17 UAE.  Một trận thua sẽ khiến cơ hội đi tiếp của Việt Nam trở nên vô cùng khó khăn.
+Ngày 7/4, lượt trận thứ hai vòng bảng B giải vô địch U17 châu Á đã diễn ra, với cuộc đối đầu giữa Việt Nam và Nhật Bản. Việt Nam bước vào trận đấu sau trận hòa trước U17 Australia ở lượt trận đầu tiên, trong khi Nhật Bản đã giành chiến thắng trước U17 UAE. Một trận thua sẽ khiến cơ hội đi tiếp của Việt Nam trở nên vô cùng khó khăn.
 
 Trận đấu diễn ra với chiến thuật 6 hậu vệ của Việt Nam nhằm ngăn chặn các pha tấn công biên của Nhật Bản. Nhật Bản gặp khó khăn trong việc xuyên phá hàng phòng ngự Việt Nam, cả từ trung lộ lẫn hai biên, và chỉ có thể ghi bàn mở tỷ số từ một quả phạt góc.
 
-Mặc dù bị dẫn bàn, Việt Nam vẫn chơi vững vàng. Sang hiệp hai, đội tuyển đẩy cao đội hình tấn công mạnh mẽ hơn, tuy nhiên, thế trận vẫn chủ yếu thuộc về Nhật Bản.  Tuy nhiên, hàng phòng ngự Việt Nam đã kiên cường đứng vững, không để đối thủ ghi thêm bàn thắng.
+Mặc dù bị dẫn bàn, Việt Nam vẫn chơi vững vàng. Sang hiệp hai, đội tuyển đẩy cao đội hình tấn công mạnh mẽ hơn, tuy nhiên, thế trận vẫn chủ yếu thuộc về Nhật Bản. Tuy nhiên, hàng phòng ngự Việt Nam đã kiên cường đứng vững, không để đối thủ ghi thêm bàn thắng.
 
-Trận đấu tưởng chừng sẽ kết thúc với tỷ số 1-0 nghiêng về Nhật Bản, thì ở những giây cuối cùng, từ một đường chuyền dài của thủ môn, Việt Nam đã có cơ hội và giành được quả phạt đền.  Một bàn thắng penalty ở những phút cuối cùng đã giúp Việt Nam có được trận hòa 1-1, qua đó giữ nguyên hy vọng giành vé dự World Cup U17 ở trận đấu cuối cùng.
+Trận đấu tưởng chừng sẽ kết thúc với tỷ số 1-0 nghiêng về Nhật Bản, thì ở những giây cuối cùng, từ một đường chuyền dài của thủ môn, Việt Nam đã có cơ hội và giành được quả phạt đền. Một bàn thắng penalty ở những phút cuối cùng đã giúp Việt Nam có được trận hòa 1-1, qua đó giữ nguyên hy vọng giành vé dự World Cup U17 ở trận đấu cuối cùng.
 
 Sau trận đấu, HLV Roland đã dành lời khen ngợi cho các học trò vì đã thi đấu xuất sắc trước một đối thủ mạnh như Nhật Bản.
 

@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/c6c159c0c8b0fa4b8c8cd884e1549c988bf210c9
 created_at: 2025-04-10 18:13:21
 ---
 
-
 # Nam quốc tịch Việt Nam bị bắt vì buôn lậu cần sa tại Nhật Bản
 
-![](images/20250410_180351_786.webp)
+![](/images/20250410_180351_786.webp)
 
 Cơ quan Hải quan Tokyo
 
@@ -22,7 +21,7 @@ Theo cảnh sát, Nguyễn Ngọc Quý đã khai báo hành lý là thực phẩ
 
 Các nhân viên hải quan đã phát hiện số cần sa này trong quá trình kiểm tra các kiện hàng đến từ Việt Nam – quốc gia đang gia tăng số lượng vụ buôn lậu cần sa.
 
-Quý đã sử dụng thủ đoạn gửi hàng đến một căn phòng khác trong chung cư mà anh ta đang sống tại thành phố Fukaya, và người thuê phòng khác sẽ nhận hàng rồi chuyển lại cho anh ta.  
+Quý đã sử dụng thủ đoạn gửi hàng đến một căn phòng khác trong chung cư mà anh ta đang sống tại thành phố Fukaya, và người thuê phòng khác sẽ nhận hàng rồi chuyển lại cho anh ta.
 
 Người thuê phòng khác khi được phỏng vấn bởi ANN đã cho biết: "Tôi rất ngạc nhiên. Có lẽ nhiều người bị lợi dụng mà không hay biết".
 

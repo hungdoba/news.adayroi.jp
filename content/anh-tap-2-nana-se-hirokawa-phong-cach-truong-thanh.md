@@ -9,7 +9,7 @@ created_at: 2025-04-12 07:06:17
 
 # Ảnh tập thứ hai của Nana Se Hirokawa: vẻ đẹp trưởng thành quyến rũ và vẻ đẹp trong sáng
 
-![](images/20250411_220138_043.webp)
+![](/images/20250411_220138_043.webp)
 
 Ảnh tập thứ hai của Nana Se Hirokawa, Wasuta: 『innocent』
 

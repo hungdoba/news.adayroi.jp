@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/d538b3c71947b1417b5d18b0ceeb94f01de6541d
 created_at: 2025-04-21 18:17:19
 ---
 
-
 # Chiến lược sinh tồn của Nhật Bản trong thế giới thiếu nước và dầu
 
-![](images/20250421_180603_813.webp)
+![](/images/20250421_180603_813.webp)
 
 **Kinh tế là cuộc tranh giành đất đai và tài nguyên**
 

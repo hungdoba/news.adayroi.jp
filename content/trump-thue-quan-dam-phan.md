@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/da3502641683581bb370ddacb895eeee6b11e2d5
 created_at: 2025-04-07 20:04:06
 ---
 
-
 # Trump: Thuế quan cần thiết, nhiều nước đề nghị đàm phán
 
-![](images/20250407_195404_384.webp)
+![](/images/20250407_195404_384.webp)
 
-Tổng thống Donald Trump giơ nắm đấm khi đến Sân bay Quốc tế Miami, Florida (Ảnh chụp ngày 3 tháng 4 năm 2025).  【Biên dịch và biên tập】 AFPBB News
+Tổng thống Donald Trump giơ nắm đấm khi đến Sân bay Quốc tế Miami, Florida (Ảnh chụp ngày 3 tháng 4 năm 2025). 【Biên dịch và biên tập】 AFPBB News
 
-【AFP＝Thời sự】 Phố Wall đang chuẩn bị cho một đợt giảm giá mạnh dự kiến vào đầu tuần sau khi Tổng thống Donald Trump áp đặt thuế quan cao. Trong bối cảnh đó, ông Trump hôm 6/6 đã bác bỏ quan điểm cho rằng ông đang cố tình gây ra sự bán tháo trên thị trường và tuyên bố rằng ông không thể dự đoán phản ứng của thị trường. Ông nói thêm rằng ông sẽ không nhượng bộ trong các thỏa thuận thương mại với các quốc gia khác trừ khi thâm hụt thương mại được giải quyết.
+【AFP ＝ Thời sự】 Phố Wall đang chuẩn bị cho một đợt giảm giá mạnh dự kiến vào đầu tuần sau khi Tổng thống Donald Trump áp đặt thuế quan cao. Trong bối cảnh đó, ông Trump hôm 6/6 đã bác bỏ quan điểm cho rằng ông đang cố tình gây ra sự bán tháo trên thị trường và tuyên bố rằng ông không thể dự đoán phản ứng của thị trường. Ông nói thêm rằng ông sẽ không nhượng bộ trong các thỏa thuận thương mại với các quốc gia khác trừ khi thâm hụt thương mại được giải quyết.
 [【Hình ảnh】 Biểu tình quy mô lớn trên toàn nước Mỹ phản đối "chính sách chia rẽ" của Trump](https://www.afpbb.com/articles/-/3571551?tmpl_skin=gallery&utm_source=yahoo&utm_medium=news&cx_from=yahoo&cx_position=p1&cx_rss=afp&cx_id=3571657)
 
 Ông Trump nói với các phóng viên trên chuyên cơ của mình rằng, việc giá trị thị trường của các công ty Mỹ giảm hàng nghìn tỷ đô la do việc áp đặt thuế quan cao: "Đôi khi bạn phải uống thuốc để chữa bệnh". Ông cho biết đã có các cuộc thảo luận với các nhà lãnh đạo thế giới trong cuối tuần và "họ dường như rất muốn đạt được thỏa thuận".

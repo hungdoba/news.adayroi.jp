@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/0b22941400d2fef718477ed1cf0bb860812d93d1
 created_at: 2025-04-21 18:17:19
 ---
 
-
 # Thị trường bán dẫn chao đảo vì thuế quan Trump
 
-![](images/20250421_180649_006.webp)
+![](/images/20250421_180649_006.webp)
 
-## "Không thể tin nổi!" -  Ngành sản xuất bán dẫn Nhật Bản bị ảnh hưởng nặng nề bởi thuế quan Trump
+## "Không thể tin nổi!" - Ngành sản xuất bán dẫn Nhật Bản bị ảnh hưởng nặng nề bởi thuế quan Trump
 
-Những người trong ngành sản xuất bán dẫn đang lo lắng về hướng đi của các cuộc đàm phán thương mại Mỹ - Nhật.  Ngành công nghiệp này hiện đang nằm trong danh sách đối tượng chịu thuế quan mới. 
+Những người trong ngành sản xuất bán dẫn đang lo lắng về hướng đi của các cuộc đàm phán thương mại Mỹ - Nhật. Ngành công nghiệp này hiện đang nằm trong danh sách đối tượng chịu thuế quan mới.
 [Xem hình ảnh: Tổng thống Trump và Bộ trưởng Akazawa trong cuộc đàm phán](https://newsdig.tbs.co.jp/articles/gallery/1866407?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=1866407&image=2)
 
 Ông Hirota Ryosuke, Trưởng phòng kinh doanh của Fuji Metal, chia sẻ: "Chúng tôi không thể tự đàm phán, điều đó phụ thuộc vào chính phủ. Chúng tôi hy vọng chính phủ sẽ làm mọi cách để bảo vệ lợi ích quốc gia."
@@ -35,7 +34,7 @@ Khi được hỏi về cuộc gọi, ông Hirota cho biết: "Đó là cuộc g
 
 Khách hàng lớn này đã báo cáo rằng họ đang bắt đầu bị ảnh hưởng và có khả năng sẽ giảm đơn đặt hàng trong tương lai.
 
-Bán dẫn, cùng với thép và ô tô, đã trở thành mục tiêu chính sách thuế quan của chính quyền Trump.  Mục tiêu mà chính quyền Trump nhắm đến chính là…
+Bán dẫn, cùng với thép và ô tô, đã trở thành mục tiêu chính sách thuế quan của chính quyền Trump. Mục tiêu mà chính quyền Trump nhắm đến chính là…
 
 ## Cuộc chiến thuế quan giữa hai cường quốc kinh tế
 
@@ -47,22 +46,22 @@ Ngày 19, một cuộc thi chạy marathon được tổ chức tại Bắc Kinh
 
 Một người phụ trách của công ty robot cho biết: "Công nghệ của Trung Quốc đang ở mức hàng đầu thế giới. Chúng tôi có cơ hội vượt qua Mỹ."
 
-Tại triển lãm quốc tế lớn nhất Trung Quốc được tổ chức tại tỉnh Quảng Đông từ ngày 15, nhiều robot được trưng bày.  Các ý kiến được nghe thấy tại đây là:
+Tại triển lãm quốc tế lớn nhất Trung Quốc được tổ chức tại tỉnh Quảng Đông từ ngày 15, nhiều robot được trưng bày. Các ý kiến được nghe thấy tại đây là:
 
-* Một người phụ trách của công ty tham gia triển lãm: "Chúng tôi đang tập trung mạnh vào thị trường châu Âu."
-* Một người phụ trách của công ty tham gia triển lãm: "Chúng tôi đang theo dõi thị trường Bắc Mỹ. Chúng tôi đã quyết định chuyển hướng sang thị trường ASEAN."
+- Một người phụ trách của công ty tham gia triển lãm: "Chúng tôi đang tập trung mạnh vào thị trường châu Âu."
+- Một người phụ trách của công ty tham gia triển lãm: "Chúng tôi đang theo dõi thị trường Bắc Mỹ. Chúng tôi đã quyết định chuyển hướng sang thị trường ASEAN."
 
-Trung Quốc đang tích cực tìm kiếm thị trường xuất khẩu thay thế cho Mỹ.  Từ ngày 14, Chủ tịch Tập Cận Bình đã thăm các quốc gia Đông Nam Á. Tại Việt Nam, ông được Tổng bí thư Nguyễn Phú Trọng đón tiếp nồng hậu. Việt Nam là đối tác thương mại lớn nhất của Trung Quốc.
+Trung Quốc đang tích cực tìm kiếm thị trường xuất khẩu thay thế cho Mỹ. Từ ngày 14, Chủ tịch Tập Cận Bình đã thăm các quốc gia Đông Nam Á. Tại Việt Nam, ông được Tổng bí thư Nguyễn Phú Trọng đón tiếp nồng hậu. Việt Nam là đối tác thương mại lớn nhất của Trung Quốc.
 
 Chủ tịch Tập Cận Bình phát biểu: "Hai nước nên cùng nhau tiến bước."
 
-Trong tuyên bố chung, hai nước bày tỏ sự phản đối chủ nghĩa đơn phương, nhấn mạnh việc duy trì một hệ thống thương mại đa phương không phân biệt đối xử.  Tại Malaysia và Campuchia, Chủ tịch Tập Cận Bình cũng nhấn mạnh sự hợp tác giữa Trung Quốc và các nước Đông Nam Á, nhằm đối trọng với Mỹ.
+Trong tuyên bố chung, hai nước bày tỏ sự phản đối chủ nghĩa đơn phương, nhấn mạnh việc duy trì một hệ thống thương mại đa phương không phân biệt đối xử. Tại Malaysia và Campuchia, Chủ tịch Tập Cận Bình cũng nhấn mạnh sự hợp tác giữa Trung Quốc và các nước Đông Nam Á, nhằm đối trọng với Mỹ.
 
 Tổng thống Trump phát biểu: "Họ đang nghĩ cách lừa đảo Mỹ."
 
 Về vấn đề đàm phán trực tiếp Mỹ - Trung:
 
-* Người phát ngôn Nhà Trắng Levitt: "Quả bóng đang ở phía Trung Quốc. Trung Quốc là bên cần thương lượng, chứ không phải chúng tôi."
-* Ông Lâm Kiếm, phát ngôn viên Bộ Ngoại giao Trung Quốc: "Nếu Mỹ thực sự muốn giải quyết vấn đề thông qua đối thoại và đàm phán, họ nên từ bỏ áp lực và đe dọa."
+- Người phát ngôn Nhà Trắng Levitt: "Quả bóng đang ở phía Trung Quốc. Trung Quốc là bên cần thương lượng, chứ không phải chúng tôi."
+- Ông Lâm Kiếm, phát ngôn viên Bộ Ngoại giao Trung Quốc: "Nếu Mỹ thực sự muốn giải quyết vấn đề thông qua đối thoại và đàm phán, họ nên từ bỏ áp lực và đe dọa."
 
 Cuộc chiến thuế quan giữa hai cường quốc kinh tế sẽ đi đến đâu?

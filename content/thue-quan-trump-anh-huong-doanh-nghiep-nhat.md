@@ -7,18 +7,17 @@ url: https://news.yahoo.co.jp/articles/cf2bf385dd2f8cc6667ec79737df600190d10d75
 created_at: 2025-04-07 20:04:06
 ---
 
-
 # Thế trận khó khăn: Thuế quan Trump ảnh hưởng doanh nghiệp Nhật
 
-![](images/20250407_195344_928.webp)
+![](/images/20250407_195344_928.webp)
 
 Ngày 7 tháng 4, thuế quan tương hỗ của Tổng thống Mỹ Trump, đặc biệt là mức thuế cao đối với các nước Đông Nam Á, đã giáng một đòn mạnh vào các doanh nghiệp Nhật Bản vốn đã chuyển đổi sản xuất sang Việt Nam và Thái Lan để giảm thiểu rủi ro phụ thuộc vào Trung Quốc. Hình ảnh chụp tại Vịnh Tokyo ngày 3 (năm 2025, Reuters/Kim Kyung-Hoon)
 
-Thuế quan tương hỗ do Tổng thống Mỹ Trump áp đặt, đặc biệt là mức thuế cao đối với các nước Đông Nam Á, đã giáng một đòn mạnh vào các doanh nghiệp Nhật Bản vốn đã chuyển đổi sản xuất sang Việt Nam và Thái Lan để giảm thiểu rủi ro phụ thuộc vào Trung Quốc.  Cho dù sản xuất ở đâu, miễn là xuất khẩu sang Mỹ, đều sẽ phát sinh chi phí bổ sung, dẫn đến việc tái cấu trúc chuỗi cung ứng trở nên khó khăn.
+Thuế quan tương hỗ do Tổng thống Mỹ Trump áp đặt, đặc biệt là mức thuế cao đối với các nước Đông Nam Á, đã giáng một đòn mạnh vào các doanh nghiệp Nhật Bản vốn đã chuyển đổi sản xuất sang Việt Nam và Thái Lan để giảm thiểu rủi ro phụ thuộc vào Trung Quốc. Cho dù sản xuất ở đâu, miễn là xuất khẩu sang Mỹ, đều sẽ phát sinh chi phí bổ sung, dẫn đến việc tái cấu trúc chuỗi cung ứng trở nên khó khăn.
 
-Ngày 3, khi Tổng thống Trump công bố thuế quan tương hỗ, thị trường chứng khoán Tokyo chứng kiến chỉ số Nikkei giảm mạnh, trong đó mức giảm của Asics là đáng chú ý. Công ty này, nổi tiếng với giày chạy bộ và thương hiệu cao cấp Onitsuka Tiger, đã đạt doanh thu và lợi nhuận cao nhất mọi thời đại trong năm tài chính 2024, và giá cổ phiếu đạt đỉnh kể từ khi niêm yết vào ngày 17 tháng 2, ngay sau khi công bố báo cáo tài chính.  Sau đó, giá cổ phiếu vẫn duy trì ở mức ổn định.
+Ngày 3, khi Tổng thống Trump công bố thuế quan tương hỗ, thị trường chứng khoán Tokyo chứng kiến chỉ số Nikkei giảm mạnh, trong đó mức giảm của Asics là đáng chú ý. Công ty này, nổi tiếng với giày chạy bộ và thương hiệu cao cấp Onitsuka Tiger, đã đạt doanh thu và lợi nhuận cao nhất mọi thời đại trong năm tài chính 2024, và giá cổ phiếu đạt đỉnh kể từ khi niêm yết vào ngày 17 tháng 2, ngay sau khi công bố báo cáo tài chính. Sau đó, giá cổ phiếu vẫn duy trì ở mức ổn định.
 
-Asics sản xuất gần 90% giày dép tại Việt Nam, Indonesia và Campuchia.  Do xuất khẩu từ 3 quốc gia này sang Bắc Mỹ – thị trường chiếm 20% doanh thu hợp nhất trong năm tài chính 2024 – nên thông báo của Tổng thống Trump đã gây ra sự lo ngại trong giới đầu tư. Từ ngày 9, Việt Nam sẽ áp dụng thuế suất 46%, Indonesia 32% và Campuchia 49% đối với hàng xuất khẩu sang Mỹ.
+Asics sản xuất gần 90% giày dép tại Việt Nam, Indonesia và Campuchia. Do xuất khẩu từ 3 quốc gia này sang Bắc Mỹ – thị trường chiếm 20% doanh thu hợp nhất trong năm tài chính 2024 – nên thông báo của Tổng thống Trump đã gây ra sự lo ngại trong giới đầu tư. Từ ngày 9, Việt Nam sẽ áp dụng thuế suất 46%, Indonesia 32% và Campuchia 49% đối với hàng xuất khẩu sang Mỹ.
 
 Trong bối cảnh toàn cầu hóa và tự do thương mại, các doanh nghiệp Nhật Bản đã lựa chọn Trung Quốc làm trung tâm sản xuất chính. Tuy nhiên, kể từ cuối những năm 2010, do cuộc đối đầu Mỹ - Trung ngày càng gay gắt, sự suy giảm kinh tế của Trung Quốc và đại dịch COVID-19, họ buộc phải xem xét lại chuỗi cung ứng. Asics đã chuyển một phần sản xuất từ Trung Quốc sang Việt Nam và các khu vực khác. Hiện tại, công ty vẫn còn nhà máy ở Trung Quốc, nhưng chỉ sản xuất hàng hóa dành cho thị trường nội địa.
 
@@ -34,9 +33,9 @@ Doanh thu của Ricoh tại khu vực Mỹ chiếm 28,1% tổng doanh thu trong 
 
 Ngày 4, Nintendo đã thông báo thay đổi ngày đặt hàng trước máy chơi game mới "Nintendo Switch 2" tại Mỹ. Lý do là để đánh giá tác động của thuế quan, và việc đặt hàng trước sẽ bị hoãn lại từ ngày 9 như dự kiến ban đầu.
 
-Doanh thu của Nintendo tại Bắc Mỹ chiếm 44% tổng doanh thu trong năm tài chính 2024. Hiện tại, máy Switch đời đầu được sản xuất tại các nhà máy gia công ở Trung Quốc.  Để đảm bảo sản xuất và cung ứng ổn định với số lượng lớn, hiện nay công ty đã phân bổ sản xuất sang các nhà máy gia công tại Việt Nam, Malaysia, v.v... Tuy nhiên, cả Việt Nam và Malaysia đều bị đánh thuế 24%, tương tự như Nhật Bản.
+Doanh thu của Nintendo tại Bắc Mỹ chiếm 44% tổng doanh thu trong năm tài chính 2024. Hiện tại, máy Switch đời đầu được sản xuất tại các nhà máy gia công ở Trung Quốc. Để đảm bảo sản xuất và cung ứng ổn định với số lượng lớn, hiện nay công ty đã phân bổ sản xuất sang các nhà máy gia công tại Việt Nam, Malaysia, v.v... Tuy nhiên, cả Việt Nam và Malaysia đều bị đánh thuế 24%, tương tự như Nhật Bản.
 
-Phó trưởng phòng Shoju Mitsuru của JETRO cho biết: "Việc chuyển giao sản xuất từ ASEAN sang các quốc gia khác hiện nay không hề dễ dàng, vì nó liên quan đến việc chuyển giao thiết bị".  Tuy nhiên, ông cũng nói thêm: "Nếu thuế quan tăng lên, tác động sẽ rất lớn, vì vậy đây là một điểm quan trọng để xem xét lại chuỗi cung ứng".
+Phó trưởng phòng Shoju Mitsuru của JETRO cho biết: "Việc chuyển giao sản xuất từ ASEAN sang các quốc gia khác hiện nay không hề dễ dàng, vì nó liên quan đến việc chuyển giao thiết bị". Tuy nhiên, ông cũng nói thêm: "Nếu thuế quan tăng lên, tác động sẽ rất lớn, vì vậy đây là một điểm quan trọng để xem xét lại chuỗi cung ứng".
 
 Thuế quan tương hỗ bắt đầu có hiệu lực một phần vào ngày 5. Đầu tiên, tất cả các mặt hàng xuất khẩu sang Mỹ sẽ bị đánh thuế 10%. Từ ngày 9, thuế quan do chính quyền Trump quyết định sẽ có hiệu lực đối với từng quốc gia/khu vực, bao gồm các nước Đông Nam Á, Nhật Bản, Ấn Độ và Liên minh Châu Âu (EU). Các doanh nghiệp Nhật Bản hoạt động trên toàn cầu sẽ phải gánh chịu không chỉ thuế suất 24% đối với hàng hóa của Nhật Bản, mà cả thuế quan xuất khẩu sang Mỹ đối với các nước Đông Nam Á, nơi có nhiều cơ sở sản xuất.
 

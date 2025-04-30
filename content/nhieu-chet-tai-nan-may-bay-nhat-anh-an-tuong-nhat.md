@@ -7,16 +7,15 @@ url: https://news.yahoo.co.jp/articles/4aac3f1229849049a98975f9eea8ff4f200367c2
 created_at: 2025-04-23 18:04:05
 ---
 
-
 # Nhiếp ảnh gia chứng kiến nhiều cái chết: Tai nạn máy bay Nhật Ánh là ấn tượng nhất
 
 ## Hiện trường thảm khốc với xác người nằm rải rác
 
-![](images/20250423_175715_266.webp)
+![](/images/20250423_175715_266.webp)
 
 Động cơ máy bay Nhật Ánh nằm dưới vực sâu. Khi chạm vào, cảm giác lạnh lẽo và gồ ghề ('Từ hiện trường hồi tưởng')
 
-"Từ chỗ tôi gom nhặt những xác người tan nát vào chăn, tôi thấy một ngón chân nhỏ xíu nhô ra. Chắc hẳn là một phụ nữ trẻ, móng chân vẫn còn sơn màu hồng ngọc trai đậm. [【Ánh mắt chứa đựng bóng tối vô tận…】Tuyệt vời… Ngập tràn trong 200 triệu yên tiền mặt và vô cùng mãn nguyện, 'Vua cho vay nặng lãi'](https://friday.kodansha.co.jp/article/422182/photo/9b0e2a9f?utm_source=yahoonews&utm_medium=referral&utm_campaign=partnerlink)  Ánh sáng chiếu vào, làm nổi bật lên sắc màu tươi tắn giữa cảnh tượng đơn sắc. Cứ như thể nó đang nói với tôi: 'Tôi vẫn chưa muốn chết. Hãy trả lại mạng sống của tôi'."
+"Từ chỗ tôi gom nhặt những xác người tan nát vào chăn, tôi thấy một ngón chân nhỏ xíu nhô ra. Chắc hẳn là một phụ nữ trẻ, móng chân vẫn còn sơn màu hồng ngọc trai đậm. [【Ánh mắt chứa đựng bóng tối vô tận…】Tuyệt vời… Ngập tràn trong 200 triệu yên tiền mặt và vô cùng mãn nguyện, 'Vua cho vay nặng lãi'](https://friday.kodansha.co.jp/article/422182/photo/9b0e2a9f?utm_source=yahoonews&utm_medium=referral&utm_campaign=partnerlink) Ánh sáng chiếu vào, làm nổi bật lên sắc màu tươi tắn giữa cảnh tượng đơn sắc. Cứ như thể nó đang nói với tôi: 'Tôi vẫn chưa muốn chết. Hãy trả lại mạng sống của tôi'."
 
 Ông Hashimoto Noboru (73 tuổi) chia sẻ về hiện trường vụ tai nạn máy bay Nhật Ánh 123, xảy ra ngày 12 tháng 8 năm 1985, vụ tai nạn máy bay đơn lẻ gây ra thương vong lớn nhất thế giới với 520 người thiệt mạng. Ông là một nhiếp ảnh gia báo chí kỳ cựu, đã tác nghiệp tại các vùng chiến sự, các vụ tai nạn và sự kiện lớn nhỏ trong và ngoài nước cho các tạp chí và hãng thông tấn.
 

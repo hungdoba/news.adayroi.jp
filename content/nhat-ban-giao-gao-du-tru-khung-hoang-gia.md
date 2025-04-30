@@ -7,20 +7,19 @@ url: https://news.yahoo.co.jp/articles/51bc03d748e007e45787236fc490e4d8bc55981e
 created_at: 2025-04-09 06:54:09
 ---
 
-
 # Nhật Bản giải phóng gạo dự trữ, ứng phó với khủng hoảng giá
 
-![](images/20250409_064856_817.webp)
+![](/images/20250409_064856_817.webp)
 
 Các bao gạo bày bán tại cửa hàng = Tỉnh Saitama
 
-Tokyo (CNN) – Ở Nhật Bản, gạo là thực phẩm xuất hiện trong hầu hết các bữa ăn.  Nó được sử dụng trong sushi, bánh kẹo, lên men thành rượu sake, và được dùng làm lễ vật trong các nghi lễ tôn giáo.  Thậm chí McDonald's còn có phiên bản bánh mì kẹp thịt với bánh mì làm từ cơm đặc biệt. [Ảnh đặc biệt: Những món ăn Nhật Bản không thể thiếu](https://www.cnn.co.jp/photo/35094451.html?utm_source=yahoonews&utm_medium=news_distribution&utm_campaign=contents_distribution_ynews_photo)
+Tokyo (CNN) – Ở Nhật Bản, gạo là thực phẩm xuất hiện trong hầu hết các bữa ăn. Nó được sử dụng trong sushi, bánh kẹo, lên men thành rượu sake, và được dùng làm lễ vật trong các nghi lễ tôn giáo. Thậm chí McDonald's còn có phiên bản bánh mì kẹp thịt với bánh mì làm từ cơm đặc biệt. [Ảnh đặc biệt: Những món ăn Nhật Bản không thể thiếu](https://www.cnn.co.jp/photo/35094451.html?utm_source=yahoonews&utm_medium=news_distribution&utm_campaign=contents_distribution_ynews_photo)
 
 Tuy nhiên, sự phụ thuộc lớn vào gạo khiến Nhật Bản dễ bị ảnh hưởng bởi những xáo trộn nhỏ trong nguồn cung. Trong những năm gần đây, những mối đe dọa như thời tiết xấu, nắng nóng, bão, động đất… đã chồng chất lên nhau, dẫn đến "cuộc khủng hoảng gạo Reiwa". Theo thống kê của chính phủ, giá gạo 60kg năm 2024 là khoảng 23.000 yên, tăng hơn 50% so với hai năm trước.
 
-Tháng 2, trước tình hình nghiêm trọng này, chính phủ đã tuyên bố sẽ giải phóng 210.000 tấn gạo dự trữ.  Con số này chiếm hơn 20% tổng lượng gạo dự trữ của chính phủ.  Hiện nay, gạo dự trữ này đã bắt đầu xuất hiện tại các siêu thị.
+Tháng 2, trước tình hình nghiêm trọng này, chính phủ đã tuyên bố sẽ giải phóng 210.000 tấn gạo dự trữ. Con số này chiếm hơn 20% tổng lượng gạo dự trữ của chính phủ. Hiện nay, gạo dự trữ này đã bắt đầu xuất hiện tại các siêu thị.
 
-Chính phủ bắt đầu thiết lập hệ thống dự trữ gạo từ năm 1995.  Hai năm trước đó, mùa hè lạnh bất ngờ đã làm giảm sản lượng lúa, buộc Nhật Bản phải nhập khẩu gạo từ nước ngoài.
+Chính phủ bắt đầu thiết lập hệ thống dự trữ gạo từ năm 1995. Hai năm trước đó, mùa hè lạnh bất ngờ đã làm giảm sản lượng lúa, buộc Nhật Bản phải nhập khẩu gạo từ nước ngoài.
 
 Gạo dự trữ cũng đã được giải phóng trong trận động đất Đông Nhật Bản năm 2011 và động đất Kumamoto năm 2016.
 

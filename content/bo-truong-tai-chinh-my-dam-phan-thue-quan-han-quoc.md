@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/60b48c86b5ba537d44c19f19913506f45d4f9dda
 created_at: 2025-04-15 17:58:54
 ---
 
-
 # Bộ trưởng Tài chính Mỹ sẽ đàm phán thuế quan với Hàn Quốc vào tuần tới
 
-![](images/20250415_174852_523.webp)
+![](/images/20250415_174852_523.webp)
 
 Bộ trưởng Tài chính Mỹ, ông Yellen, cho biết sẽ tiến hành đàm phán thương mại với Hàn Quốc vào tuần tới trong một cuộc phỏng vấn với Bloomberg TV. Ông nhấn mạnh rằng quốc gia nào đạt được thỏa thuận với Mỹ sớm hơn sẽ có lợi thế.
 

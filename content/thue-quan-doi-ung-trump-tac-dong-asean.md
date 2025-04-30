@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/c393271a1e8d89dd51406a26448683389600023d
 created_at: 2025-04-09 06:54:09
 ---
 
-
 # Thuế quan đối ứng của Trump tác động mạnh đến ASEAN: Campuchia 49%, Lào 48%, Việt Nam 46%
 
-![](images/20250409_064857_396.webp)
+![](/images/20250409_064857_396.webp)
 
 Tháng 4 năm 2025, chính sách thuế quan đối ứng do cựu Tổng thống Mỹ Donald Trump công bố đã gây ra những làn sóng lớn trên toàn cầu. Đặc biệt, các quốc gia thuộc Hiệp hội các quốc gia Đông Nam Á (ASEAN) chịu ảnh hưởng nặng nề với mức thuế rất cao: Campuchia 49%, Lào 48%, Việt Nam 46%, Myanmar 44%, Thái Lan 36%. Những mức thuế này đã phá vỡ khuôn khổ thương mại tự do truyền thống, và đằng sau đó là chiến lược ngăn chặn dòng chảy sản phẩm Trung Quốc vào thị trường Mỹ.
 

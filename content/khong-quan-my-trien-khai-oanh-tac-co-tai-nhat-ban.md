@@ -7,16 +7,15 @@ url: https://news.yahoo.co.jp/articles/564c557e7b7609055b45d590c2019c1699789847
 created_at: 2025-04-26 19:38:58
 ---
 
-
 # Không quân Mỹ triển khai máy bay ném bom chiến lược tại căn cứ quân sự ở phía bắc Honshu sau 50 năm
 
 ## Máy bay ném bom chiến lược không chỉ tạm thời đóng quân mà là được "triển khai"
 
-![](images/20250426_193535_460.webp)
+![](/images/20250426_193535_460.webp)
 
 Máy bay ném bom B-1B Lancer đến căn cứ Misawa, Aomori. Việc đến Nhật Bản không phải là hiếm, nhưng việc đóng quân lâu dài là lần đầu tiên (Ảnh: Không quân Thái Bình Dương Hoa Kỳ).
 
-Ngày 18 tháng 4 năm 2025, máy bay B-1B Lancer của Không quân Hoa Kỳ đã hạ cánh xuống căn cứ Misawa, tỉnh Aomori.  Việc triển khai máy bay ném bom chiến lược tại căn cứ quân sự của Mỹ tại Nhật Bản là lần đầu tiên sau khoảng nửa thế kỷ, kể từ khi máy bay B-52 Stratofortress đóng quân tại căn cứ Kadena, Okinawa trong chiến tranh Việt Nam. [【Hình ảnh】Đây là B-1 Lancer bay cùng máy bay chiến đấu F-15 của Lực lượng Phòng vệ Nhật Bản](https://trafficnews.jp/photo/542462?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=542462_6)
+Ngày 18 tháng 4 năm 2025, máy bay B-1B Lancer của Không quân Hoa Kỳ đã hạ cánh xuống căn cứ Misawa, tỉnh Aomori. Việc triển khai máy bay ném bom chiến lược tại căn cứ quân sự của Mỹ tại Nhật Bản là lần đầu tiên sau khoảng nửa thế kỷ, kể từ khi máy bay B-52 Stratofortress đóng quân tại căn cứ Kadena, Okinawa trong chiến tranh Việt Nam. [【Hình ảnh】Đây là B-1 Lancer bay cùng máy bay chiến đấu F-15 của Lực lượng Phòng vệ Nhật Bản](https://trafficnews.jp/photo/542462?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=542462_6)
 
 Trước đây, máy bay B-1B đã từng đến các căn cứ quân sự của Mỹ tại Nhật Bản, bao gồm cả căn cứ Misawa. Tuy nhiên, đó chỉ là những lần đóng quân tạm thời. Lần này, việc triển khai luân phiên, tức là sử dụng căn cứ Misawa làm căn cứ hoạt động trong một khoảng thời gian nhất định, đã được chính thức thực hiện, đây là một sự khác biệt lớn và có thể coi là một bước ngoặt lịch sử.
 
@@ -32,7 +31,7 @@ Vì vậy, B-1B đã bị loại khỏi ba trụ cột răn đe hạt nhân (tam
 
 ## Mục đích của phía Mỹ khi triển khai tại căn cứ Misawa là gì?
 
-![](images/20250426_193535_989.webp)
+![](/images/20250426_193535_989.webp)
 
 Máy bay ném bom B-1B Lancer hạ cánh xuống căn cứ Misawa, Aomori. Việc đến Nhật Bản không phải là hiếm, nhưng việc đóng quân lâu dài là lần đầu tiên (Ảnh: Không quân Hoa Kỳ).
 
@@ -40,7 +39,7 @@ Vai trò của B-1B là rõ ràng. Với khả năng mang tải trọng lớn, n
 
 Vậy mục đích của việc triển khai loại máy bay này tại căn cứ Misawa, tỉnh Aomori là gì? Không quân Hoa Kỳ luôn duy trì lực lượng triển khai nhanh gọi là "Lực lượng Đặc nhiệm máy bay ném bom (Bomber Task Force: BTF)" và thường xuyên điều động lực lượng này đến nhiều căn cứ khác nhau, không chỉ của Mỹ mà còn cả các nước đồng minh. Việc triển khai tại Misawa lần này cũng là một phần của kế hoạch đó, Bộ Quốc phòng Mỹ tuyên bố rằng đây là "sự tham gia của nước này vào việc răn đe mối đe dọa và duy trì sự ổn định trong khu vực".
 
-Nhìn chung, điều này nhắm vào Triều Tiên và Trung Quốc. 
+Nhìn chung, điều này nhắm vào Triều Tiên và Trung Quốc.
 
 Việc triển khai lực lượng trước đây xuất kích từ Guam và các căn cứ ở Hoa Kỳ đến Nhật Bản sẽ làm tăng đáng kể tốc độ phản ứng trong trường hợp xảy ra chiến tranh ở khu vực Ấn Độ Dương - Thái Bình Dương. Đặc biệt, khi nhắm đến các điểm xung đột tiềm tàng như Biển Đông, eo biển Đài Loan và Triều Tiên, việc rút ngắn vài giờ có ý nghĩa chiến lược rất lớn.
 

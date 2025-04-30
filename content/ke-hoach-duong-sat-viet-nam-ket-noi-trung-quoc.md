@@ -7,13 +7,12 @@ url: https://news.yahoo.co.jp/articles/d90cd1c7cbdb5de81edbfd04d50f7e10d85ca35f/
 created_at: 2025-04-10 18:13:20
 ---
 
-
-![](images/20250328_064207_921.webp)
+![](/images/20250328_064207_921.webp)
 
 # Kế hoạch đường sắt Việt Nam kết nối Trung Quốc
 
 ### Bản đồ minh họa
 
-![](images/20250328_064208_065.webp)
+![](/images/20250328_064208_065.webp)
 
 [Nguồn: Thời báo Jiji](https://www.jiji.com/)

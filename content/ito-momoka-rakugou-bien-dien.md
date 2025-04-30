@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/1ad8eb907655156aed7ee2f1ce590d16e491bfe7
 created_at: 2025-04-16 06:37:42
 ---
 
-
 # 【AKB48・伊藤百花】Thử sức kể chuyện ngắn tại buổi biểu diễn Rakugo yêu thích: "I'm sorry" nhận được lời khen ngợi
 
-![](images/20250416_063131_705.webp)
+![](/images/20250416_063131_705.webp)
 
 Ông Sugihara Ryotaro, bà Goda Natsuko và các nghệ sĩ khác đã tham gia "Buổi biểu diễn Sugiyū lần thứ tư". Buổi biểu diễn lần này được tổ chức với mục đích nâng cao nhận thức về "tội phạm lừa đảo", với sự tham gia của Ito Momoka, thành viên nhóm AKB48, người lần đầu tiên thử sức kể chuyện ngắn, cùng với các nghệ sĩ Rakugo như Yoshihara Asama, Tachibanaen Taro, Kinbara-tei Baku, Momotsuki-an Kohaku.
 [【Xem ảnh】【AKB48・伊藤百花】Thử sức kể chuyện ngắn tại buổi biểu diễn Rakugo yêu thích: "I'm sorry" nhận được lời khen ngợi](https://newsdig.tbs.co.jp/articles/gallery/1856739?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=1856739&image=2)

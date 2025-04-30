@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/a6fcdb768adb55321a6bd896bacca5be8750f61d
 created_at: 2025-04-24 06:57:39
 ---
 
-
 # Tội trộm đồng tại tòa nhà cũ ở Tokyo
 
-![](images/20250424_065222_503.webp)
+![](/images/20250424_065222_503.webp)
 
 Tòa nhà cũ của văn phòng quận Nakano, Tokyo
 
@@ -24,6 +23,6 @@ Theo Cảnh sát Thủ đô Tokyo, Tieck đã được những kẻ thực hiệ
 
 Để cân trọng lượng, hắn đã đứng lên cân với cáp đồng trong tay và trừ đi trọng lượng cơ thể của mình.
 
-Trong quá trình điều tra, Tieck đã thừa nhận: "Tôi đã nhận được yêu cầu mua cáp đồng, vận chuyển chúng và dẫn đến việc đánh cắp." 
+Trong quá trình điều tra, Tieck đã thừa nhận: "Tôi đã nhận được yêu cầu mua cáp đồng, vận chuyển chúng và dẫn đến việc đánh cắp."
 
 Cảnh sát Thủ đô Tokyo đang điều tra sâu hơn, cho rằng Tieck đã nhiều lần mua cáp đồng từ cùng một nhóm trộm cắp. (Tin tức ANN)

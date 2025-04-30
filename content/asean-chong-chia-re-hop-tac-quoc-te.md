@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/daf6b3cb7246ac97a7c47aaa62437f9e1c04930b
 created_at: 2025-04-22 21:30:18
 ---
 
-
 # ASEAN: Những tiếng nói lặng lẽ chống lại sự chia rẽ hợp tác quốc tế - Khí hậu, hướng tới tương lai (Phần 1)
 
-![](images/20250422_212107_161.webp)
+![](/images/20250422_212107_161.webp)
 
 Ảnh: NNA
 
@@ -36,9 +35,9 @@ Ngày 3 tháng 2, chính phủ Mỹ đã đưa ra ví dụ về "sự lãng phí
 
 Tuy nhiên, tờ Washington Post trong bài kiểm chứng sự thật ngày 7 tháng 2 đã cho rằng lời giải thích của chính phủ là sai sự thật. Bài báo chỉ ra rằng thực tế, khoản tiền này là một quỹ cung cấp tối đa 100.000 USD cho các tổ chức có sản phẩm và mô hình kinh doanh mới đầy triển vọng cho hệ thống năng lượng phân tán tiên tiến tại Thành phố Hồ Chí Minh và Đà Nẵng.
 
-Trước những quyết định chính sách xem nhẹ thực tế và khoa học này, một doanh nhân môi trường tại Indonesia (giấu tên) đã bày tỏ sự phẫn nộ: "Nếu khoa học bị chính trị làm cho im lặng, thì không ai được lợi." 
+Trước những quyết định chính sách xem nhẹ thực tế và khoa học này, một doanh nhân môi trường tại Indonesia (giấu tên) đã bày tỏ sự phẫn nộ: "Nếu khoa học bị chính trị làm cho im lặng, thì không ai được lợi."
 
-Doanh nhân này cho biết: "Tôi muốn tạo cơ hội cho những người tài năng, những người đã được hỗ trợ bởi nhiều chương trình tuyệt vời của chính phủ Mỹ tiếp tục cống hiến."  Ông đã cung cấp việc làm và mối quan hệ cho những người từng làm việc trong các dự án môi trường của USAID và bị mất việc. Nhiều doanh nhân khác cũng làm điều tương tự và đã nhận được phản hồi tích cực.
+Doanh nhân này cho biết: "Tôi muốn tạo cơ hội cho những người tài năng, những người đã được hỗ trợ bởi nhiều chương trình tuyệt vời của chính phủ Mỹ tiếp tục cống hiến." Ông đã cung cấp việc làm và mối quan hệ cho những người từng làm việc trong các dự án môi trường của USAID và bị mất việc. Nhiều doanh nhân khác cũng làm điều tương tự và đã nhận được phản hồi tích cực.
 
 Doanh nhân này cũng nhấn mạnh: "Nếu Mỹ rút lui về mặt tài chính và chính trị khỏi viện trợ quốc tế, thì rủi ro về sự đảo chiều tương tự sẽ xảy ra ở các quốc gia khác. Hiện tại, khi Mỹ không thể thể hiện vai trò lãnh đạo, chúng ta cần hỗ trợ khẩn cấp các nhà lãnh đạo mới của Global South. Indonesia, Ấn Độ, Brazil... đã và đang có khả năng thể hiện khả năng lãnh đạo môi trường xuất sắc."
 
@@ -52,6 +51,6 @@ Ngày 22 tháng 4 là Ngày Trái Đất. Năm nay, trong tuần từ ngày 21, 
 
 Ông Mark Hertsgaard, đồng sáng lập của tổ chức này, cho biết: "80-89% dân số thế giới mong muốn chính phủ của họ có các biện pháp mạnh mẽ hơn để đối phó với biến đổi khí hậu, nhưng họ không nhận ra rằng mình là đa số và vẫn là 'silent majority'."
 
-Một trong những nghiên cứu khoa học mà dự án này dựa trên đó là một bài báo được đăng trên tạp chí khoa học về biến đổi khí hậu "Nature Climate Change" năm 2024. Theo bài báo này, dựa trên cuộc khảo sát 130.000 người tại 125 quốc gia, tỷ lệ người dân yêu cầu chính phủ nước họ có các biện pháp đối phó với biến đổi khí hậu lên tới 89%. Mặt khác, bài báo cũng chỉ ra sự tồn tại của "sự thiếu hiểu biết đa dạng" -  nhiều người hiểu sai rằng những người xung quanh không tích cực hành động vì khí hậu, dẫn đến việc họ không hành động.
+Một trong những nghiên cứu khoa học mà dự án này dựa trên đó là một bài báo được đăng trên tạp chí khoa học về biến đổi khí hậu "Nature Climate Change" năm 2024. Theo bài báo này, dựa trên cuộc khảo sát 130.000 người tại 125 quốc gia, tỷ lệ người dân yêu cầu chính phủ nước họ có các biện pháp đối phó với biến đổi khí hậu lên tới 89%. Mặt khác, bài báo cũng chỉ ra sự tồn tại của "sự thiếu hiểu biết đa dạng" - nhiều người hiểu sai rằng những người xung quanh không tích cực hành động vì khí hậu, dẫn đến việc họ không hành động.
 
 Ngoài ra, cuộc khảo sát nhận thức về khí hậu "People's Climate Vote", do Chương trình Phát triển Liên Hợp Quốc (UNDP) và Đại học Oxford dẫn đầu, được thực hiện với 73.765 người tại 77 quốc gia và vùng lãnh thổ từ năm 2023 đến 2024, cho thấy 80% người được hỏi trả lời rằng "quốc gia của bạn nên tăng cường hay giảm bớt nỗ lực ứng phó với biến đổi khí hậu", đều cho rằng nên tăng cường. Đặc biệt, tỷ lệ này rất cao ở các nước đang phát triển như Lào, Campuchia, Bangladesh, Indonesia và Myanmar.

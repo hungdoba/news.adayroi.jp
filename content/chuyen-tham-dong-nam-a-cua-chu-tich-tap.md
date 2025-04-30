@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/aebf92c1320de213911ca01ca8d4433f600364c0
 created_at: 2025-04-12 07:06:17
 ---
 
-
 # Chuyến thăm 3 quốc gia Đông Nam Á của Chủ tịch Tập Cận Bình: Đối trọng với chính quyền Trump của Mỹ
 
-![](images/20250411_220143_378.webp)
+![](/images/20250411_220143_378.webp)
 
-Bộ Ngoại giao Trung Quốc vừa tuyên bố Chủ tịch Tập Cận Bình sẽ bắt đầu chuyến thăm các nước Đông Nam Á từ ngày 14 tháng này.  Mục đích là nhằm tăng cường hợp tác với các nước láng giềng, đối phó với sự gia tăng mâu thuẫn thương mại với Mỹ.
+Bộ Ngoại giao Trung Quốc vừa tuyên bố Chủ tịch Tập Cận Bình sẽ bắt đầu chuyến thăm các nước Đông Nam Á từ ngày 14 tháng này. Mục đích là nhằm tăng cường hợp tác với các nước láng giềng, đối phó với sự gia tăng mâu thuẫn thương mại với Mỹ.
 
 Bộ Ngoại giao Trung Quốc ngày 11 thông báo Chủ tịch Tập Cận Bình sẽ thăm Việt Nam, Malaysia và Campuchia từ ngày 14 đến 18 tháng này và sẽ hội đàm với các nhà lãnh đạo của các quốc gia này. Việc lựa chọn Đông Nam Á làm điểm đến ngoại giao đầu tiên trong năm thể hiện rõ trọng tâm của Trung Quốc trong việc củng cố quan hệ với các nước láng giềng.
 

@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/b3b621e827cb39fba1b964a05932b109c32a88f4
 created_at: 2025-04-24 18:06:07
 ---
 
-
 # Ngày 24 tháng 4: Những sự kiện lịch sử Nhật Bản
 
 ## Yoshida Shoin âm mưu vượt biển sang Mỹ
 
-![](images/20250424_175919_868.webp)
+![](/images/20250424_175919_868.webp)
 
-Năm 1854 (Âm lịch: ngày 27 tháng 3 năm Gia Bảo thứ 7), Yoshida Shoin đã âm mưu vượt biển trái phép trên tàu chiến Mỹ đang neo đậu ngoài khơi Izu-Shimoda sau khi Hiệp ước Hữu nghị Nhật-Mỹ được ký kết. Ông đã khẩn cầu được đi cùng sang Mỹ. Tuy nhiên, Perry đã từ chối vì lý do danh dự với Mạc phủ. Ngày hôm sau, Shoin bị bắt bởi quan lại Mạc phủ.  Thầy của Shoin, nhà nghiên cứu học thuật Hà Lan Sakuma Shozan cũng bị liên đới. Shoin bị đưa về Hagi (nay là thành phố Hagi, tỉnh Yamaguchi) và bị giam cầm. Năm sau, ông được thả và mở trường dạy học Matsuyama, đào tạo ra những nhân vật nổi tiếng như Takasugi Shinsaku, Kusaka Genzui, và Ito Hirobumi.
+Năm 1854 (Âm lịch: ngày 27 tháng 3 năm Gia Bảo thứ 7), Yoshida Shoin đã âm mưu vượt biển trái phép trên tàu chiến Mỹ đang neo đậu ngoài khơi Izu-Shimoda sau khi Hiệp ước Hữu nghị Nhật-Mỹ được ký kết. Ông đã khẩn cầu được đi cùng sang Mỹ. Tuy nhiên, Perry đã từ chối vì lý do danh dự với Mạc phủ. Ngày hôm sau, Shoin bị bắt bởi quan lại Mạc phủ. Thầy của Shoin, nhà nghiên cứu học thuật Hà Lan Sakuma Shozan cũng bị liên đới. Shoin bị đưa về Hagi (nay là thành phố Hagi, tỉnh Yamaguchi) và bị giam cầm. Năm sau, ông được thả và mở trường dạy học Matsuyama, đào tạo ra những nhân vật nổi tiếng như Takasugi Shinsaku, Kusaka Genzui, và Ito Hirobumi.
 
 ## Động đất Yaeyama và sóng thần lớn nhất lịch sử
 

@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/23d350a94e4f2c5629d5260d79446951ed99321a
 created_at: 2025-04-10 18:13:21
 ---
 
-
 # Mỹ-Việt Nam nhất trí bắt đầu đàm phán hiệp định thương mại
 
-![](images/20250410_180402_833.webp)
+![](/images/20250410_180402_833.webp)
 
 Chính phủ Việt Nam ngày 10 tháng [tháng] đã tuyên bố đạt được thỏa thuận với Hoa Kỳ để bắt đầu đàm phán một hiệp định thương mại mới. Hình ảnh trên là Đại diện Thương mại Hoa Kỳ (USTR) Katherine Tai. Ảnh chụp ngày 8 tháng 4 tại Washington (Reuters/Kevin Mohatt, 2025).
 

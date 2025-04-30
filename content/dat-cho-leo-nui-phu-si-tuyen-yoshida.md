@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/1ca438493f27f0df0812ca97a45cfd18f7a7f514
 created_at: 2025-04-18 06:42:01
 ---
 
-
 # Đặt chỗ leo núi Phú Sĩ tuyến Yoshida bắt đầu ngày 24/4: Kiểm tra kỹ trang bị trước khi leo núi
 
-![](images/20250418_063520_625.webp)
+![](/images/20250418_063520_625.webp)
 
 Hình ảnh hệ thống đặt chỗ leo núi tuyến Yoshida - Cung cấp bởi tỉnh Yamanashi
 
-Hệ thống đặt chỗ leo núi Phú Sĩ tuyến Yoshida cho mùa này sẽ bắt đầu lúc 13:00 ngày 24 tháng 4. Thống đốc tỉnh Yamanashi, Nagasaki Kôtarô, đã công bố thông tin này tại cuộc họp báo thường kỳ ngày 17 tháng 4.  Nhằm ngăn chặn tình trạng leo núi thiếu chuẩn bị nguy hiểm, hệ thống đặt chỗ đã được bổ sung thêm chức năng xác nhận trang bị leo núi và cam kết tuân thủ các điều kiện leo núi an toàn. [【Hình ảnh】Hình ảnh hệ thống đặt chỗ leo núi tuyến Yoshida. Chức năng mới để xác nhận trang bị leo núi cần thiết và cam kết tuân thủ các điều khoản đã được bổ sung thêm = Cung cấp bởi tỉnh Yamanashi](https://www.asahi.com/articles/photo/AS20250417003450.html?oai=AST4K34VKT4KUZOB001M&ref=yahoo)
+Hệ thống đặt chỗ leo núi Phú Sĩ tuyến Yoshida cho mùa này sẽ bắt đầu lúc 13:00 ngày 24 tháng 4. Thống đốc tỉnh Yamanashi, Nagasaki Kôtarô, đã công bố thông tin này tại cuộc họp báo thường kỳ ngày 17 tháng 4. Nhằm ngăn chặn tình trạng leo núi thiếu chuẩn bị nguy hiểm, hệ thống đặt chỗ đã được bổ sung thêm chức năng xác nhận trang bị leo núi và cam kết tuân thủ các điều kiện leo núi an toàn. [【Hình ảnh】Hình ảnh hệ thống đặt chỗ leo núi tuyến Yoshida. Chức năng mới để xác nhận trang bị leo núi cần thiết và cam kết tuân thủ các điều khoản đã được bổ sung thêm = Cung cấp bởi tỉnh Yamanashi](https://www.asahi.com/articles/photo/AS20250417003450.html?oai=AST4K34VKT4KUZOB001M&ref=yahoo)
 
 Thống đốc Nagasaki cho biết ông hy vọng biện pháp này sẽ “có hiệu quả lớn trong việc ngăn chặn những vụ leo núi nguy hiểm. Chúng tôi sẽ làm hết sức mình”.
 
@@ -31,4 +30,4 @@ Mùa này, cửa khẩu 5 tầng sẽ mở cửa từ 3 giờ sáng đến 14 gi
 
 Tỉnh Shizuoka cũng sẽ áp dụng các quy định leo núi tương tự như tỉnh Yamanashi từ mùa hè này, tuy nhiên, phí đặt chỗ chỉ cần đóng ở một trong hai tỉnh là có hiệu lực ở cả hai tỉnh.
 
-Thời gian mở cửa leo núi mùa này là từ ngày 1 tháng 7 (phía tỉnh Shizuoka là ngày 10 tháng 7) đến ngày 10 tháng 9. Hệ thống đặt chỗ có thể truy cập thông qua trang web chính thức leo núi Phú Sĩ (https://fujisan-climb.jp/Reguration_Yamanashi.html). Tổng đài hỗ trợ leo núi Phú Sĩ (055・225・3956～7) cũng sẽ hoạt động từ ngày 24 tháng 4. (Toyohara Mori)
+Thời gian mở cửa leo núi mùa này là từ ngày 1 tháng 7 (phía tỉnh Shizuoka là ngày 10 tháng 7) đến ngày 10 tháng 9. Hệ thống đặt chỗ có thể truy cập thông qua trang web chính thức leo núi Phú Sĩ (https://fujisan-climb.jp/Reguration_Yamanashi.html). Tổng đài hỗ trợ leo núi Phú Sĩ (055・225・3956 ～ 7) cũng sẽ hoạt động từ ngày 24 tháng 4. (Toyohara Mori)

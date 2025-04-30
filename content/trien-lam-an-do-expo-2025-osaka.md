@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/bc76a1f16991322eb77a478e6d1d66f15c062230
 created_at: 2025-04-22 21:30:18
 ---
 
-
 # Triển lãm Ấn Độ tại Expo 2025 Osaka: Khai trương trong tuần này, Nepal vẫn chưa rõ
 
-![](images/20250422_212036_680.webp)
+![](/images/20250422_212036_680.webp)
 
 Triển lãm Ấn Độ tại Expo 2025 Osaka - Ảnh chụp chiều ngày 22 tháng 4 tại khu vực 此花, Osaka
 
-Theo thông tin được tiết lộ ngày 22 tháng 4, trong số 4 gian triển lãm của các quốc gia nước ngoài tại Expo 2025 Osaka đang bị trì hoãn khai trương, gian triển lãm của Ấn Độ dự kiến sẽ mở cửa trong tuần này. 
+Theo thông tin được tiết lộ ngày 22 tháng 4, trong số 4 gian triển lãm của các quốc gia nước ngoài tại Expo 2025 Osaka đang bị trì hoãn khai trương, gian triển lãm của Ấn Độ dự kiến sẽ mở cửa trong tuần này.
 
 Công tác hoàn thiện nội thất đã gần như hoàn tất, và các bước kiểm tra cần thiết để khai trương sẽ được tiến hành trong thời gian sớm nhất. Ngược lại, triển lãm Nepal đang gặp khó khăn về tài chính, dẫn đến việc xây dựng bị gián đoạn và thời điểm khai trương vẫn chưa được xác định. Thông tin này được nhiều nguồn tin liên quan xác nhận.
 

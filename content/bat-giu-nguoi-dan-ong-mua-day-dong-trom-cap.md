@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/7337f418e4cf598578b7387a1f6234f3c8f9c045
 created_at: 2025-04-24 18:06:07
 ---
 
-
 # Bắt giữ người đàn ông mua dây đồng trộm cắp
 
-![](images/20250424_065245_000.webp)
+![](/images/20250424_065245_000.webp)
 
 Cảnh sát Tokyo đã thu giữ dây đồng từ kho của một người Việt Nam bị bắt vì nghi ngờ mua dây đồng trộm cắp. Thông thường, dây đồng được sử dụng với lớp vỏ màu đen – Ảnh chụp lúc 12h38 ngày 23/4/2025 tại thành phố Gyoda, tỉnh Saitama, do Fujita Daido chụp.
 

@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/153035a91e9f6ab4f96ebe2c232d60362c259bda
 created_at: 2025-04-09 06:54:09
 ---
 
-
 # Mỹ, các nước ráo riết thương lượng tránh thuế quan
 
-![](images/20250409_064842_761.webp)
+![](/images/20250409_064842_761.webp)
 
 Ảnh: Tổng thống Trump (phải) bắt tay Thủ tướng Netanyahu (trái) tại Nhà Trắng ngày 7/7 - AP
 

@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/f50858427a329ef9145a84fb5869459bdaebc9ba
 created_at: 2025-04-19 19:27:44
 ---
 
-
 # Suntory dự báo chi phí tăng 200 tỷ yên tại Nhật Bản
 
-![](images/20250419_192630_857.webp)
+![](/images/20250419_192630_857.webp)
 
 Suntory Foods International sẽ theo đuổi tăng trưởng doanh thu và quản lý chi phí chặt chẽ.
 

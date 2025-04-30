@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/b0bbaddab3cfa3f6a5c37ebc37250d092b7e5a38
 created_at: 2025-04-26 19:38:58
 ---
 
-
 # 800 tỷ đồng đổ sông? Đường đua F1 Hà Nội năm 2020 bị hủy bỏ, vẫn bị bỏ hoang cho đến nay
 
-![](images/20250426_193530_015.webp)
+![](/images/20250426_193530_015.webp)
 
 Ảnh chụp trên không đường đua Hà Nội
 

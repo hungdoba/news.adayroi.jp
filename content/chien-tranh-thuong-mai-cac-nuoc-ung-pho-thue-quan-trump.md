@@ -7,28 +7,27 @@ url: https://news.yahoo.co.jp/articles/245bb207edcae4a5b7c81c984a05e380ab06150b
 created_at: 2025-04-09 06:54:09
 ---
 
-
 # Chiến tranh thương mại: Các nước tìm cách ứng phó với thuế quan Trump
 
-![](images/20250409_064842_174.webp)
+![](/images/20250409_064842_174.webp)
 
 Chiến tranh thương mại: Các nước tìm cách ứng phó với thuế quan Trump
 
-Thuế quan tương hỗ do Tổng thống Trump tuyên bố dự kiến sẽ được áp dụng vào chiều ngày 9 (giờ Nhật Bản).  Các quốc gia đang có những phản ứng khác nhau, ví dụ như Việt Nam tuyên bố sẽ giảm thuế nhập khẩu từ Mỹ về 0% để tránh thuế suất cao. Thuế quan Trump, được cho là không có lợi cho bất kỳ ai, đang gây chấn động toàn cầu. [【Hình ảnh】Chiến tranh thương mại: Các nước tìm cách ứng phó với thuế quan Trump](https://news.tv-asahi.co.jp/news_international/articles/photos/900022292.html)
+Thuế quan tương hỗ do Tổng thống Trump tuyên bố dự kiến sẽ được áp dụng vào chiều ngày 9 (giờ Nhật Bản). Các quốc gia đang có những phản ứng khác nhau, ví dụ như Việt Nam tuyên bố sẽ giảm thuế nhập khẩu từ Mỹ về 0% để tránh thuế suất cao. Thuế quan Trump, được cho là không có lợi cho bất kỳ ai, đang gây chấn động toàn cầu. [【Hình ảnh】Chiến tranh thương mại: Các nước tìm cách ứng phó với thuế quan Trump](https://news.tv-asahi.co.jp/news_international/articles/photos/900022292.html)
 
 ## ■ Thị trường chứng khoán lao dốc vì "chiến tranh thương mại", Dow Jones giảm 1700 điểm
 
 Ngày 7, tại Nhà Trắng đã diễn ra sự kiện thường niên các đội vô địch World Series đến thăm Tổng thống. Sau buổi lễ, Tổng thống đã mời cầu thủ Shohei Ohtani đến văn phòng làm việc.
 
-Tổng thống Trump (Mỹ): "Mời bạn tặng cho gia đình." 
+Tổng thống Trump (Mỹ): "Mời bạn tặng cho gia đình."
 
-Cầu thủ Shohei Ohtani: "Đây là vinh dự của tôi." 
+Cầu thủ Shohei Ohtani: "Đây là vinh dự của tôi."
 
-Tổng thống đã trao huy chương kỷ niệm và đóng vai trò chủ nhà trong ngày hôm đó. 
+Tổng thống đã trao huy chương kỷ niệm và đóng vai trò chủ nhà trong ngày hôm đó.
 
 Tuy nhiên, chính "quả bóng" thuế quan tương hỗ mà Tổng thống Trump tung ra đã làm cho thị trường tài chính chao đảo. Thị trường chứng khoán New York ngay sau khi mở cửa đã giảm hơn 1700 điểm so với phiên giao dịch trước đó. Sau đó, thị trường tăng lên do dự đoán "thuế quan có thể bị tạm dừng", rồi lại giảm xuống khi Nhà Trắng phủ nhận điều này. Cuối cùng, thị trường đóng cửa với ba phiên giảm điểm liên tiếp. Tổng vốn hóa thị trường của 30 công ty trong chỉ số Dow Jones đã giảm khoảng 300 nghìn tỷ yên kể từ khi thuế quan Trump được công bố vào ngày 2.
 
-Phóng viên Ukevich của CNN: "Đồng thời xuất hiện cả những dấu hiệu lạc quan và những dấu hiệu leo thang chiến tranh thương mại. So với tuần trước, diễn biến thị trường ngày 7 phần nào là một sự an ủi, nhưng cả các nhà đầu tư và người dân vẫn đang bị cuốn vào cuộc chiến thương mại." 
+Phóng viên Ukevich của CNN: "Đồng thời xuất hiện cả những dấu hiệu lạc quan và những dấu hiệu leo thang chiến tranh thương mại. So với tuần trước, diễn biến thị trường ngày 7 phần nào là một sự an ủi, nhưng cả các nhà đầu tư và người dân vẫn đang bị cuốn vào cuộc chiến thương mại."
 
 Thêm nữa, một "quả bóng" thuế quan mới đã được tung ra.
 
@@ -42,7 +41,7 @@ Trung Quốc đã đưa ra các biện pháp đối phó cụ thể như tăng t
 
 ## ■ Nikkei tăng điểm nhưng nhà đầu tư vẫn lo ngại
 
-Trong khi đó, sau khi giảm mạnh nhất trong 3 phiên giao dịch trước đó, chỉ số Nikkei đã tăng trở lại sau 4 phiên giảm điểm, với mức tăng 1876 yên, đạt 33012 yên.  Tại một hội thảo đầu tư dành cho nhóm tuổi 50-60, khoảng 40 người tham dự đã lắng nghe bài thuyết trình của diễn giả, với mối quan tâm chính là sự sụt giảm mạnh của giá cổ phiếu.
+Trong khi đó, sau khi giảm mạnh nhất trong 3 phiên giao dịch trước đó, chỉ số Nikkei đã tăng trở lại sau 4 phiên giảm điểm, với mức tăng 1876 yên, đạt 33012 yên. Tại một hội thảo đầu tư dành cho nhóm tuổi 50-60, khoảng 40 người tham dự đã lắng nghe bài thuyết trình của diễn giả, với mối quan tâm chính là sự sụt giảm mạnh của giá cổ phiếu.
 
 Người tham dự hội thảo: "Có những cổ phiếu bị ảnh hưởng, giảm khoảng 1000 yên. Tôi tự hỏi liệu đây có phải là hiện tượng nhất thời hay không... Ông Trump là người như thế mà. Cũng có những cổ phiếu không bị ảnh hưởng, nhưng những cổ phiếu giảm thì vẫn giảm."
 
@@ -66,7 +65,7 @@ Thuế quan tương hỗ sẽ được áp dụng vào lúc 13h01 ngày 9 (giờ
 
 Cuộc gặp với Thủ tướng Netanyahu của Israel, người bạn thân thiết của ông Trump. Dường như họ đã thảo luận về thuế quan...
 
-Tổng thống Trump (Mỹ) (Câu hỏi: Ông có dự định giảm thuế 17% đối với sản phẩm của Israel không?) 
+Tổng thống Trump (Mỹ) (Câu hỏi: Ông có dự định giảm thuế 17% đối với sản phẩm của Israel không?)
 
 "Chúng tôi đang đàm phán thương mại mới, nhưng có thể sẽ không giảm."
 
@@ -84,7 +83,7 @@ Trung Quốc đang thể hiện lập trường cứng rắn. Trung Quốc sẽ 
 
 Đáp lại, Tổng thống Trump tuyên bố rằng "nếu không bãi bỏ thuế trả đũa, sẽ áp thêm thuế 50%". Trung Quốc hiện đang chịu thuế bổ sung 20%, và nếu thuế quan tương hỗ 34% được áp dụng vào ngày 9, cộng thêm thuế bổ sung 50%, tổng thuế suất sẽ lên tới con số kỷ lục 104%.
 
-Trung Quốc đã ám chỉ các biện pháp đối phó mạnh mẽ hơn nữa. "Chúng tôi sẽ không bao giờ chấp nhận đe dọa về thuế quan, và nếu cứ cố chấp, chúng tôi sẽ kiên trì đến cùng."  Đây là một cuộc tranh cãi quyết liệt.
+Trung Quốc đã ám chỉ các biện pháp đối phó mạnh mẽ hơn nữa. "Chúng tôi sẽ không bao giờ chấp nhận đe dọa về thuế quan, và nếu cứ cố chấp, chúng tôi sẽ kiên trì đến cùng." Đây là một cuộc tranh cãi quyết liệt.
 
 EU đang giữ lập trường vừa đàm phán vừa đối phó. EU sẽ phải chịu thuế quan tương hỗ 20%. Ngoài ra, EU cũng đã bị áp thuế 25% đối với sản phẩm thép, nhôm và ô tô, tương tự như Nhật Bản. Chủ tịch Ủy ban châu Âu von der Leyen cho thấy khả năng đàm phán khi nói rằng "đã đề xuất giảm thuế đối với sản phẩm công nghiệp xuống 0%", nhưng đồng thời cũng thể hiện lập trường đối phó khi tuyên bố "đang chuẩn bị các biện pháp như thuế trả đũa nếu cần thiết".
 

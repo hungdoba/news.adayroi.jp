@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/cfcc3428a7c9250fe99011f26710ffdc1d21f521
 created_at: 2025-04-08 06:46:29
 ---
 
-
 # ASEAN họp bàn về thuế quan cao của Mỹ
 
-![](images/20250408_064130_256.webp)
+![](/images/20250408_064130_256.webp)
 
 Thủ tướng Anwar Ibrahim của Malaysia, nước đang giữ chức chủ tịch ASEAN, tối ngày 6 đã tuyên bố rằng ASEAN sẽ cùng nhau ứng phó với các biện pháp thuế quan quy mô lớn của Mỹ. Nhiều nước Đông Nam Á đang là mục tiêu của mức thuế "tương hỗ" cao, gây lo ngại về ảnh hưởng tiêu cực đến kinh tế. ASEAN dự kiến sẽ thảo luận các biện pháp ứng phó cụ thể tại cuộc họp Bộ trưởng Tài chính và Thống đốc Ngân hàng Trung ương dự kiến diễn ra từ ngày 8 đến 10.
 

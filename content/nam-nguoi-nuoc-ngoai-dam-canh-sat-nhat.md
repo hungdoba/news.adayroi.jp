@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/c6dd94581b9e11f5afd3533191d5ec63fda43119
 created_at: 2025-04-12 10:38:44
 ---
 
-
 # Nam người nước ngoài đâm cảnh sát Nhật Bản bị bắt giữ
 
-![](images/20250412_103820_007.webp)
+![](/images/20250412_103820_007.webp)
 
 Tại thành phố Iiyama, tỉnh Nagano, Nhật Bản, một người đàn ông nước ngoài đã bị bắt giữ vì tội tấn công một cảnh sát đang làm nhiệm vụ vào ngày 12 tháng 4. [Xem ảnh: Người đàn ông nước ngoài đâm cảnh sát trong lúc làm nhiệm vụ bị bắt giữ - Không có hộ chiếu, nói tiếng Việt, phủ nhận tội danh](https://newsdig.tbs.co.jp/articles/gallery/1850496?utm_source=news.yahoo.co.jp&utm_medium=referral&utm_campaign=partnerLink&ex_position=photo&ex_id=1850496&image=2)
 

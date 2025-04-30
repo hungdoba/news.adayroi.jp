@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/afaec8438e14beb433adb43d9e3b1d0e15bab85b
 created_at: 2025-04-08 06:46:29
 ---
 
-
 # U17 Nhật Bản hòa Việt Nam gây sốc toàn cầu
 
 ## Nhật Bản bất ngờ bị Việt Nam cầm hòa
 
-![](images/20250408_064109_379.webp)
+![](/images/20250408_064109_379.webp)
 
 Đội tuyển Nhật Bản đánh rơi chiến thắng ở những phút cuối trận. (C)AFC
 
@@ -26,12 +25,12 @@ Vào những phút bù giờ của hiệp hai, thủ môn Ejike Vincent Junior c
 
 Thất bại của nhà vô địch khiến người hâm mộ quốc tế vô cùng sửng sốt. Nhiều ý kiến được đưa ra như:
 
-* "Nhật Bản đã làm gì vậy?"
-* "Chẳng lẽ họ còn yếu hơn cả Indonesia?"
-* "Nhật Bản đang làm gì thế kia?"
-* "Nhật Bản, các cậu đang đùa sao?"
-* "Các đội Đông Nam Á đang ngày càng mạnh lên"
-* "Phải chăng Nhật Bản đã quá mệt mỏi?"
-* "Không ngờ lại có thể bị Nhật Bản cầm hòa"
+- "Nhật Bản đã làm gì vậy?"
+- "Chẳng lẽ họ còn yếu hơn cả Indonesia?"
+- "Nhật Bản đang làm gì thế kia?"
+- "Nhật Bản, các cậu đang đùa sao?"
+- "Các đội Đông Nam Á đang ngày càng mạnh lên"
+- "Phải chăng Nhật Bản đã quá mệt mỏi?"
+- "Không ngờ lại có thể bị Nhật Bản cầm hòa"
 
 Trận đấu tiếp theo, Nhật Bản sẽ đối đầu với Úc để tranh giành tấm vé vào tứ kết.

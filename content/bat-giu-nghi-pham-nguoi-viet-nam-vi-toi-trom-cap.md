@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/1b313444e888258047aeabf1f9c8762d38df53df
 created_at: 2025-04-10 18:13:21
 ---
 
-
 # Bắt giữ nghi phạm người Việt Nam vì tội trộm cắp tại cửa hàng thuốc ở Gifu
 
-![](images/20250410_180408_599.webp)
+![](/images/20250410_180408_599.webp)
 
 Cảnh sát tỉnh Gifu, Nhật Bản
 

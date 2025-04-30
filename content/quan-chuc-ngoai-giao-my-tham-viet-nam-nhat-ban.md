@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/d31c76b2754039a8d5eb4b747c2d7b68295b28d0
 created_at: 2025-04-16 19:24:43
 ---
 
-
 # Quan chức cấp cao Bộ Ngoại giao Mỹ thăm Việt Nam, Nhật Bản
 
-![](images/20250416_191556_590.webp)
+![](/images/20250416_191556_590.webp)
 
 Ông Sean O'Neill, quan chức cấp cao Cục Đông Á và Thái Bình Dương, Bộ Ngoại giao Mỹ. [Ảnh: Bộ Ngoại giao Mỹ = Yonhap News]
 

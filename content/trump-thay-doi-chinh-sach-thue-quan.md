@@ -7,12 +7,11 @@ url: https://news.yahoo.co.jp/articles/bd3a6fc4ca90446e42971cfa9c0a421599a84ef0
 created_at: 2025-04-16 06:37:42
 ---
 
-
 # Trump liên tục thay đổi chính sách thuế quan
 
-![](images/20250416_063151_678.webp)
+![](/images/20250416_063151_678.webp)
 
-Tổng thống Trump lại một lần nữa thay đổi chính sách thuế quan, lần này ông cho thấy sự ủng hộ đối với các nhà sản xuất ô tô.  Tại sao lại có sự thay đổi này?
+Tổng thống Trump lại một lần nữa thay đổi chính sách thuế quan, lần này ông cho thấy sự ủng hộ đối với các nhà sản xuất ô tô. Tại sao lại có sự thay đổi này?
 [【Hình ảnh】Tổng thống Trump tuyên bố ủng hộ các nhà sản xuất ô tô](https://news.tv-asahi.co.jp/news_international/articles/photos/900022766.html)
 
 ## Ủng hộ các nhà sản xuất ô tô?

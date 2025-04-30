@@ -7,20 +7,19 @@ url: https://news.yahoo.co.jp/articles/668b8f1eb036c8b3d50b38cb81e14335d7343340
 created_at: 2025-04-24 06:57:39
 ---
 
-
 # Nintendo xin lỗi vì thiếu hụt Nintendo Switch 2: 2 triệu người đăng ký tại Nhật Bản
 
-![](images/20250424_065245_224.webp)
+![](/images/20250424_065245_224.webp)
 
 Nintendo Switch 2
 
-Trước thềm công bố kết quả xổ số Nintendo Switch 2 trên My Nintendo Store, Chủ tịch  Nintendo, ông Furukawa đã công bố thông tin về tình hình sản xuất và đăng ký Switch 2.
+Trước thềm công bố kết quả xổ số Nintendo Switch 2 trên My Nintendo Store, Chủ tịch Nintendo, ông Furukawa đã công bố thông tin về tình hình sản xuất và đăng ký Switch 2.
 
 Mặc dù Nintendo đã sản xuất Switch 2 từ trước khi ra mắt, nhưng số lượng đăng ký tham gia chương trình xổ số trên My Nintendo Store tại Nhật Bản đã vượt xa dự đoán, lên tới 2 triệu người.
 
-"Rất tiếc, trong buổi công bố kết quả xổ số vào ngày 24 tháng 4, một số lượng lớn khách hàng sẽ không nhận được máy." 
+"Rất tiếc, trong buổi công bố kết quả xổ số vào ngày 24 tháng 4, một số lượng lớn khách hàng sẽ không nhận được máy."
 
-Những người không trúng xổ số sẽ tự động được tham gia vào đợt xổ số thứ hai mà không cần thực hiện bất kỳ thủ tục nào. Tuy nhiên, ngay cả khi tính cả những người trúng xổ số ở đợt thứ hai, Nintendo cũng sẽ không thể cung cấp đủ Switch 2 cho tất cả người đăng ký trước ngày phát hành 5 tháng 6.  Nintendo đã gửi lời xin lỗi chân thành: "Mặc dù đã chuẩn bị trước, nhưng chúng tôi rất tiếc vì không đáp ứng được kỳ vọng của mọi người."
+Những người không trúng xổ số sẽ tự động được tham gia vào đợt xổ số thứ hai mà không cần thực hiện bất kỳ thủ tục nào. Tuy nhiên, ngay cả khi tính cả những người trúng xổ số ở đợt thứ hai, Nintendo cũng sẽ không thể cung cấp đủ Switch 2 cho tất cả người đăng ký trước ngày phát hành 5 tháng 6. Nintendo đã gửi lời xin lỗi chân thành: "Mặc dù đã chuẩn bị trước, nhưng chúng tôi rất tiếc vì không đáp ứng được kỳ vọng của mọi người."
 
 Nintendo đang tăng cường năng lực sản xuất và cho biết "sẽ tiếp tục sản xuất và giao hàng một lượng lớn máy trong tương lai", đồng thời mong nhận được sự thông cảm từ người tiêu dùng.
 

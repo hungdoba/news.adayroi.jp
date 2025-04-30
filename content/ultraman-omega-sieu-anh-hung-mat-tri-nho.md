@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/83361e9ce9c4be2c94df7e4305a0419f2ebd2aa9
 created_at: 2025-04-24 18:06:07
 ---
 
-
 # Ultraman Omega: Siêu anh hùng mất trí nhớ bắt đầu phát sóng tháng 7, Kondou Shouri vào vai người ngoài hành tinh mất trí nhớ
 
-![](images/20250424_175927_788.webp)
+![](/images/20250424_175927_788.webp)
 
 Hình ảnh quảng bá Ultraman Omega
 

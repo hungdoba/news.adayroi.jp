@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/65dbb007f1d9dbd238bec34ad534c0fea68616a1
 created_at: 2025-04-14 21:43:22
 ---
 
-
 # Chủ tịch Tập Cận Bình bắt đầu chuyến thăm ba nước Đông Nam Á: Thúc đẩy hợp tác kinh tế, đối phó với thuế quan của Trump
 
-![](images/20250414_213435_791.webp)
+![](/images/20250414_213435_791.webp)
 
 Chủ tịch Tập Cận Bình
 

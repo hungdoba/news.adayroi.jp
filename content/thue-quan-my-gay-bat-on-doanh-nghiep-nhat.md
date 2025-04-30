@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/796d4e5063da083a0c68b0b270c63afce82dd185
 created_at: 2025-04-24 18:06:07
 ---
 
-
 # Thuế quan Mỹ gây bất ổn doanh nghiệp Nhật
 
-![](images/20250424_175904_081.webp)
+![](/images/20250424_175904_081.webp)
 
 Nhà máy của công ty Fusehatsu Kogyo chuyên sản xuất lò xo. Khoảng 30% sản phẩm của công ty này dành cho ngành ô tô, và đang phải đối mặt với những lo ngại về tác động của các biện pháp thuế quan của Mỹ (ngày 16, tại thành phố Higashi Osaka, tỉnh Osaka)
 
-Việc chính quyền Trump áp dụng các biện pháp thuế quan đang gây ra nhiều lo ngại cho các doanh nghiệp Nhật Bản, từ các doanh nghiệp nhỏ đến các tập đoàn lớn.  Mặc dù phần thuế bổ sung “thuế quan tương hỗ” đã bị đình chỉ trong 90 ngày và đàm phán giữa Nhật Bản và Mỹ đã bắt đầu, nhưng cách tiếp cận của chính phủ Mỹ đối với thuế quan đang thay đổi từng ngày, khiến tương lai trở nên bất định. Khả năng chuỗi cung ứng bị rối loạn đang gia tăng, và sự cảnh giác của các doanh nghiệp liên quan đến xuất khẩu đang ngày càng mạnh mẽ. ([Biểu đồ] Phát biểu chính của các tổ chức kinh tế hàng đầu về các biện pháp thuế quan của Mỹ) [https://www.yomiuri.co.jp/pluralphoto/20250424-OYO1I50002/]
+Việc chính quyền Trump áp dụng các biện pháp thuế quan đang gây ra nhiều lo ngại cho các doanh nghiệp Nhật Bản, từ các doanh nghiệp nhỏ đến các tập đoàn lớn. Mặc dù phần thuế bổ sung “thuế quan tương hỗ” đã bị đình chỉ trong 90 ngày và đàm phán giữa Nhật Bản và Mỹ đã bắt đầu, nhưng cách tiếp cận của chính phủ Mỹ đối với thuế quan đang thay đổi từng ngày, khiến tương lai trở nên bất định. Khả năng chuỗi cung ứng bị rối loạn đang gia tăng, và sự cảnh giác của các doanh nghiệp liên quan đến xuất khẩu đang ngày càng mạnh mẽ. ([Biểu đồ] Phát biểu chính của các tổ chức kinh tế hàng đầu về các biện pháp thuế quan của Mỹ) [https://www.yomiuri.co.jp/pluralphoto/20250424-OYO1I50002/]
 
 ## Đầu tư trang thiết bị khó khăn
 

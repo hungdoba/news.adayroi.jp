@@ -7,18 +7,17 @@ url: https://news.yahoo.co.jp/expert/articles/1901564ff04fef3d5a135b8a806ce19fa6
 created_at: 2025-04-06 07:12:49
 ---
 
-
 # Đánh giá món cơm cá hồi cay ngon tuyệt đỉnh từ 7-Eleven
 
-![](images/20250406_070200_010.webp)
+![](/images/20250406_070200_010.webp)
 
 ## 7-Eleven
 
 ### Cơm cá hồi sốt mayonnaise cay
 
-![](images/20250406_070200_317.webp)
+![](/images/20250406_070200_317.webp)
 
-![](images/20250406_070201_149.webp)
+![](/images/20250406_070201_149.webp)
 
 Món cơm cá hồi sử dụng cá hồi vân. Được chế biến với hương vị sốt mayonnaise cay đặc trưng của Hawaii, cay nhẹ nhưng gây nghiện.
 
@@ -32,55 +31,55 @@ Khu vực bán: Toàn quốc
 
 Nguồn: 7-Eleven
 
-## ＝＝＝Thực tế thưởng thức＝＝＝
+## ＝＝＝ Thực tế thưởng thức ＝＝＝
 
 Tôi muốn ăn cơm cá hồi sốt mayonnaise cay!! Vậy nên,
 
 **Tôi đã mua nó.**
 
-![](images/20250406_070201_433.webp)
+![](/images/20250406_070201_433.webp)
 
 Tôi rất mong chờ **món cơm cá hồi sốt mayonnaise cay**.
 
-![](images/20250406_070201_891.webp)
+![](/images/20250406_070201_891.webp)
 
 Chỉ làm nóng **gạo**.
 
-![](images/20250406_070202_235.webp)
+![](/images/20250406_070202_235.webp)
 
 Mở ra xem nào.
 
-![](images/20250406_070202_533.webp)
+![](/images/20250406_070202_533.webp)
 
 Vì là **loại hộp riêng biệt**, nên tôi cho **cá hồi sốt mayonnaise cay** lên **gạo**.
 
-![](images/20250406_070202_836.webp)
+![](/images/20250406_070202_836.webp)
 
 Hoàn thành rồi.
 
-![](images/20250406_070203_168.webp)
+![](/images/20250406_070203_168.webp)
 
 So sánh với chai nước 500ml.
 
-![](images/20250406_070203_471.webp)
+![](/images/20250406_070203_471.webp)
 
 **Cá hồi** thật nhiều!!
 
-![](images/20250406_070203_760.webp)
+![](/images/20250406_070203_760.webp)
 
 Đây là **cá hồi**.
 
-![](images/20250406_070204_102.webp)
+![](/images/20250406_070204_102.webp)
 
 Tôi sẽ thưởng thức **món cơm cá hồi sốt mayonnaise cay** một cách ngon lành!!
 
-![](images/20250406_070204_451.webp)
+![](/images/20250406_070204_451.webp)
 
 Đây là **chi tiết sản phẩm** mà tôi đã nếm thử.
 
-![](images/20250406_070204_807.webp)
+![](/images/20250406_070204_807.webp)
 
-## ＝＝＝Cảm nhận＝＝＝
+## ＝＝＝ Cảm nhận ＝＝＝
 
 Đây là **món cơm cá hồi sốt mayonnaise cay**.
 

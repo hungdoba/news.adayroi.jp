@@ -7,14 +7,13 @@ url: https://news.yahoo.co.jp/articles/a213bdba5d49304577b305e96c243ad3a0526399
 created_at: 2025-04-13 20:18:36
 ---
 
-
 # Nam giới thất nghiệp sốc: Mất 14,4 triệu USD vì bị lừa đảo tình ái
 
-![](images/20250413_201322_223.webp)
+![](/images/20250413_201322_223.webp)
 
 **Lừa đảo tình ái qua mạng xã hội, bắt giữ nghi phạm người nước ngoài**
 
-Ngày 10 tháng này, lực lượng cảnh sát Saitama, Yamagata và Nagasaki đã phối hợp bắt giữ hai nghi phạm quốc tịch Việt Nam, đều không có nghề nghiệp cố định, về tội lừa đảo. Một nghi phạm (32 tuổi) cư trú tại khu vực Negishi 1-chome, Taito-ku, Tokyo, và nghi phạm kia (32 tuổi) cư trú tại Wanjiki, Kumagai-shi.  Cả hai bị tình nghi đã giả mạo phụ nữ Nhật Bản trên mạng xã hội, tạo ra mối quan hệ tình cảm để lừa đảo tiền của nạn nhân. Cảnh sát cho rằng đây là hành vi phạm tội của một nhóm tội phạm ẩn danh, lưu động do người nước ngoài thực hiện và đang điều tra các đồng phạm.
+Ngày 10 tháng này, lực lượng cảnh sát Saitama, Yamagata và Nagasaki đã phối hợp bắt giữ hai nghi phạm quốc tịch Việt Nam, đều không có nghề nghiệp cố định, về tội lừa đảo. Một nghi phạm (32 tuổi) cư trú tại khu vực Negishi 1-chome, Taito-ku, Tokyo, và nghi phạm kia (32 tuổi) cư trú tại Wanjiki, Kumagai-shi. Cả hai bị tình nghi đã giả mạo phụ nữ Nhật Bản trên mạng xã hội, tạo ra mối quan hệ tình cảm để lừa đảo tiền của nạn nhân. Cảnh sát cho rằng đây là hành vi phạm tội của một nhóm tội phạm ẩn danh, lưu động do người nước ngoài thực hiện và đang điều tra các đồng phạm.
 [Người phụ nữ trong mối quan hệ tình cảm bị mất 21,53 triệu yên, đối tượng trên ứng dụng hẹn hò thực chất là một cặp vợ chồng “chỉ đổi tiền”](https://www.saitama-np.co.jp/articles/105394/imageList)
 
 **Nội dung cáo buộc:** Hai nghi phạm này bị cáo buộc đã cấu kết với những người khác, từ ngày 2 tháng 8 đến ngày 17 tháng 9 năm ngoái, giả mạo phụ nữ Nhật Bản trên ứng dụng nhắn tin, nói với nạn nhân là một người đàn ông thất nghiệp 67 tuổi ở Ikoma, Nara rằng “chúng ta đã gặp nhau một cách định mệnh”, tạo ra tình cảm lãng mạn, sau đó dụ dỗ nạn nhân đầu tư vào một dự án không tồn tại. Chúng nói rằng “để rút tiền lời, phải đóng thuế” và lừa được 14,4 triệu yên tiền mặt tại Ikoma. Nghi phạm ở Taito-ku phủ nhận, nghi phạm ở Kumagai-shi thì một phần phủ nhận.

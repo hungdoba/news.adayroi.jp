@@ -7,18 +7,17 @@ url: https://news.yahoo.co.jp/articles/210ea001e2d3dc8f6cb16d36c6f55f989d487d36
 created_at: 2025-04-09 20:02:21
 ---
 
-
 # Thuế quan Trump: Nguy cơ chiến tranh thương mại toàn cầu
 
-![](images/20250409_195235_367.webp)
+![](/images/20250409_195235_367.webp)
 
 Tổng thống Trump công bố về thuế quan - Ngày 2, tại Nhà Trắng
 
 New York (CNN) - Chính quyền Trump ngày 9 đã áp đặt thuế quan “tương hỗ” mới đối với hàng chục quốc gia. Bất chấp sự biến động của thị trường tài chính, những lời đe dọa trả đũa và cả những lời kêu gọi từ bỏ chính sách thuế quan từ một số người ủng hộ lớn nhất của ông, Tổng thống Trump vẫn không nhượng bộ. Mục tiêu của ông, theo tuyên bố, là để lấy lại sự công bằng và vực dậy ngành sản xuất của Mỹ.
 
-Hiện tại, hàng nhập khẩu từ Trung Quốc - mục tiêu chính - đang chịu mức thuế ít nhất 104%.  Vì Trung Quốc không rút lại thuế trả đũa 34% vào ngày 8, ông Trump đã áp đặt mức thuế cao hơn so với ban đầu.
+Hiện tại, hàng nhập khẩu từ Trung Quốc - mục tiêu chính - đang chịu mức thuế ít nhất 104%. Vì Trung Quốc không rút lại thuế trả đũa 34% vào ngày 8, ông Trump đã áp đặt mức thuế cao hơn so với ban đầu.
 
-Mức thuế tương hỗ được tính toán không hoàn toàn “tương hỗ”, mà bằng cách lấy số tiền thâm hụt thương mại của Mỹ với một quốc gia chia cho tổng giá trị xuất khẩu sang quốc gia đó, rồi chia đôi kết quả. Mức thuế dao động từ 11% đến 50%.  Hầu hết các đối tác thương mại lớn của Mỹ, ngoại trừ Mexico và Canada, đều không tránh khỏi biện pháp này.
+Mức thuế tương hỗ được tính toán không hoàn toàn “tương hỗ”, mà bằng cách lấy số tiền thâm hụt thương mại của Mỹ với một quốc gia chia cho tổng giá trị xuất khẩu sang quốc gia đó, rồi chia đôi kết quả. Mức thuế dao động từ 11% đến 50%. Hầu hết các đối tác thương mại lớn của Mỹ, ngoại trừ Mexico và Canada, đều không tránh khỏi biện pháp này.
 
 Liên minh châu Âu (EU) chịu mức thuế 20%, Trung Quốc 34%, Nhật Bản 24%, Việt Nam 46%, và Hàn Quốc 25%.
 

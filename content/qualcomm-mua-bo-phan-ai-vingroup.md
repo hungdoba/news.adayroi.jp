@@ -7,16 +7,15 @@ url: https://news.yahoo.co.jp/articles/3bdd2f3223e55d6d58e0dda4b226db8197c0ef4e
 created_at: 2025-04-07 20:04:06
 ---
 
-
 # Qualcomm mua bộ phận AI của Vingroup
 
-![](images/20250407_195343_994.webp)
+![](/images/20250407_195343_994.webp)
 
 Ảnh của Matthias Balk/picture alliance qua Getty Images
 
-Qualcomm, nhà sản xuất chất bán dẫn có trụ sở chính tại San Diego, đã công bố vào ngày 2 tháng 4 rằng họ đã mua lại MovianAI, bộ phận AI thế hệ mới của VinAI, một công ty con thuộc tập đoàn Vingroup, tập đoàn lớn nhất Việt Nam, với giá không được tiết lộ.  Vingroup do Phạm Nhật Vượng, người giàu nhất Việt Nam với tài sản 7,5 tỷ USD (khoảng 1 nghìn tỷ Yên), lãnh đạo.
+Qualcomm, nhà sản xuất chất bán dẫn có trụ sở chính tại San Diego, đã công bố vào ngày 2 tháng 4 rằng họ đã mua lại MovianAI, bộ phận AI thế hệ mới của VinAI, một công ty con thuộc tập đoàn Vingroup, tập đoàn lớn nhất Việt Nam, với giá không được tiết lộ. Vingroup do Phạm Nhật Vượng, người giàu nhất Việt Nam với tài sản 7,5 tỷ USD (khoảng 1 nghìn tỷ Yên), lãnh đạo.
 
-"Việc chào đón những nhân tài xuất sắc từ VinAI sẽ củng cố năng lực của chúng tôi trong việc cung cấp các giải pháp AI tiên tiến", Giám đốc điều hành cấp cao phụ trách kỹ thuật của Qualcomm,  Zhilei Hou, cho biết trong một tuyên bố ngày 2.
+"Việc chào đón những nhân tài xuất sắc từ VinAI sẽ củng cố năng lực của chúng tôi trong việc cung cấp các giải pháp AI tiên tiến", Giám đốc điều hành cấp cao phụ trách kỹ thuật của Qualcomm, Zhilei Hou, cho biết trong một tuyên bố ngày 2.
 
 Vũ Hùng, người sáng lập kiêm Giám đốc điều hành của VinAI, trước đây từng làm việc tại Google DeepMind, sẽ chuyển sang Qualcomm như một phần của thương vụ này. Ông đã lãnh đạo các hoạt động về AI thế hệ mới, máy học, thị giác máy tính và xử lý ngôn ngữ tự nhiên kể từ khi thành lập VinAI vào năm 2019.
 

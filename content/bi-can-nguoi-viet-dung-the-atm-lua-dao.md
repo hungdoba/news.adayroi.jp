@@ -7,10 +7,9 @@ url: https://news.yahoo.co.jp/articles/4fefb428e02f3a4b8db60c4b99afade20ccdb1d1
 created_at: 2025-04-19 09:18:51
 ---
 
-
 # Bị can người Việt Nam sử dụng thẻ ATM trong đường dây lừa đảo
 
-![](images/20250419_091327_365.webp)
+![](/images/20250419_091327_365.webp)
 
 Một người đàn ông quốc tịch Việt Nam bị bắt giữ vì nghi ngờ lừa đảo và trộm cắp đã bị chuyển đến Viện kiểm sát Matsue vào ngày 18 tháng 4. Cảnh sát Matsue đã công khai các vật chứng bị tịch thu, được cho là liên quan đến các hoạt động lừa đảo của nghi phạm.
 
