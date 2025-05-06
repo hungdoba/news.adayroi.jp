@@ -15,15 +15,15 @@ export default function Footer() {
           </Link>
           <ul className="flex items-center space-x-4 text-sm">
             <li>
-              <Link href="#">Giới thiệu</Link>
+              <Link href="about-us">Giới thiệu</Link>
             </li>
             <li className="h-4 border-r border-gray-500"></li>
             <li>
-              <Link href="#">Chính sách bảo mật</Link>
+              <Link href="terms"> Chính sách bảo mật</Link>
             </li>
             <li className="h-4 border-r border-gray-500"></li>
             <li>
-              <Link href="#">Liên hệ</Link>
+              <Link href="contact">Liên hệ</Link>
             </li>
           </ul>
         </div>
