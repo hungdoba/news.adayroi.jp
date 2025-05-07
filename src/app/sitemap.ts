@@ -9,19 +9,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   const staticPages = [
     {
-      url: '/about-us',
+      url: `${baseUrl}/about-us`,
       lastModified: now,
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: '/terms',
+      url: `${baseUrl}/terms`,
       lastModified: now,
       changeFrequency: 'monthly' as const,
       priority: 0.8,
     },
     {
-      url: '/contact',
+      url: `${baseUrl}/contact`,
       lastModified: now,
       changeFrequency: 'monthly' as const,
       priority: 0.8,
