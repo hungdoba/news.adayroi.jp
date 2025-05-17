@@ -5,7 +5,7 @@ import Logo from './ui/logo';
 const Navbar = () => {
   return (
     <nav className="border-b-2 border-gray-700">
-      <div className="w-full flex justify-between items-center p-4 md:px-0">
+      <div className="w-full flex justify-between items-center py-4 ">
         <Link className="flex text-xl" href="/">
           <Logo />
         </Link>

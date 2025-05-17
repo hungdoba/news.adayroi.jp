@@ -14,7 +14,7 @@ export default function Logo() {
       priority
       width={430}
       height={148}
-      className="h-10 w-auto pr-4 rounded"
+      className="h-10 w-auto rounded"
       alt="Logo"
     />
   );
