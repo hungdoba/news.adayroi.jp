@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     siteName: 'News - Adayroi',
     images: [
       {
-        url: 'https://news.adayroi.jp/images/logo.png',
+        url: 'https://news.adayroi.jp/images/optimize/logo/logo.png',
         width: 1200,
         height: 630,
         alt: 'News - Adayroi',
@@ -44,14 +44,14 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'News - Adayroi',
     description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
-    images: ['https://news.adayroi.jp/images/logo.png'],
+    images: ['https://news.adayroi.jp/images/optimize/logo/logo.png'],
     creator: '@adayroi',
     site: '@adayroi',
   },
   icons: {
-    icon: '/images/logo.png',
-    shortcut: '/images/logo.png',
-    apple: '/images/logo.png',
+    icon: '/images/optimize/logo/logo.png',
+    shortcut: '/images/optimize/logo/logo.png',
+    apple: '/images/optimize/logo/logo.png',
   },
   appleWebApp: {
     title: 'News - Adayroi',
@@ -59,7 +59,7 @@ export const metadata: Metadata = {
     capable: true,
     startupImage: [
       {
-        url: '/images/logo.png',
+        url: '/images/optimize/logo/logo.png',
         media:
           '(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)',
       },
