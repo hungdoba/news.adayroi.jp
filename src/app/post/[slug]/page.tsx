@@ -14,6 +14,7 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 import Onthispage from '@/components/Onthispage';
 import MaxWidthWrapper from '@/components/MaxWidthWrapper';
+import Share from '@/components/Share';
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -53,6 +54,7 @@ export default async function BlogPage({ params }: Props) {
       <div className="flex">
         <div className="px-4 w-full">
           <div dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
+          <Share url={`https://news.adayroi.jp/post/${slug}`} />
         </div>
         <Onthispage className="text-sm w-96" htmlContent={htmlContent} />
       </div>

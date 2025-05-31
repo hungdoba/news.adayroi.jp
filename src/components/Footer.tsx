@@ -10,7 +10,7 @@ export default function Footer() {
             className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse"
           >
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
-              Adayroi
+              adayroi
             </span>
           </Link>
           <ul className="flex items-center space-x-4 text-sm">
