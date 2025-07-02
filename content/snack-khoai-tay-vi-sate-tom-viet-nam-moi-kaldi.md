@@ -1,15 +1,13 @@
 ---
-title: "Snack khoai tay vi Sate Tom Viet Nam moi o KALDI"
-slug: "snack-khoai-tay-vi-sate-tom-viet-nam-moi-kaldi"
-thumbnail: "data/6.images/images/snack-khoai-tay-vi-sate-tom-viet-nam-moi-kaldi.webp"
-description: "KALDI ra mat snack khoai tay vi Sate Tom, loai sot ot tom Viet Nam rat duoc ua chuong. Hay cung xem danh gia ve mon snack hot nay."
+title: 'Snack khoai tay vi Sate Tom Viet Nam moi o KALDI'
+slug: 'snack-khoai-tay-vi-sate-tom-viet-nam-moi-kaldi'
+thumbnail: 'data/6.images/images/snack-khoai-tay-vi-sate-tom-viet-nam-moi-kaldi.webp'
+description: 'KALDI ra mat snack khoai tay vi Sate Tom, loai sot ot tom Viet Nam rat duoc ua chuong. Hay cung xem danh gia ve mon snack hot nay.'
 use: true
-created_at: "2025-06-12 19:03:03"
+created_at: '2025-06-12 19:03:03'
 ---
 
 # Snack Khoai Tây Xuất Sắc Của KALDI Đã Trở Thành Snack Khoai Tây! Người Yêu Ẩm Thực Châu Á Sẽ Không Thể Ngừng Tay!
-
-![](/images/uUzvQ3lML_bkIqyakc1vFlHZ-lVjSCI3npXVYKE5vkic27_UPiZsJTcFbdaFU_KTVeIoX0NL-vqS3UxBj13HbSASYTKQlLGTzDFirg9czM-lJ_gNNG9VsLuhz-tTfaFxG9p3Pxa9-s-f4TT7XPfUGrKCpDXAaRfy3G8COwPgy_o=.webp)
 
 ![](/images/title-1748999063825.webp)
 

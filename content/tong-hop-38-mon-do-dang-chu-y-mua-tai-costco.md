@@ -7,8 +7,6 @@ use: true
 created_at: 2025-05-26 06:17:33
 ---
 
-![](/images/uUzvQ3lML_bkIqyakc1vFlHZ-lVjSCI3npXVYKE5vkic27_UPiZsJTcFbdaFU_KTF0e1wlVQPjVkc53xmIYAZHs8HUKneVvMQUCW2pD3a2M94M-19Uhqft2fVHn1N3Wvn7CWSEMGDq-GFN6O9rHpRd6BfmnjKgAuy2ulQTCrBgA=.webp)
-
 Tôi là ao, một người đam mê Costco với 10 năm kinh nghiệm, review hơn 1000 sản phẩm với chi tiêu hàng năm 2,5 triệu yên! Gần đây tôi đã ghé thăm Costco Tsukuba, cửa hàng ruột của mình! Lần này, nhân dịp đặc biệt có sự kiện của xưởng rượu Nishiyama, tôi đã bất ngờ mua sắm tổng cộng 38 món! Hơn nữa, tôi còn tìm thấy rất nhiều sản phẩm mới và hàng hiếm nữa... Tôi đã rất phấn khích và nghĩ thầm "May quá mình đã đến!" Dưới đây là những món đồ mới nhất tôi mua, đặc biệt là những mặt hàng giới hạn, hàng hiếm và sản phẩm mới đáng chú ý.
 
 ### **Những món đồ đã mua lần này là...**

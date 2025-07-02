@@ -1,10 +1,10 @@
 ---
-title: "Tin tức ẩm thực Phở, Bánh mì, Món Á và điểm mới"
-slug: "tin-tuc-am-thuc-pho-banh-mi-mon-a-diem-moi"
-thumbnail: "data/6.images/images/tin-tuc-am-thuc-pho-banh-mi-mon-a-diem-moi.webp"
-description: "Tổng hợp tin tức ẩm thực tại Nhật Bản, từ món Phở, Bánh mì Việt Nam, muối tôm chua cay Kaldi, đến các nhà hàng Thái Lan và những món ăn theo mùa mới nhất."
+title: 'Tin tức ẩm thực Phở, Bánh mì, Món Á và điểm mới'
+slug: 'tin-tuc-am-thuc-pho-banh-mi-mon-a-diem-moi'
+thumbnail: 'data/6.images/images/tin-tuc-am-thuc-pho-banh-mi-mon-a-diem-moi.webp'
+description: 'Tổng hợp tin tức ẩm thực tại Nhật Bản, từ món Phở, Bánh mì Việt Nam, muối tôm chua cay Kaldi, đến các nhà hàng Thái Lan và những món ăn theo mùa mới nhất.'
 use: true
-created_at: "2025-06-01 07:12:29"
+created_at: '2025-06-01 07:12:29'
 ---
 
 # Tin tức ẩm thực: Từ món Á đến điểm mới nhất
@@ -61,8 +61,6 @@ Nhân tiện, đầu bếp Koukun Suzuki đã tu nghiệp 5 năm tại “La Bis
 ![](/images/image-1748696404679.webp)
 
 ## 【Nagoya-shi Nakamura-ku】 Hãy cảm nhận như đi du lịch nước ngoài tại quán ăn Thái “Sawadee Sumiyoshi” chính hiệu ♪
-
-![](/images/uUzvQ3lML_bkIqyakc1vFlHZ-lVjSCI3npXVYKE5vkic27_UPiZsJTcFbdaFU_KTVeIoX0NL-vqS3UxBj13HbXfIRQtoElGUV_HWvri_KpvsV1TMvl5NwMExWZftirG-qePRIA9vczwPA4oK2ZSly0ZZcFXauREyuAwi8BsHTzKEWuIT0ixH-UAG2V6XIcC_.webp)
 
 ![](/images/title-1748678354043.webp)
 

@@ -1,15 +1,13 @@
 ---
-title: "Khoai tây chiên Satế Tôm hương sả mới từ Kaldi"
-slug: "khoai-tay-chien-sate-tom-huong-sa-kaldi"
-thumbnail: "data/6.images/images/khoai-tay-chien-sate-tom-huong-sa-kaldi.webp"
-description: "Kaldi ra mắt khoai tây chiên hương vị độc đáo lấy cảm hứng từ Satế Tôm Việt Nam, kết hợp vị sả, tôm và ớt."
+title: 'Khoai tây chiên Satế Tôm hương sả mới từ Kaldi'
+slug: 'khoai-tay-chien-sate-tom-huong-sa-kaldi'
+thumbnail: 'data/6.images/images/khoai-tay-chien-sate-tom-huong-sa-kaldi.webp'
+description: 'Kaldi ra mắt khoai tây chiên hương vị độc đáo lấy cảm hứng từ Satế Tôm Việt Nam, kết hợp vị sả, tôm và ớt.'
 use: true
-created_at: "2025-06-20 06:21:17"
+created_at: '2025-06-20 06:21:17'
 ---
 
 ## Khoai tây chiên Satế Tôm hương sả mới "gây sốc" từ Kaldi!
-
-![](/images/uUzvQ3lML_bkIqyakc1vFlHZ-lVjSCI3npXVYKE5vkic27_UPiZsJTcFbdaFU_KTU87a7wnwuDgQl1TibYcJT68QZ0HgxX_ijJdUq1128dPgnE6h5sdS3BcsIbBz3d7geX4tcDVf4Pc9WcQenQiQfnO8ak7gtFkdHgGSz9sTtxEgk_vvmUr2-CQJyvojxlo4.webp)
 
 Chào mọi người!
 

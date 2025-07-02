@@ -1,13 +1,11 @@
 ---
-title: "Mỳ Ramen Tonkotsu Hakata Dac San Va Mi Them Re"
-slug: "my-ramen-tonkotsu-hakata-dac-san-va-mi-them-re"
-thumbnail: "data/6.images/images/my-ramen-tonkotsu-hakata-dac-san-va-mi-them-re.webp"
-description: "Quan my ramen Tonkotsu o Hakata, Nhat Ban noi bat voi nuoc sup xuong heo dam da va dac biet la mi them chi 30 yen moi vat, moi nguoi duoc toi da 3 vat."
+title: 'Mỳ Ramen Tonkotsu Hakata Dac San Va Mi Them Re'
+slug: 'my-ramen-tonkotsu-hakata-dac-san-va-mi-them-re'
+thumbnail: 'data/6.images/images/my-ramen-tonkotsu-hakata-dac-san-va-mi-them-re.webp'
+description: 'Quan my ramen Tonkotsu o Hakata, Nhat Ban noi bat voi nuoc sup xuong heo dam da va dac biet la mi them chi 30 yen moi vat, moi nguoi duoc toi da 3 vat.'
 use: true
-created_at: "2025-06-11 18:08:20"
+created_at: '2025-06-11 18:08:20'
 ---
-
-![](/images/uUzvQ3lML_bkIqyakc1vFlHZ-lVjSCI3npXVYKE5vkic27_UPiZsJTcFbdaFU_KT7cYbSWOJZLaB50gC2tOqzQr2qhJzj6MC386JMsd-6FAs3i4q-uytSp9-q4yAcFPGrM3eGuEjmx6boTtbIS7ffvn0RjVtTMofb5FA8MEZIO_e5Q96sXjz1J7Z5EXoEeLf.webp)
 
 ![](/images/title-1749593625156.webp)
 
@@ -29,7 +27,7 @@ Tôi gọi món **"Mỳ Tonkotsu Trứng"** được ghi ở vị trí thứ hai
 
 ## Điểm nhấn: Thêm mì chỉ 30 yên mỗi vắt, mỗi người được tối đa 3 vắt!
 
-Tôi lại cẩn thận xem kỹ thực đơn một lần nữa. Điều thu hút ánh nhìn nhất vẫn là dòng chữ **"Thêm mì 30 yên"** (替え玉¥30). Tôi tự hỏi (Không biết thêm bao nhiêu vắt cũng được nhỉ?), rồi kiểm tra tấm biển đứng tôi chụp ở trước quán bằng điện thoại. Lúc đó mới thấy dòng chữ **"Mỗi người tối đa 3 vắt!"** được ghi nhỏ bên dưới dòng chữ "Thêm mì 30 yên", và tôi hiểu ra. Thông thường, ăn đến 3 vắt mì thì nước súp cũng gần hết rồi, nên đây có lẽ là một dịch vụ rất phù hợp cho những người ăn khỏe.
+Tôi lại cẩn thận xem kỹ thực đơn một lần nữa. Điều thu hút ánh nhìn nhất vẫn là dòng chữ **"Thêm mì 30 yên"** (替え玉 ¥30). Tôi tự hỏi (Không biết thêm bao nhiêu vắt cũng được nhỉ?), rồi kiểm tra tấm biển đứng tôi chụp ở trước quán bằng điện thoại. Lúc đó mới thấy dòng chữ **"Mỗi người tối đa 3 vắt!"** được ghi nhỏ bên dưới dòng chữ "Thêm mì 30 yên", và tôi hiểu ra. Thông thường, ăn đến 3 vắt mì thì nước súp cũng gần hết rồi, nên đây có lẽ là một dịch vụ rất phù hợp cho những người ăn khỏe.
 
 ![](/images/image-1749594719254.webp)
 
