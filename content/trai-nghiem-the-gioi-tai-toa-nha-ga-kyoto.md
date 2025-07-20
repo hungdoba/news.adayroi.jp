@@ -9,6 +9,8 @@ created_at: "2025-07-20 08:21:39"
 
 # Trải Nghiệm Thế Giới Tại Tòa Nhà Ga Kyoto!
 
+![](/images/img_db1d6414.webp)
+
 Mùa hè này, trong khi Triển lãm Thế giới Osaka/Kansai 2025 đang diễn ra, Kyoto cũng tổ chức sự kiện **"Trải nghiệm thế giới tại Tòa nhà Ga Kyoto! - Cảm nhận văn hóa, ẩm thực, âm nhạc bằng năm giác quan -"** để du khách có thể khám phá văn hóa các quốc gia và vùng lãnh thổ khác nhau thông qua ẩm thực, âm nhạc và nhiều hơn nữa.
 
 ![](/images/image-1752929356647.webp)
