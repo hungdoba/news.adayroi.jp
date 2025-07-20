@@ -5,7 +5,11 @@ export class AppError extends Error {
   public readonly statusCode: number;
   public readonly isOperational: boolean;
 
-  constructor(message: string, statusCode: number = 500, isOperational: boolean = true) {
+  constructor(
+    message: string,
+    statusCode: number = 500,
+    isOperational: boolean = true
+  ) {
     super(message);
     this.statusCode = statusCode;
     this.isOperational = isOperational;
@@ -29,31 +33,40 @@ export class NotFoundError extends AppError {
 /**
  * Error handler for async functions
  */
-export const catchAsync = (fn: Function) => {
-  return (...args: any[]) => {
-    return Promise.resolve(fn(...args)).catch((err) => {
+export const catchAsync = <T extends unknown[], R>(
+  fn: (...args: T) => Promise<R>
+): ((...args: T) => Promise<R>) => {
+  return async (...args: T): Promise<R> => {
+    try {
+      return await fn(...args);
+    } catch (err: unknown) {
       console.error('Async error:', err);
       throw err;
-    });
+    }
   };
 };
 
 /**
  * Validation utilities
  */
-export const validators = {
+export const validators: {
+  isValidDate: (date: string) => boolean;
+  isValidSlug: (slug: string) => boolean;
+  isValidEmail: (email: string) => boolean;
+  isValidUrl: (url: string) => boolean;
+} = {
   isValidDate: (date: string): boolean => {
-    const parsedDate = new Date(date);
+    const parsedDate: Date = new Date(date);
     return !isNaN(parsedDate.getTime());
   },
 
   isValidSlug: (slug: string): boolean => {
-    const slugRegex = /^[a-z0-9-]+$/;
+    const slugRegex: RegExp = /^[a-z0-9-]+$/;
     return slugRegex.test(slug);
   },
 
   isValidEmail: (email: string): boolean => {
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    const emailRegex: RegExp = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
     return emailRegex.test(email);
   },
 
@@ -72,7 +85,7 @@ export const validators = {
  */
 export const safeJsonParse = <T>(json: string, fallback: T): T => {
   try {
-    return JSON.parse(json);
+    return JSON.parse(json) as T;
   } catch {
     return fallback;
   }

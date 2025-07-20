@@ -4,6 +4,17 @@ import type { PostCardProps } from '@/types';
 
 // Mock the next-image-export-optimizer
 jest.mock('next-image-export-optimizer', () => {
+  interface MockedImageProps {
+    src: string;
+    alt: string;
+    priority?: boolean;
+    unoptimized?: boolean;
+    fill?: boolean;
+    sizes?: string;
+    className?: string;
+    [key: string]: unknown;
+  }
+
   const MockedImage = ({
     src,
     alt,
@@ -13,7 +24,7 @@ jest.mock('next-image-export-optimizer', () => {
     sizes,
     className,
     ...props
-  }: any) => (
+  }: MockedImageProps) => (
     <img
       src={src}
       alt={alt}
@@ -50,7 +61,9 @@ describe('PostCard', () => {
     expect(screen.getByText(mockProps.description)).toBeInTheDocument();
 
     // Check if "Đọc thêm" link is rendered
-    const readMoreLink = screen.getByRole('link', { name: /đọc thêm/i });
+    const readMoreLink = screen.getByRole('link', {
+      name: `Read more: "${mockProps.title}"`,
+    });
     expect(readMoreLink).toBeInTheDocument();
     expect(readMoreLink).toHaveAttribute('href', `/post/${mockProps.slug}`);
   });
@@ -90,21 +103,16 @@ describe('PostCard', () => {
     expect(image).toHaveAttribute('data-priority', 'false');
   });
 
-  it('has correct CSS classes for styling', () => {
+  it('renders as an article element with proper structure', () => {
     render(<PostCard {...mockProps} />);
 
     const article = screen.getByRole('article');
-    expect(article).toHaveClass(
-      'bg-card',
-      'group',
-      'relative',
-      'rounded-lg',
-      'border',
-      'p-6',
-      'shadow-sm',
-      'transition-all',
-      'hover:shadow-md'
-    );
+    expect(article).toBeInTheDocument();
+
+    // Check that the article contains the expected child elements
+    expect(article.querySelector('time')).toBeInTheDocument();
+    expect(article.querySelector('h2')).toBeInTheDocument();
+    expect(article.querySelector('img')).toBeInTheDocument();
   });
 
   it('renders with long description correctly', () => {

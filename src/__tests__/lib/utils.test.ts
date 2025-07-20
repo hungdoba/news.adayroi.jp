@@ -5,7 +5,7 @@ import {
   formatDate,
   get7DaysCentered,
 } from '@/lib/utils';
-import { addDays, subDays } from 'date-fns';
+import { addDays } from 'date-fns';
 
 describe('Utils', () => {
   describe('cn', () => {

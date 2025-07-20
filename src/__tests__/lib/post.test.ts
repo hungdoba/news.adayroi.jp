@@ -7,7 +7,6 @@ import {
   getPostBySlug,
   clearPostsCache,
 } from '@/lib/post';
-import { toDateString } from '@/lib/utils';
 
 // Mock fs and path modules
 jest.mock('fs');
@@ -35,8 +34,6 @@ afterAll(() => {
 });
 
 describe('Post Utils', () => {
-  const mockContentDir = '/mock/content';
-
   beforeEach(() => {
     jest.clearAllMocks();
     clearPostsCache();
@@ -72,7 +69,7 @@ describe('Post Utils', () => {
       const mockPost2Content = 'content2';
 
       mockedFs.existsSync.mockReturnValue(true);
-      mockedFs.readdirSync.mockReturnValue(mockFiles as any);
+      (mockedFs.readdirSync as jest.Mock).mockReturnValue(mockFiles);
       mockedFs.readFileSync
         .mockReturnValueOnce(mockPost1Content)
         .mockReturnValueOnce(mockPost2Content);
@@ -85,7 +82,7 @@ describe('Post Utils', () => {
             created_at: '2023-12-25T10:00:00Z',
           },
           content: 'content1',
-        } as any)
+        } as unknown as ReturnType<typeof matter>)
         .mockReturnValueOnce({
           data: {
             title: 'Post 2',
@@ -93,7 +90,7 @@ describe('Post Utils', () => {
             created_at: '2023-12-24T10:00:00Z',
           },
           content: 'content2',
-        } as any);
+        } as unknown as ReturnType<typeof matter>);
 
       const posts = getAllPosts();
 
@@ -117,7 +114,7 @@ describe('Post Utils', () => {
       const mockFiles = ['valid.md', 'invalid.md'];
 
       mockedFs.existsSync.mockReturnValue(true);
-      mockedFs.readdirSync.mockReturnValue(mockFiles as any);
+      (mockedFs.readdirSync as jest.Mock).mockReturnValue(mockFiles);
       mockedFs.readFileSync
         .mockReturnValueOnce('valid content')
         .mockReturnValueOnce('invalid content');
@@ -130,14 +127,14 @@ describe('Post Utils', () => {
             created_at: '2023-12-25T10:00:00Z',
           },
           content: 'valid content',
-        } as any)
+        } as unknown as ReturnType<typeof matter>)
         .mockReturnValueOnce({
           data: {
             title: 'Invalid Post',
             // Missing description and created_at
           },
           content: 'invalid content',
-        } as any);
+        } as unknown as ReturnType<typeof matter>);
 
       const posts = getAllPosts();
 
@@ -156,7 +153,7 @@ describe('Post Utils', () => {
       const mockFiles = ['valid.md', 'placeholder.md'];
 
       mockedFs.existsSync.mockReturnValue(true);
-      mockedFs.readdirSync.mockReturnValue(mockFiles as any);
+      (mockedFs.readdirSync as jest.Mock).mockReturnValue(mockFiles);
       mockedFs.readFileSync
         .mockReturnValueOnce('valid content')
         .mockReturnValueOnce('placeholder content');
@@ -169,7 +166,7 @@ describe('Post Utils', () => {
             created_at: '2023-12-25T10:00:00Z',
           },
           content: 'valid content',
-        } as any)
+        } as unknown as ReturnType<typeof matter>)
         .mockReturnValueOnce({
           data: {
             title: 'Placeholder Post',
@@ -177,7 +174,7 @@ describe('Post Utils', () => {
             created_at: '[YYYY-MM-DD]',
           },
           content: 'placeholder content',
-        } as any);
+        } as unknown as ReturnType<typeof matter>);
 
       const posts = getAllPosts();
 
@@ -196,7 +193,7 @@ describe('Post Utils', () => {
       const mockFiles = ['valid.md', 'invalid-date.md'];
 
       mockedFs.existsSync.mockReturnValue(true);
-      mockedFs.readdirSync.mockReturnValue(mockFiles as any);
+      (mockedFs.readdirSync as jest.Mock).mockReturnValue(mockFiles);
       mockedFs.readFileSync
         .mockReturnValueOnce('valid content')
         .mockReturnValueOnce('invalid content');
@@ -209,7 +206,7 @@ describe('Post Utils', () => {
             created_at: '2023-12-25T10:00:00Z',
           },
           content: 'valid content',
-        } as any)
+        } as unknown as ReturnType<typeof matter>)
         .mockReturnValueOnce({
           data: {
             title: 'Invalid Date Post',
@@ -217,7 +214,7 @@ describe('Post Utils', () => {
             created_at: 'invalid-date',
           },
           content: 'invalid content',
-        } as any);
+        } as unknown as ReturnType<typeof matter>);
 
       const posts = getAllPosts();
 
@@ -232,7 +229,7 @@ describe('Post Utils', () => {
       const mockFiles = ['post1.md'];
 
       mockedFs.existsSync.mockReturnValue(true);
-      mockedFs.readdirSync.mockReturnValue(mockFiles as any);
+      (mockedFs.readdirSync as jest.Mock).mockReturnValue(mockFiles);
       mockedFs.readFileSync.mockReturnValue('content');
 
       mockedMatter.mockReturnValue({
@@ -242,7 +239,7 @@ describe('Post Utils', () => {
           created_at: '2023-12-25T10:00:00Z',
         },
         content: 'content',
-      } as any);
+      } as unknown as ReturnType<typeof matter>);
 
       // First call
       const posts1 = getAllPosts();
@@ -276,7 +273,10 @@ describe('Post Utils', () => {
     beforeEach(() => {
       // Setup mock for getAllPosts
       mockedFs.existsSync.mockReturnValue(true);
-      mockedFs.readdirSync.mockReturnValue(['post1.md', 'post2.md'] as any);
+      (mockedFs.readdirSync as jest.Mock).mockReturnValue([
+        'post1.md',
+        'post2.md',
+      ]);
       mockedFs.readFileSync
         .mockReturnValueOnce('content1')
         .mockReturnValueOnce('content2');
@@ -289,7 +289,7 @@ describe('Post Utils', () => {
             created_at: '2023-12-25T10:00:00Z',
           },
           content: 'content1',
-        } as any)
+        } as unknown as ReturnType<typeof matter>)
         .mockReturnValueOnce({
           data: {
             title: 'Post 2',
@@ -297,7 +297,7 @@ describe('Post Utils', () => {
             created_at: '2023-12-24T10:00:00Z',
           },
           content: 'content2',
-        } as any);
+        } as unknown as ReturnType<typeof matter>);
     });
 
     it('should return posts for a specific date', () => {
@@ -385,7 +385,7 @@ describe('Post Utils', () => {
     it('should clear the posts cache', () => {
       // First, populate the cache
       mockedFs.existsSync.mockReturnValue(true);
-      mockedFs.readdirSync.mockReturnValue(['post1.md'] as any);
+      (mockedFs.readdirSync as jest.Mock).mockReturnValue(['post1.md']);
       mockedFs.readFileSync.mockReturnValue('content');
       mockedMatter.mockReturnValue({
         data: {
@@ -394,7 +394,7 @@ describe('Post Utils', () => {
           created_at: '2023-12-25T10:00:00Z',
         },
         content: 'content',
-      } as any);
+      } as unknown as ReturnType<typeof matter>);
 
       getAllPosts();
       expect(mockedFs.readdirSync).toHaveBeenCalledTimes(1);

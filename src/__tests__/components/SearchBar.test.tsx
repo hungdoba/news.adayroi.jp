@@ -3,7 +3,10 @@ import SearchBar from '@/components/SearchBar';
 
 // Mock the UI components since we don't have their implementations
 jest.mock('@/components/ui/input', () => ({
-  Input: ({ placeholder, ...props }: any) => (
+  Input: ({
+    placeholder,
+    ...props
+  }: React.InputHTMLAttributes<HTMLInputElement>) => (
     <input placeholder={placeholder} {...props} />
   ),
 }));

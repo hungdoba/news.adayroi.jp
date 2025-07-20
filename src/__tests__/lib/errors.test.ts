@@ -176,7 +176,7 @@ describe('safeJsonParse', () => {
   });
 
   it('should return fallback for empty string', () => {
-    const fallback: any[] = [];
+    const fallback: unknown[] = [];
 
     const result = safeJsonParse('', fallback);
 
