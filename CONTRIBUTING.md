@@ -36,7 +36,7 @@ This project and everyone participating in it is governed by our Code of Conduct
 
 ```bash
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/news.adayroi.jp.git
+git clone https://github.com/hungdoba/news.adayroi.jp.git
 cd news.adayroi.jp
 
 # Install dependencies
@@ -75,13 +75,14 @@ To add new articles:
 
 1. Create a new `.md` file in the `content/` directory
 2. Follow the frontmatter format:
+
    ```markdown
    ---
-   title: "Your Article Title"
-   description: "Brief description"
-   created_at: "2025-01-20"
-   author: "Your Name"
-   tags: ["tag1", "tag2"]
+   title: 'Your Article Title'
+   description: 'Brief description'
+   created_at: '2025-01-20'
+   author: 'Your Name'
+   tags: ['tag1', 'tag2']
    ---
 
    Your content here...
@@ -105,6 +106,7 @@ type(scope): description
 ```
 
 Types:
+
 - `feat`: A new feature
 - `fix`: A bug fix
 - `docs`: Documentation only changes
@@ -114,6 +116,7 @@ Types:
 - `chore`: Changes to the build process or auxiliary tools
 
 Examples:
+
 ```
 feat(post): add reading time calculation
 fix(navbar): resolve mobile menu toggle issue
