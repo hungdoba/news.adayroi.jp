@@ -1,7 +1,14 @@
 import Link from 'next/link';
 import { formatDate } from '@/lib/utils';
 import ExportedImage from 'next-image-export-optimizer';
-import type { PostCardProps } from '@/types';
+
+interface Props {
+  title: string;
+  slug: string;
+  description: string;
+  createdAt: string;
+  priority?: boolean;
+}
 
 export default function PostCard({
   title,
@@ -9,45 +16,53 @@ export default function PostCard({
   description,
   createdAt,
   priority = false,
-}: PostCardProps) {
+}: Props) {
   return (
-    <article className="bg-card group relative rounded-lg border p-6 shadow-sm transition-all hover:shadow-md">
-      <div className="flex flex-col space-y-4">
-        <div className="space-y-2">
-          <h3 className="group-hover:text-primary text-xl font-semibold tracking-tight transition-colors">
+    <article>
+      <div className="space-y-2 xl:grid xl:grid-cols-4 xl:items-baseline xl:gap-x-6 xl:space-y-0">
+        <div>
+          <dl>
+            <dt className="sr-only">Published on</dt>
+            <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
+              <time dateTime={createdAt}>{formatDate(createdAt)}</time>
+            </dd>
+          </dl>
+          <div className="relative my-4 aspect-video w-full">
+            <ExportedImage
+              fill
+              src={`/images/thumbnails/${slug}.webp`}
+              alt={title}
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              className="rounded object-cover"
+              priority={priority}
+              unoptimized={false}
+            />
+          </div>
+        </div>
+
+        <div className="space-y-5 xl:col-span-3">
+          <div className="space-y-6">
+            <h2 className="text-2xl font-bold leading-8 tracking-tight">
+              <Link
+                href={`/post/${slug}`}
+                className="text-gray-900 dark:text-white"
+              >
+                {title}
+              </Link>
+            </h2>
+            <div className="prose max-w-none text-gray-500 dark:text-gray-400">
+              {description}
+            </div>
+          </div>
+          <div className="text-base font-medium leading-6">
             <Link
               href={`/post/${slug}`}
-              className="after:absolute after:inset-0"
+              className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400 text-gray-600 dark:text-gray-300"
+              aria-label={`Read more: "${title}"`}
             >
-              {title}
+              Đọc thêm &rarr;
             </Link>
-          </h3>
-          <time className="text-muted-foreground text-sm" dateTime={createdAt}>
-            {formatDate(createdAt)}
-          </time>
-        </div>
-
-        <div className="relative aspect-video w-full">
-          <ExportedImage
-            fill
-            src={`/images/thumbnails/${slug}.webp`}
-            alt={title}
-            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-            className="rounded object-cover"
-            priority={priority}
-            unoptimized={false}
-          />
-        </div>
-
-        <p className="text-muted-foreground line-clamp-3">{description}</p>
-
-        <div className="flex items-center justify-between pt-2">
-          <Link
-            href={`/post/${slug}`}
-            className="text-primary text-sm font-medium hover:underline"
-          >
-            Đọc thêm →
-          </Link>
+          </div>
         </div>
       </div>
     </article>
