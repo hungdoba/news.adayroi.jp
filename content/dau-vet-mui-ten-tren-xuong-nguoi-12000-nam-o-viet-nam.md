@@ -1,0 +1,34 @@
+---
+title: "Dấu vết mũi tên trên xương người 12.000 năm ở Việt Nam"
+slug: "dau-vet-mui-ten-tren-xuong-nguoi-12000-nam-o-viet-nam"
+thumbnail: "data/6.images/images/dau-vet-mui-ten-tren-xuong-nguoi-12000-nam-o-viet-nam.webp"
+description: "Một bộ xương người 12.000 năm tuổi được tìm thấy tại Việt Nam có dấu vết bị bắn bằng mũi tên, có thể là bằng chứng cổ xưa nhất về xung đột giữa các nhóm săn bắt hái lượm ở Đông Nam Á. Nghiên cứu này hé lộ cuộc sống thời kỳ cuối Pleistocen."
+use: true
+created_at: "2025-09-02 19:23:32"
+---
+
+# Dấu vết mũi tên trên xương người 12.000 năm, có thể là bằng chứng cổ xưa nhất về xung đột giữa các nhóm săn bắt hái lượm
+
+![](/images/20250902-35237457-cnn-000-3-view.webp)
+
+Hộp sọ đã bị vỡ vụn khi được tìm thấy trong hang động ở Việt Nam và đã được phục dựng.
+
+(CNN) Gần đây, tại Việt Nam, các nhà khoa học đã khai quật được hài cốt của một người đàn ông được cho là đã bị bắn xuyên cổ bằng vật thể giống mũi tên vào khoảng 12.000 năm trước, vào cuối kỷ Băng hà, và cuối cùng đã tử vong. Đây là trường hợp xương người chứa DNA ty thể cổ xưa nhất được tìm thấy trong khu vực này. Người đàn ông được ước tính khoảng 35 tuổi, và một mảnh thạch anh giống đầu mũi tên đã được tìm thấy gần xương bị tổn thương.
+[Bộ sưu tập ảnh: Xương sườn cổ bị tổn thương và vật thể được cho là đã làm gãy xương sườn cổ](https://www.cnn.co.jp/photo/l/slider/35237457/1304790.html?utm_source=yahoonews&utm_medium=news_distribution&utm_campaign=contents_distribution_ynews_photo)
+Người đàn ông này có một xương sườn cổ (頚肋 - keiroku) nhô ra từ xương cổ, và xương này đã bị tổn thương, nhưng có dấu hiệu mô đã tự phục hồi và bị nhiễm trùng. Có thể anh ta không chết ngay lập tức do vết thương, mà do nhiễm trùng sau đó. Kết quả nghiên cứu này đã được công bố trên Kỷ yếu Hội Hoàng gia Anh (PRSB) vào tuần trước. Người đàn ông có thể đã sống thêm vài tháng sau khi bị thương. Thi thể được chôn cất trong "hang Tùng Bình 1" thuộc Quần thể danh thắng Tràng An, Di sản Thế giới của UNESCO (Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc).
+Mặc dù hoàn cảnh người đàn ông bị thương vẫn chưa rõ ràng, nhóm nghiên cứu chỉ ra rằng đây có thể là bằng chứng cổ xưa nhất về xung đột giữa các nhóm săn bắt hái lượm trên lục địa Đông Nam Á. Đây là một cơ hội quý giá để hé lộ cuộc sống của con người tại vùng đất này vào cuối kỷ Pleistocen, kéo dài từ 2,6 triệu năm đến 11.700 năm trước.
+Theo Hugo Reyes-Centeno, phó giáo sư nhân chủng học tại Đại học Kentucky (Mỹ), người không tham gia vào nghiên cứu này, số lượng hài cốt người từ cuối kỷ Pleistocen được tìm thấy ở Đông Nam Á cho đến nay là tương đối ít.
+Theo ông, sau kỷ Pleistocen, kỷ Holocen kéo dài đến hiện tại là thời kỳ con người chuyển sang nền kinh tế sản xuất lương thực và xã hội ngày càng phân tầng, với vô số bằng chứng về bạo lực giữa người với người. Ngược lại, kỷ Pleistocen, được cho là thời đại của nền kinh tế săn bắt hái lượm, lại có ít dấu vết bạo lực giữa người với người, do đó nghiên cứu này được coi là một ví dụ quý giá.
+
+## "Một bất ngờ lớn"
+
+Bộ xương của người đàn ông này, được gọi là "TBH1", được phát hiện vào tháng 12 năm 2017. Hộp sọ bị vỡ thành nhiều mảnh và biến dạng, nhưng hầu hết các mảnh, bao gồm cả răng, được cho là còn nguyên vẹn. Tương tự, xương chậu và cột sống cũng bị rời rạc. Theo Chris Stimpson, nhà nghiên cứu tại Bảo tàng Lịch sử Tự nhiên Đại học Oxford (Anh), người đứng đầu nhóm nghiên cứu, tình trạng hang động cũng không lý tưởng, và công việc phục dựng của nhóm quốc tế đã kéo dài đến cuối năm 2018.
+Ông Stimpson giải thích: "Địa điểm này nằm trong vùng cận nhiệt đới, có độ ẩm cao và sự lắng đọng canxi cacbonat, khiến đất có độ dính rất cao."
+Các thành viên trong nhóm đã thu thập toàn bộ khối đất lớn chứa xương để ngăn xương tiếp tục phân hủy, sau đó ghép nối chúng lại với nhau trong phòng thí nghiệm trong nhiều tháng. Mặc dù lượng collagen chiết xuất từ xương không đủ để xác định niên đại, nhưng qua phương pháp xác định niên đại bằng đồng vị cacbon phóng xạ của than củi lấy gần nơi chôn cất, bộ xương được ước tính có niên đại từ 12.000 đến 12.500 năm trước.
+Kết quả phân tích bộ xương cho thấy có một vết thương nhẹ ở mắt cá chân, nhưng nhìn chung, người đàn ông này có tình trạng sức khỏe tốt trước khi bị thương. Việc phân tích DNA ty thể đã xác nhận giới tính là nam. Ngoài ra, dòng dõi mẹ của anh ta có mối liên hệ với các nhóm săn bắt hái lượm bản địa, cho thấy tổ tiên của anh ta là một phần của nhóm người đầu tiên định cư tại đây.
+Vì rất hiếm khi tìm thấy hài cốt người ở Đông Nam Á từ thời kỳ này trong tình trạng bảo quản tốt, việc bộ xương của người đàn ông được khai quật gần như nguyên vẹn, bao gồm cả DNA, tự nó đã mang một ý nghĩa quan trọng. Hơn nữa, theo ông Stimpson, xương sườn cổ là một đặc điểm hiếm gặp ở con người, và việc người đàn ông này bị tổn thương xương sườn cổ cũng là "một bất ngờ lớn."
+Một bất ngờ khác là một mảnh thạch anh mờ đục dài khoảng 18,28 mm và nặng 0,4 gram được tìm thấy gần xương sườn cổ bị tổn thương. Mảnh vỡ này có dấu vết chế tác, thường thấy ở các công cụ đá từ thời kỳ đó. Tuy nhiên, không có công cụ thạch anh nào khác được tìm thấy trong hang. Điều này có nghĩa là mảnh vỡ có thể là một công nghệ ngoại lai, có nguồn gốc từ một nơi khác.
+Ông Reyes-Centeno giải thích: "Khi xem xét sự khác biệt giữa công cụ gây ra vết thương và các công cụ được tìm thấy xung quanh địa điểm, có khả năng bạo lực đã xảy ra giữa các thành viên của các nhóm khác nhau." Ông nói thêm: "Tuy nhiên, để hiểu rõ hoàn cảnh cái chết của người này, cần phải tiến hành thêm các cuộc khảo sát khảo cổ tại địa điểm và khu vực xung quanh."
+Từ hình dạng của mảnh thạch anh, nhóm nghiên cứu đã giải thích rằng đó là một phần đầu của vật thể giống mũi tên. Vật thể này dường như đã xuyên qua phần cổ bên phải của người đàn ông, làm tổn thương xương sườn cổ và cuối cùng gây ra nhiễm trùng chí mạng. Dựa trên vị trí, kích thước và loại vết thương, có thể thấy đó là một vật thể nhỏ nhưng di chuyển nhanh. Nếu là một vật thể lớn hơn, nó có lẽ đã gây ra tổn thương nghiêm trọng hơn và có thể dẫn đến cái chết ngay lập tức.
+Người đàn ông có thể đã bị gãy xương trong một cuộc giao tranh với người lạ. Tuy nhiên, hoàn cảnh dẫn đến vết thương và những gì đã xảy ra trong những tuần cuối đời của anh ta vẫn chỉ là suy đoán. Từ các tài liệu khảo cổ của thời kỳ và địa điểm này, rất ít thông tin về cách thức các nhóm săn bắt hái lượm tương tác với nhau.
+Ông Stimpson nói: "Đây chỉ là suy đoán," và thêm rằng, "Xét việc người đàn ông đã sống sót khoảng hai tháng và được chôn cất ở nơi này, có lẽ anh ta đã có những người bạn đồng hành chăm sóc mình cả khi còn sống lẫn khi qua đời."
