@@ -1,0 +1,64 @@
+---
+title: "Bắc Triều Tiên Săn lùng gián điệp sau chiến dịch nghe lén Mỹ"
+slug: "bac-trieu-tien-san-lung-gian-diep-sau-chien-dich-nghe-len-my"
+thumbnail: "data/6.images/images/bac-trieu-tien-san-lung-gian-diep-sau-chien-dich-nghe-len-my.webp"
+description: "Bài viết phân tích mối quan hệ ngoại giao phức tạp của Triều Tiên với Trung Quốc, Nga và Mỹ, đồng thời tiết lộ về vụ săn lùng gián điệp quy mô lớn sau chiến dịch nghe lén Kim Jong Un của Mỹ năm 2019."
+use: true
+created_at: "2025-09-10 20:27:17"
+---
+
+# Bắc Triều Tiên: Phát hiện gián điệp và quan hệ quốc tế sau vụ nghe lén Mỹ
+
+## Luận bàn: Hội nghị thượng đỉnh Triều-Trung sau 6 năm và những bước đi tiếp theo
+
+Chuyến thăm Trung Quốc của Chủ tịch Quốc vụ viện Triều Tiên Kim Jong Un, lần đầu tiên sau 6 năm, nhân kỷ niệm 80 năm Ngày Chiến thắng của Trung Quốc, đã hoàn thành mảnh ghép cuối cùng của liên minh ba nước Triều Tiên, Trung Quốc và Nga. Chủ tịch Trung Quốc Tập Cận Bình và Tổng thống Nga Putin đã thường xuyên gặp gỡ kể từ khi lên nắm quyền. Các nhà lãnh đạo Triều Tiên và Nga đã nhanh chóng xích lại gần nhau thông qua chuyến thăm Viễn Đông của Chủ tịch Kim vào tháng 9 năm 2023 và chuyến thăm Bình Nhưỡng của Putin vào tháng 6 năm 2024. Hội nghị thượng đỉnh Triều-Trung, vốn không diễn ra trong 6 năm kể từ hội nghị vào tháng 1 năm 2019 (một tháng trước hội nghị thượng đỉnh Triều-Mỹ tại Hà Nội, Việt Nam), đã thành hiện thực lần này. Trong bối cảnh Triều Tiên và Nga xích lại gần nhau nhờ cuộc chiến ở Ukraine, mối quan hệ Triều-Trung vốn xa cách đã đón nhận một bước ngoặt sau sự kiện Ngày Chiến thắng.
+
+Tất nhiên, lần này không có hội nghị thượng đỉnh ba bên Triều-Trung-Nga nào được công khai. Tuy nhiên, các hội nghị thượng đỉnh Trung-Nga, Triều-Nga và Triều-Trung đã liên tiếp diễn ra như để phô trương với Mỹ. Bức ảnh Kim Jong Un và Putin ngồi hai bên cạnh Tập Cận Bình trong cuộc duyệt binh đã được truyền đi khắp thế giới. Đây là một cảnh tượng ấn tượng, được so sánh với hội nghị thượng đỉnh ba bên Hàn-Mỹ-Nhật diễn ra tại Camp David, biệt thự của Tổng thống Mỹ vào tháng 8 năm 2023. Hội nghị thượng đỉnh Triều-Trung lần này có nhiều điểm đặc biệt so với các trường hợp trước đây, và có nhiều điểm gợi ý về bước đi tiếp theo của mối quan hệ Triều-Trung cũng như liên minh ba nước Triều-Trung-Nga.
+
+### Điểm nhấn về kinh tế và ngoại giao tại hội nghị thượng đỉnh Triều-Trung
+
+Thứ nhất, truyền thông Triều Tiên và Trung Quốc khi giới thiệu chức danh của lãnh đạo hai nước đã bỏ qua "Chủ tịch Ủy ban Quân sự Trung ương", chức danh lẽ ra phải xuất hiện sau Tổng Bí thư Đảng và Chủ tịch Quốc vụ viện. Các nhân vật quân sự đã bị loại khỏi danh sách tùy tùng của Kim Jong Un. Thay vào đó, Bí thư Tổ chức Đảng Cho Yong Won, Bộ trưởng Ngoại giao Choe Son Hui, Trưởng Ban Quốc tế Đảng Lao động Kim Song Nam, Bộ trưởng Kinh tế Kim Tok Hun, v.v., đã tháp tùng. Qua đó, có thể thấy rằng mối quan tâm cốt lõi của hội nghị thượng đỉnh lần này không phải là quân sự và quốc phòng mà là kinh tế và ngoại giao.
+
+Thứ hai, việc Trung Quốc ủng hộ việc mở ra một giai đoạn mới của "sự nghiệp xã hội chủ nghĩa kiểu Triều Tiên" đã thu hút sự chú ý. Trong quá khứ, các thuật ngữ như "xây dựng chủ nghĩa xã hội", "phát triển kinh tế xã hội chủ nghĩa" của Triều Tiên đã được sử dụng, nhưng lần này, thuật ngữ "sự nghiệp vĩ đại" đã được dùng, thể hiện ý muốn hợp tác rộng rãi Triều-Trung. Thực tế, để liên minh ba nước Triều-Trung-Nga đối đầu một cách thích đáng với liên minh ba nước Hàn-Mỹ-Nhật, việc bổ sung sức mạnh kinh tế là ưu tiên hàng đầu.
+
+Thực tế, Trung Quốc cần thúc đẩy nền kinh tế đã trì trệ trong thời gian dài sau đại dịch COVID-19. Nga cần phục hồi sau những hậu quả của cuộc chiến Ukraine. Triều Tiên đang gấp rút xây dựng nền kinh tế còn lạc hậu. Ba nước Triều-Trung-Nga đã nhanh chóng hoàn tất công tác chuẩn bị để vượt qua tình hình này. Trong các hội nghị thượng đỉnh Trung-Nga suốt 4 năm qua, hàng chục thỏa thuận hợp tác kinh tế đã được ký kết. Triều Tiên và Nga cũng đã ký hàng chục thỏa thuận hợp tác vào năm 2023. Triều Tiên đã cho phép du khách Nga nhập cảnh vào năm 2024 và dỡ bỏ phong tỏa, nên đây là thời điểm cần thảo luận hợp tác kinh tế. Trung Quốc và Nga sẽ tiếp tục hợp tác kinh tế đã hứa với Triều Tiên, bất kể các lệnh trừng phạt chống Triều Tiên.
+
+Thứ ba, việc Trung Quốc giữ khoảng cách với vấn đề phi hạt nhân hóa Bán đảo Triều Tiên đã chính thức được công khai lần này. Trung Quốc và Nga đã bắt đầu giữ khoảng cách với vấn đề phi hạt nhân hóa Triều Tiên từ khá lâu trước đây. Trong tuyên bố chung của hội nghị thượng đỉnh Trung-Nga năm 2023, "song gián đoạn" (đình chỉ đồng thời các hành động khiêu khích hạt nhân tên lửa của Triều Tiên và các cuộc tập trận quân sự chung Hàn-Mỹ) đã bị loại bỏ, và đến năm sau, "song quỹ song hành" (quá trình phi hạt nhân hóa Bán đảo Triều Tiên và đàm phán hiệp định hòa bình Triều-Mỹ) cũng bị xóa bỏ. Thay thế các thuật ngữ này bằng "nguyên tắc các bên trực tiếp", Trung Quốc và Nga đã khuyến khích đàm phán Triều-Mỹ. Đây là lý do Trung Quốc cố ý đưa cụm từ "tôn trọng lập trường của mỗi bên" vào vấn đề hạt nhân Triều Tiên trong tuyên bố chung của hội nghị thượng đỉnh Hàn-Trung-Nhật vào tháng 5 năm 2024.
+
+Vào tháng 9 năm 2022, Triều Tiên đã hợp pháp hóa chính sách vũ khí hạt nhân và tuyên bố "tư cách quốc gia hạt nhân không thể đảo ngược". Điều này thể hiện ý chí không từ bỏ hạt nhân, tức là không phi hạt nhân hóa. Trung Quốc và Nga, nhận ra điều này, đã thay đổi chính sách đối với Triều Tiên. Mỹ hiện đang giữ im lặng. Ba nước Triều-Trung-Nga có lẽ sẽ tăng cường sức mạnh kinh tế và xây dựng một liên minh ba bên thực chất mạnh mẽ hơn.
+
+Trong bối cảnh này, lo ngại rằng đòn bẩy của Hàn Quốc đối với Triều Tiên sẽ càng giảm đi trong tương lai. Tuy nhiên, đáng tiếc là Hàn Quốc dường như vẫn giữ chiến lược phi hạt nhân hóa theo kiểu cũ. Ngay cả trong hội nghị thượng đỉnh Hàn-Mỹ cũng không thấy nỗ lực thay đổi. Hàn Quốc chỉ bày tỏ ý định tham gia chiến lược kiềm chế Trung Quốc một phía của Mỹ. Bây giờ là lúc phải nắm bắt rõ ràng lập trường của Mỹ, vì đây là chìa khóa để giải quyết vấn đề phi hạt nhân hóa Triều Tiên. Khi ba nước Triều-Trung-Nga mong muốn đối thoại Triều-Mỹ, đây là lúc cần một chiến lược hiệu quả từ chính phủ Lee Jae-myung để thúc đẩy điều này.
+
+## Bắc Triều Tiên tìm kiếm gián điệp quy mô lớn ngay sau "chiến dịch nghe lén của Mỹ" năm 2019
+
+![](/images/20250910-00000007-cnippou-000-1-view.webp)
+
+Tháng 2 năm 2019, tại khách sạn Metropole ở Hà Nội, Việt Nam, Chủ tịch Quốc vụ viện Kim Jong Un và Tổng thống Trump đang đi cạnh nhau sau khi kết thúc cuộc họp riêng tại hội nghị thượng đỉnh Triều-Mỹ lần thứ hai. [AP=Yonhap News]
+
+Có thông tin cho rằng Triều Tiên đã tiến hành một cuộc săn lùng và loại bỏ gián điệp nội bộ quy mô lớn vào khoảng thời gian hội nghị thượng đỉnh Triều-Mỹ tại Hà Nội năm 2019. Điều này diễn ra ngay sau khi truyền thông Mỹ đưa tin về việc Mỹ đã thực hiện một chiến dịch đặc biệt nhằm nghe lén Chủ tịch Kim Jong Un.
+
+Tờ New York Times (NYT) đưa tin vào ngày 5 (giờ địa phương) rằng chính quyền Trump vào đầu năm 2019 đã cử "Đội 6" của lực lượng đặc nhiệm hải quân Navy SEALs thâm nhập lãnh hải Triều Tiên nhằm cố gắng cài đặt thiết bị nghe lén Chủ tịch Kim. Chiến dịch đã thất bại khi gặp phải một tàu cá Triều Tiên, khiến lính Mỹ rút lui sau khi bắn chết dân thường. Chiến dịch này đã được chuẩn bị bí mật trong nhiều tháng và được Tổng thống Trump khi đó trực tiếp phê duyệt.
+
+Chiến dịch này chưa từng được Mỹ hay Triều Tiên công khai, cũng như không được báo cáo lên Ủy ban Giám sát Tình báo của Quốc hội Mỹ. NYT chỉ ra rằng "có khả năng vi phạm nghĩa vụ báo cáo lên Quốc hội".
+
+Đáp lại, một nguồn tin chính phủ Mỹ vào ngày 9 cho biết: "Chúng tôi không thể xác nhận liệu thông tin báo cáo có đúng sự thật hay không," nhưng nói thêm, "Đúng là vào thời điểm đó, một cuộc săn lùng gián điệp quy mô lớn đã diễn ra ở Triều Tiên." Trong quá trình này, mạng lưới HUMINT (tình báo con người) mà Mỹ đã nỗ lực xây dựng được cho là đã chịu thiệt hại đáng kể.
+
+Tuy nhiên, Triều Tiên đã không cắt đứt các kênh ngoại giao. Chủ tịch Kim đã tham dự hội nghị thượng đỉnh Hà Nội vào tháng 2 năm 2019 và hội nghị Panmunjom vào tháng 6 cùng năm. Một quan chức nhận định: "Mặc dù sự mất lòng tin đối với Mỹ đã tăng lên, nhưng có vẻ như họ đã thống nhất duy trì tiếp xúc ngoại giao." Phó Ban Tuyên truyền Đảng Lao động Triều Tiên Kim Yo Jong cũng đã tuyên bố trong một bài nói chuyện vào tháng 7 năm ngoái rằng "mối quan hệ cá nhân giữa nhà lãnh đạo quốc gia và tổng thống Mỹ đương nhiệm không hề tệ."
+
+Triều Tiên, kể cả trong bản tin này, chưa từng đưa ra lập trường công khai nào về chiến dịch đó. Cựu Tổng thống Trump trả lời các phóng viên rằng "Tôi không biết gì cả. Đây là lần đầu tiên tôi nghe về chuyện này."
+
+## [Độc quyền] "Bắc Triều Tiên: Đại quy mô bắt giữ gián điệp sau sự cố quân đội Mỹ xâm nhập năm 2019"
+
+### Nguồn tin tình báo cấp cao: "Có những điều nghiêm trọng hơn cả âm mưu nghe lén Chủ tịch Kim Jong Un" - "Mạng lưới 'HUMINT' của Mỹ tại Triều Tiên chịu đòn nặng nề trong chiến dịch bắt giữ gián điệp thời điểm đó"
+
+Được biết, sau khi lực lượng đặc nhiệm hải quân Mỹ thất bại trong việc thâm nhập để nghe lén Chủ tịch Quốc vụ viện Triều Tiên Kim Jong Un vào năm 2019, trước thềm hội nghị thượng đỉnh Triều-Mỹ tại Hà Nội dưới thời chính quyền Trump thứ nhất, chính quyền Triều Tiên đã tiến hành một chiến dịch truy quét gián điệp quy mô lớn. Chính quyền Triều Tiên được cho là đã phá vỡ mạng lưới "HUMINT" (hoạt động tình báo thu thập thông tin thông qua giao tiếp cá nhân, sử dụng con người làm nguồn tin) của Mỹ vào thời điểm đó và trừng phạt một lượng lớn những người liên quan.
+
+Tờ New York Times ngày 5 (giờ địa phương) đưa tin rằng vào đầu năm 2019, trước hội nghị thượng đỉnh Triều-Mỹ tại Hà Nội, lực lượng đặc nhiệm hải quân Mỹ (NAVY SEALs) đã xâm nhập bờ biển Triều Tiên để cài đặt thiết bị nghe lén Chủ tịch Kim Jong Un, nhưng bị một tàu cá Triều Tiên phát hiện, và đã rút lui sau khi bắn chết các ngư dân. Ngay sau sự cố này, vào cuối tháng 2 năm 2019, hội nghị thượng đỉnh giữa Chủ tịch Quốc vụ viện Triều Tiên Kim Jong Un và Tổng thống Mỹ Donald Trump đã diễn ra tại Hà Nội, Việt Nam, nhưng không thể thu hẹp khoảng cách về phạm vi phi hạt nhân hóa, và hội nghị đã kết thúc mà không đạt được thỏa thuận ("no-deal").
+
+Một nguồn tin tình báo cấp cao quen thuộc với tình hình vào thời điểm đó đã nói với Hankyoreh vào ngày 9 rằng: "Sau sự cố thâm nhập thất bại của Mỹ năm 2019 và 'no-deal' tại hội nghị thượng đỉnh Triều-Mỹ ở Hà Nội, Triều Tiên đã tiến hành truy quét gián điệp Mỹ quy mô lớn, nhiều người đã bị bắt giữ và trừng phạt với tội danh gián điệp cho Mỹ." Nguồn tin này bổ sung: "Tôi nghe nói rằng không chỉ có âm mưu cài đặt thiết bị nghe lén của lực lượng đặc nhiệm Mỹ như báo cáo lần này, mà còn có nhiều sự việc nghiêm trọng hơn nữa." "Mạng lưới 'HUMINT' mà Mỹ đã xây dựng tại Triều Tiên đã chịu thiệt hại lớn trong chiến dịch bắt giữ của chính quyền Triều Tiên vào thời điểm đó."
+
+Việc sự cố này được biết đến sau 6 năm thông qua báo cáo của New York Times, được cho là sẽ khiến đối thoại Triều-Mỹ càng thêm khó khăn. Đặc biệt, vì một chiến dịch xâm nhập trực tiếp vào Triều Tiên để nghe lén Chủ tịch Kim Jong Un khó có thể tiến hành mà không có sự chấp thuận của tổng thống, nên có phân tích cho rằng Chủ tịch Kim đã rất thất vọng về "sự phản bội" của Tổng thống Trump. Khi được các phóng viên hỏi về báo cáo này, Tổng thống Trump đã trả lời: "Tôi không biết gì cả. Đây là lần đầu tiên tôi nghe nói về chuyện này."
+
+Tuy nhiên, cũng có quan điểm cho rằng việc Triều Tiên nhận thức được mức độ nghiêm trọng của việc gián điệp Mỹ xâm nhập và đã tiến hành truy quét gián điệp ngay sau sự cố này, cùng với việc Chủ tịch Kim Jong Un gần đây đã đứng cạnh Chủ tịch Trung Quốc Tập Cận Bình và Tổng thống Nga Putin trong lễ duyệt binh kỷ niệm 80 năm Ngày Chiến thắng của Trung Quốc và đang thực hiện chiến lược "ngoại giao nước lớn", nên bản tin về sự cố này sẽ không ảnh hưởng lớn đến chiến lược nối lại hội đàm Triều-Mỹ của Chủ tịch Kim.
+
+Viện trưởng Viện Chiến lược An ninh Quốc gia Kim Sung-bae cho biết: "Mặc dù Chủ tịch Kim Jong Un đã có sự bất tín sâu sắc đối với Mỹ sau âm mưu nghe lén của Mỹ năm 2019 và 'no-deal' ở Hà Nội, nhưng đó đã là chuyện quá khứ, và chúng ta cần chú ý rằng Chủ tịch Kim hiện đang tích cực thực hiện 'ngoại giao nước lớn' trong một tình thế thuận lợi." Viện trưởng Kim đề xuất: "Trong quá khứ, Triều Tiên thường thiết lập quan hệ với Nga sau khi ngoại giao với Mỹ thông qua Trung Quốc hoặc Hàn Quốc, nhưng hiện tại, Triều Tiên đang xích lại gần Nga, sau đó cải thiện quan hệ với Trung Quốc, rồi mới đàm phán với Mỹ, và sau đó mới xem xét quan hệ với Nhật Bản hay Hàn Quốc." Ông nói thêm: "Chúng ta cần chú ý đến chiến lược ngoại giao nước lớn của Chủ tịch Kim, người đang nắm giữ thế chủ động khi đối phó với cả Nga, Trung Quốc và Mỹ, và Hàn Quốc cũng cần vượt qua tình thế này bằng một chiến lược ngoại giao nước lớn của riêng mình."
