@@ -2,35 +2,51 @@
 title: "Công chúa Aiko lần đầu thăm chính thức Lào"
 slug: "cong-chua-aiko-lan-dau-tham-chinh-thuc-lao"
 thumbnail: "data/6.images/images/cong-chua-aiko-lan-dau-tham-chinh-thuc-lao.webp"
-description: "Công chúa Aiko, con gái của Nhật hoàng và Hoàng hậu, sẽ thực hiện chuyến thăm chính thức đầu tiên ra nước ngoài tới Lào vào tháng 11, kỷ niệm 70 năm quan hệ ngoại giao giữa hai nước."
+description: "Công chúa Aiko lần đầu thăm chính thức Lào, kỷ niệm 70 năm quan hệ ngoại giao. Chuyến đi có nhiều ý nghĩa quan trọng."
 use: true
-created_at: "2025-10-17 17:59:15"
+created_at: "2025-11-14 20:20:04"
 ---
 
-# Công chúa Aiko lần đầu thăm chính thức nước ngoài: Đến Lào
+# Công chúa Aiko lần đầu công du nước ngoài, thăm chính thức Lào
 
-## Công chúa Aiko sẽ thăm chính thức Lào vào tháng 11, chuyến công du nước ngoài đầu tiên
+## Công chúa Aiko chào Thượng Hoàng và Hoàng hậu trước chuyến thăm Lào, trong trang phục màu hồng, lần đầu công du từ ngày 17
 
-![](/images/20251017-00000016-mai-000-2-view.webp)
+Công chúa Aiko, trưởng nữ của Thiên hoàng và Hoàng hậu, vừa đến thăm nơi ở của Thượng Hoàng và Hoàng hậu để báo cáo về chuyến thăm chính thức Lào vào tuần tới, đây là nhiệm vụ công du nước ngoài đầu tiên của bà.
 
-Công chúa Aiko, con gái lớn của Nhật hoàng và Hoàng hậu, phát biểu tại lễ khai mạc Hội nghị Y học Cấp cứu Thảm họa Thế giới lần thứ 23 tại quận Shinjuku, Tokyo vào lúc 9 giờ 15 phút sáng ngày 3 tháng 5 năm 2025. Ảnh: Nishi Natsuo.
+Khoảng 4 giờ rưỡi chiều nay (ngày 14), Công chúa Aiko, trong trang phục màu hồng, đã vẫy tay chào những người tập trung dọc đường khi bà tiến vào Tiên Động Ngự Sở, nơi ở của Thượng Hoàng và Hoàng hậu.
 
-Ngày 17 tháng 10, trong phiên họp nội các, đã có sự đồng thuận về việc Công chúa Aiko, con gái lớn của Nhật hoàng và Hoàng hậu, sẽ có chuyến thăm chính thức Lào từ ngày 17 đến 22 tháng 11. Đây là chuyến công du nước ngoài đầu tiên của Công chúa trong vai trò công vụ. Năm nay đánh dấu kỷ niệm 70 năm thiết lập quan hệ ngoại giao giữa Nhật Bản và Lào, dự kiến Công chúa sẽ tham dự các sự kiện chào mừng tại thủ đô Viêng Chăn và hội kiến Chủ tịch nước Thongloun. Công chúa cũng sẽ ghé thăm “Trung tâm Khách thăm COPE” để tìm hiểu về những thiệt hại do bom mìn chưa nổ (UXO) từ Chiến tranh Việt Nam.
+Bà được cho là đã báo cáo với Thượng Hoàng và Hoàng hậu về chuyến thăm chính thức Lào bắt đầu từ ngày 17.
 
-## Lịch trình chi tiết chuyến thăm
+Tại thủ đô Viêng Chăn, Công chúa Aiko sẽ hội kiến Chủ tịch nước và tham dự tiệc chiêu đãi. Ngoài ra, bà cũng sẽ có chuyến thăm trong ngày đến cố đô Luang Prabang.
 
-Theo Cơ quan Nội chính Hoàng gia, Công chúa Aiko sẽ khởi hành từ sân bay Haneda, quá cảnh qua Thái Lan rồi đến Lào. Vào ngày 18 tháng 11, Công chúa sẽ tham dự tiệc chiêu đãi do Phó Chủ tịch nước chủ trì, thăm “Thạt Luông Đại Tháp” – một bảo tháp vàng nổi tiếng, và “Khải Hoàn Môn” (Patuxay) – một trong những công trình kiến trúc biểu tượng của Lào.
+Bà cũng dự kiến thăm 'Trung tâm Khách COPE', nơi thực hiện các hoạt động nâng cao nhận thức về số lượng lớn bom mìn chưa nổ còn sót lại ở Lào sau Chiến tranh Việt Nam, cùng với việc thị sát một bệnh viện nhi do Nhật Bản hỗ trợ.
 
-Vào ngày 19 tháng 11, Công chúa sẽ tham quan các triển lãm tại “Trung tâm Khách thăm COPE”. Trong Chiến tranh Việt Nam, quân đội Mỹ đã thả từ 2 đến 3 triệu tấn bom chùm xuống Lào, quốc gia láng giềng của Việt Nam, nhằm cắt đứt đường tiếp tế của đối phương. Thiệt hại do bom mìn chưa nổ vẫn tiếp diễn cho đến ngày nay. Công chúa cũng sẽ đến thăm “Trung tâm Võ thuật” được xây dựng với sự hỗ trợ tài chính của Nhật Bản và giao lưu với các em nhỏ đang luyện tập tại đây. Ngoài ra, Công chúa sẽ kiểm tra một trường học nơi các chuyên gia Nhật Bản được cử đến để hỗ trợ giáo dục tiếng Nhật.
+Đây là lần đầu tiên Công chúa Aiko thực hiện nhiệm vụ công du nước ngoài.
 
-Ngày 20 tháng 11, Công chúa sẽ di chuyển bằng “Đường sắt Lào – Trung Quốc” đến cố đô Luông Pha Băng, một Di sản Thế giới. Tại đây, Công chúa sẽ tham quan Bảo tàng Quốc gia và “Bệnh viện Nhi Lao Friends” do một tổ chức phi lợi nhuận của Nhật Bản xây dựng, hoạt động cấp cứu 24 giờ. Một buổi gặp gỡ với Tỉnh trưởng và tiệc trưa cũng đang được sắp xếp. Vào ngày 21 tháng 11, sau khi gặp gỡ cộng đồng người Nhật Bản đang sinh sống tại Lào và những người Lào có quan hệ với Nhật Bản tại Viêng Chăn, Công chúa sẽ rời Lào, quá cảnh qua Việt Nam và trở về sân bay Narita vào ngày 22 tháng 11.
+## "Hy vọng về Thiên hoàng Aiko có vẻ sẽ tăng cao hơn nữa..." Hirotaka Shimada: "Chuyến thăm chính thức Lào là một thử thách khá quan trọng"
 
-## Bối cảnh và ý nghĩa chuyến công du
+![](/images/20251114-00104868-president-000-2-view.webp)
 
-![](/images/20251017-00000037-jij-000-11-view.webp)
+Công chúa Aiko, trưởng nữ của Thiên hoàng và Hoàng hậu, đã hoàn tất việc viếng lăng Musashino của Thiên hoàng Showa và lăng Musashino Higashi của Hoàng hậu Kojun tại Nghĩa trang Hoàng gia Musashi, Hachioji, Tokyo, vào ngày 10 tháng 11 năm 2025, trước chuyến thăm chính thức Lào [Ảnh đại diện]
 
-Công chúa Aiko tại quận Setagaya, Tokyo ngày 23 tháng 9.
+Điều gì đằng sau chuyến thăm chính thức Lào của Công chúa Aiko? Ông Hirotaka Shimada, một chuyên gia về lịch sử Hoàng gia, cho rằng "đây là một nhiệm vụ khá lớn đối với lần đầu tiên công du nước ngoài chính thức, và việc được Lào, một quốc gia xã hội chủ nghĩa, mời đã thể hiện tinh hoa của 'ngoại giao Hoàng gia'."
 
-Công chúa Aiko đã tốt nghiệp Đại học Gakushuin vào mùa xuân năm 2024 và hiện đang làm nhân viên hợp đồng tại Hội Chữ thập đỏ Nhật Bản. Với tư cách là thành viên trưởng thành của Hoàng gia, Công chúa đã thực hiện nhiều nhiệm vụ công vụ độc lập trong nước và các nhiệm vụ địa phương. Trước đây, Công chúa đã có hai chuyến thăm riêng tư ra nước ngoài: vào tháng 8 năm 2006, Công chúa đã ở lại Hà Lan hai tuần cùng Nhật hoàng và Hoàng hậu theo lời mời của Hoàng gia Hà Lan; và vào mùa hè năm 2018, khi đang học năm thứ hai tại trường trung học nữ sinh Gakushuin, Công chúa đã tham gia khóa học hè tại trường tư thục Eton ở Vương quốc Anh. Đây là chuyến công du chính thức nước ngoài đầu tiên của Công chúa Aiko.
+[Ảnh] Chánh điện Wat Mai Suwannaphumaham, một ngôi chùa Phật giáo tráng lệ ở Lào](https://president.jp/articles/photo/104868?pn=2&cx_referrertype=yahoo&yhref=20251114-00104868-president-soci)
 
-Đáng chú ý, Nhật hoàng (khi còn là Thái tử) cũng đã từng thăm Lào vào năm 2012.
+### Lời mời từ Lào nhằm kỷ niệm 70 năm quan hệ ngoại giao
+
+Công chúa Aiko sẽ khởi hành đến Lào vào ngày 17 tháng 11, dự kiến ở lại đến ngày 22. Đây là chuyến công du nước ngoài độc lập đầu tiên của bà. Vào ngày 10, để báo cáo về chuyến đi này, bà đã đến thăm Nghĩa trang Hoàng gia Musashi ở thành phố Hachioji, Tokyo, và viếng lăng Musashino của Thiên hoàng Showa cùng lăng Musashino Higashi của Hoàng hậu Kojun.
+
+Kể từ khi tốt nghiệp đại học, Công chúa Aiko đã tích cực thực hiện các nhiệm vụ công. Dù bà đã xuất hiện trước công chúng ở nhiều nơi trong nước, đây vẫn là lần đầu tiên bà thăm nước ngoài. Hơn nữa, bà cũng chưa có nhiều kinh nghiệm tự mình ra nước ngoài. Trước đây, bà chỉ từng đến thăm Hà Lan cùng gia đình vào năm 2006 và tham gia khóa học hè ngắn hạn tại Trường Eton danh tiếng ở Anh vào mùa hè năm 2018.
+
+Với tư cách là thành viên Hoàng gia, có thể nói kinh nghiệm ở nước ngoài của bà còn hạn chế một cách đáng ngạc nhiên. Tuy nhiên, chuyến đi lần này là một nhiệm vụ khá quan trọng cho lần đầu tiên công du nước ngoài chính thức. Đây là lời mời nhằm kỷ niệm 70 năm thiết lập quan hệ ngoại giao giữa Nhật Bản và Lào. Ngoài việc hội kiến Chủ tịch nước Thongloun và tham dự tiệc chiêu đãi do Phó Chủ tịch nước chủ trì, bà còn dự kiến thăm cố đô Luang Prabang, một Di sản Thế giới ở miền Bắc Lào, và thị sát các ngôi chùa.
+
+### Công chúa Aiko được mời với tư cách "bán quốc khách"
+
+Điều đáng chú ý là phía Lào đã thông báo sẽ đón tiếp Công chúa Aiko với nghi thức tương đương nguyên thủ quốc gia. Tiệc chiêu đãi được chuẩn bị cũng vì lý do này, và bà được truyền thông đưa tin là được đối xử như một "bán quốc khách".
+
+Quốc khách là nguyên thủ quốc gia nước ngoài hoặc nhân vật tương đương được chính phủ chính thức mời với nghi lễ cao nhất. Cụ thể, đó là các vị vua, tổng thống, chủ tịch nước, v.v. Khi Nhật Bản đón quốc khách, chính phủ sẽ chi trả một phần chi phí tiếp đón, đồng thời tổ chức các nghi lễ chào đón của Hoàng gia, cuộc gặp với Thiên hoàng và yến tiệc Hoàng cung. Do các chi phí này khá lớn, số lượng quốc khách hàng năm thường giới hạn ở 1-2 đoàn.
+
+Về điểm này, việc Công chúa Aiko được mời đến Lào với tư cách bán quốc khách là một sự kiện khá quan trọng xét từ góc độ ngoại giao Hoàng gia. Việc bà là công chúa duy nhất được sinh ra trong gia đình Thiên hoàng chắc chắn đã tạo nên sự đón tiếp đặc biệt này.
+
+Vậy tại sao Lào lại được chọn làm điểm đến cho chuyến công du nước ngoài chính thức đầu tiên của bà?
