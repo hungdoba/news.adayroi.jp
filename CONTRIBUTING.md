@@ -1,6 +1,6 @@
-# Contributing to News Adayroi
+# Contributing to News Hungba
 
-First off, thank you for considering contributing to News Adayroi! It's people like you that help make this a great resource for the Vietnamese community in Japan.
+First off, thank you for considering contributing to News Hungba! It's people like you that help make this a great resource for the Vietnamese community in Japan.
 
 ## 📋 Table of Contents
 

@@ -1,6 +1,6 @@
 # Test Documentation
 
-## Testing Strategy for News Adayroi
+## Testing Strategy for News Hungba
 
 This document outlines our comprehensive testing approach, best practices, and guidelines for maintaining high-quality code through effective testing.
 

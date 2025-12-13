@@ -2,11 +2,12 @@
 
 ## Overview
 
-News Adayroi is a modern, static news website built with Next.js 15, designed specifically for the Vietnamese community in Japan. The architecture focuses on performance, SEO, and maintainability.
+News Hungba is a modern, static news website built with Next.js 15, designed specifically for the Vietnamese community in Japan. The architecture focuses on performance, SEO, and maintainability.
 
 ## Tech Stack
 
 ### Core Technologies
+
 - **Framework**: Next.js 15 with App Router
 - **Language**: TypeScript 5.x
 - **Styling**: TailwindCSS 4.x
@@ -15,6 +16,7 @@ News Adayroi is a modern, static news website built with Next.js 15, designed sp
 - **Deployment**: Static Site Generation (SSG)
 
 ### Development Tools
+
 - **Package Manager**: pnpm (recommended)
 - **Linting**: ESLint with Next.js config
 - **Formatting**: Prettier with Tailwind plugin
@@ -61,12 +63,14 @@ public/                   # Static assets
 ## Key Features
 
 ### Performance
+
 - Static Site Generation (SSG)
 - Image optimization with next-image-export-optimizer
 - Code splitting and lazy loading
 - Tailwind CSS optimization
 
 ### SEO
+
 - Dynamic metadata generation
 - Open Graph and Twitter cards
 - Structured data
@@ -74,6 +78,7 @@ public/                   # Static assets
 - Semantic HTML
 
 ### Content Management
+
 - Markdown-based content
 - Front matter metadata
 - Automatic post discovery
@@ -81,6 +86,7 @@ public/                   # Static assets
 - Search functionality
 
 ### Developer Experience
+
 - TypeScript strict mode
 - ESLint and Prettier
 - Git hooks for quality
@@ -98,13 +104,16 @@ public/                   # Static assets
 ## Deployment Strategy
 
 ### Static Export
+
 The site uses Next.js static export for optimal performance:
+
 - No server required
 - CDN-friendly
 - Fast loading times
 - High availability
 
 ### CI/CD Pipeline
+
 1. Code push triggers GitHub Actions
 2. Linting and type checking
 3. Build process with optimizations
@@ -114,11 +123,13 @@ The site uses Next.js static export for optimal performance:
 ## Performance Optimizations
 
 ### Build Time
+
 - Efficient content caching
 - Parallel processing where possible
 - Image optimization pipeline
 
 ### Runtime
+
 - Static generation eliminates server requests
 - Optimized bundle sizes
 - Progressive enhancement
@@ -142,11 +153,13 @@ The site uses Next.js static export for optimal performance:
 ## Scalability
 
 ### Content Growth
+
 - Efficient file-based content management
 - Paginated post lists
 - Optimized build process for large content volumes
 
 ### Traffic Growth
+
 - CDN distribution
 - Static file caching
 - Minimal server requirements

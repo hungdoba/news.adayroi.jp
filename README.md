@@ -1,4 +1,4 @@
-# News Adayroi 📰
+# News Hungba 📰
 
 A modern, responsive news website built for Vietnamese people living in Japan. Stay updated with the latest news, culture, and community information.
 

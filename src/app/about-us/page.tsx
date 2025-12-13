@@ -1,10 +1,10 @@
 export default function AboutUs() {
   return (
-    <div className="container mx-auto px-4 py-8 max-w-4xl">
-      <h1 className="text-3xl font-bold mb-6">Đôi nét về News Adayroi</h1>
+    <div className="container mx-auto max-w-4xl px-4 py-8">
+      <h1 className="mb-6 text-3xl font-bold">Đôi nét về News Hungba</h1>
 
       <section className="mb-6">
-        <h2 className="text-xl font-semibold mb-3">Lời cảm ơn!</h2>
+        <h2 className="mb-3 text-xl font-semibold">Lời cảm ơn!</h2>
         <p className="mb-2">
           Chào bạn, <br></br>
           Cảm ơn bạn đã ghé thăm và ủng hộ trang tin tức của chúng tôi. Chúc bạn
@@ -13,7 +13,7 @@ export default function AboutUs() {
       </section>
 
       <section className="mb-6">
-        <h2 className="text-xl font-semibold mb-3">Người Sáng Lập</h2>
+        <h2 className="mb-3 text-xl font-semibold">Người Sáng Lập</h2>
         <p className="mb-2">
           Xin chào! Tôi là một kỹ sư đang làm việc tại Nhật Bản và nhận thấy nhu
           cầu cập nhật thông tin về cộng đồng người Việt tại đây. Trang web này
@@ -23,9 +23,9 @@ export default function AboutUs() {
       </section>
 
       <section className="mb-6">
-        <h2 className="text-xl font-semibold mb-3">Sứ Mệnh Của Chúng Tôi</h2>
+        <h2 className="mb-3 text-xl font-semibold">Sứ Mệnh Của Chúng Tôi</h2>
         <p className="mb-2">
-          News AdayRoi được tạo ra với mục tiêu cung cấp thông tin, tin tức mới
+          News Hungba được tạo ra với mục tiêu cung cấp thông tin, tin tức mới
           nhất về cộng đồng người Việt tại Nhật Bản một cách nhanh chóng, chính
           xác và dễ tiếp cận.
         </p>
@@ -36,7 +36,7 @@ export default function AboutUs() {
       </section>
 
       <section className="mb-6">
-        <h2 className="text-xl font-semibold mb-3">Tính Năng Chính</h2>
+        <h2 className="mb-3 text-xl font-semibold">Tính Năng Chính</h2>
         <p className="mb-2">
           <strong>Tin tức cập nhật:</strong> Chúng tôi thường xuyên cập nhật các
           tin tức mới nhất về cộng đồng người Việt tại Nhật từ nhiều nguồn đáng
@@ -60,7 +60,7 @@ export default function AboutUs() {
       </section>
 
       <section className="mb-6">
-        <h2 className="text-xl font-semibold mb-3">Kết Nối Cộng Đồng</h2>
+        <h2 className="mb-3 text-xl font-semibold">Kết Nối Cộng Đồng</h2>
         <p className="mb-2">
           Chúng tôi mong muốn tạo ra một cầu nối thông tin giữa các thành viên
           trong cộng đồng người Việt tại Nhật. Thông qua việc chia sẻ tin tức,
@@ -68,7 +68,7 @@ export default function AboutUs() {
           trong cuộc sống nơi đất khách.
         </p>
         <p className="mb-2">
-          Hãy theo dõi News AdayRoi để không bỏ lỡ những thông tin quan trọng về
+          Hãy theo dõi News Hungba để không bỏ lỡ những thông tin quan trọng về
           cộng đồng người Việt tại Nhật Bản!
         </p>
       </section>

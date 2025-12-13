@@ -1,23 +1,23 @@
 // Application constants
 export const APP_CONFIG = {
-  name: 'News Adayroi',
+  name: 'News Hungba',
   description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
   url: 'https://news.hungba.net',
   locale: 'vi_VN',
   timezone: 'Asia/Tokyo',
-  author: 'Adayroi Team',
+  author: 'Hungba Team',
   email: 'contact@hungba.net',
 } as const;
 
 export const SOCIAL_LINKS = {
-  twitter: '@adayroi',
-  facebook: 'https://facebook.com/adayroi',
+  twitter: '@Hungba',
+  facebook: 'https://facebook.com/Hungba',
   github: 'https://github.com/hungdoba',
 } as const;
 
 export const SEO_CONFIG = {
-  defaultTitle: 'News - Adayroi',
-  titleTemplate: '%s | News - Adayroi',
+  defaultTitle: 'News - Hungba',
+  titleTemplate: '%s | News - Hungba',
   defaultDescription: APP_CONFIG.description,
   siteUrl: APP_CONFIG.url,
   image: '/images/thubnails/logo/logo.png',

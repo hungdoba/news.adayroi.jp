@@ -13,20 +13,20 @@ export const roboto_mono = Roboto_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'News - Adayroi',
+  title: 'News - Hungba',
   description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
   metadataBase: new URL('https://news.hungba.net'),
   openGraph: {
-    title: 'News - Adayroi',
+    title: 'News - Hungba',
     description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
     url: 'https://news.hungba.net',
-    siteName: 'News - Adayroi',
+    siteName: 'News - Hungba',
     images: [
       {
         url: 'https://news.hungba.net/images/thumbnails/logo/logo.png',
         width: 1200,
         height: 630,
-        alt: 'News - Adayroi',
+        alt: 'News - Hungba',
       },
     ],
     locale: 'vi_VN',
@@ -42,11 +42,11 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'News - Adayroi',
+    title: 'News - Hungba',
     description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
     images: ['https://news.hungba.net/images/thumbnails/logo/logo.png'],
-    creator: '@adayroi',
-    site: '@adayroi',
+    creator: '@Hungba',
+    site: '@Hungba',
   },
   icons: {
     icon: '/images/thumbnails/logo/logo.png',
@@ -54,7 +54,7 @@ export const metadata: Metadata = {
     apple: '/images/thumbnails/logo/logo.png',
   },
   appleWebApp: {
-    title: 'News - Adayroi',
+    title: 'News - Hungba',
     statusBarStyle: 'default',
     capable: true,
     startupImage: [

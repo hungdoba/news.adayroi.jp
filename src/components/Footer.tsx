@@ -10,7 +10,7 @@ export default function Footer() {
             className="mb-4 flex items-center space-x-3 sm:mb-0 rtl:space-x-reverse"
           >
             <span className="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">
-              adayroi
+              Hungba
             </span>
           </Link>
           <ul className="flex items-center space-x-4 text-sm">
