@@ -15,21 +15,21 @@ import { Menu } from 'lucide-react';
 import React from 'react';
 
 const navLinks = [
-  { href: 'https://jlpt.adayroi.jp', key: 'Jlpt', external: true },
-  { href: 'https://chat.adayroi.jp', key: 'Chat', external: true },
-  { href: 'https://trips.adayroi.jp', key: 'Trips', external: true },
-  { href: 'https://adayroi.jp', key: 'Blog', external: true },
+  { href: 'https://jlpt.hungba.net', key: 'Jlpt', external: true },
+  { href: 'https://chat.hungba.net', key: 'Chat', external: true },
+  { href: 'https://trips.hungba.net', key: 'Trips', external: true },
+  { href: 'https://hungba.net', key: 'Blog', external: true },
 ];
 
 const Navbar = () => {
   return (
     <nav className="border-b-2 border-gray-700">
-      <div className="w-full flex justify-between items-center p-4 md:px-0">
+      <div className="flex w-full items-center justify-between p-4 md:px-0">
         <Link className="flex text-xl" href="/">
           <Logo />
         </Link>
         {/* Desktop nav */}
-        <ul className="hidden md:flex items-center space-x-2 md:space-x-4">
+        <ul className="hidden items-center space-x-2 md:flex md:space-x-4">
           {navLinks.map((link, idx) => (
             <React.Fragment key={link.key}>
               <li>
@@ -52,12 +52,12 @@ const Navbar = () => {
           </li>
         </ul>
         {/* Mobile nav */}
-        <div className="md:hidden flex items-center gap-2">
+        <div className="flex items-center gap-2 md:hidden">
           <ThemeSwitcher />
           <Sheet>
             <SheetTrigger asChild>
               <Button variant="ghost" size="icon" aria-label="Open menu">
-                <Menu className="w-6 h-6" />
+                <Menu className="h-6 w-6" />
               </Button>
             </SheetTrigger>
             <SheetContent
@@ -73,7 +73,7 @@ const Navbar = () => {
                   </SheetDescription>
                 </SheetHeader>
               </SheetHeader>
-              <div className="flex flex-col h-full">
+              <div className="flex h-full flex-col">
                 <ul className="flex flex-col gap-2 px-4 py-4">
                   {navLinks.map((link) => (
                     <li key={link.key}>

@@ -1,4 +1,4 @@
-#   News Adayroi 📰
+# News Adayroi 📰
 
 A modern, responsive news website built for Vietnamese people living in Japan. Stay updated with the latest news, culture, and community information.
 
@@ -20,15 +20,15 @@ A modern, responsive news website built for Vietnamese people living in Japan. S
 
 ### Prerequisites
 
-- Node.js 18+ 
+- Node.js 18+
 - pnpm (package manager)
 
 ### Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/hungdoba/news.adayroi.jp.git
-cd news.adayroi.jp
+git clone https://github.com/hungdoba/news.hungba.net.git
+cd news.hungba.net
 
 # Install dependencies
 pnpm install
@@ -80,9 +80,9 @@ Add new articles by creating `.md` files in the `content/` directory:
 
 ```markdown
 ---
-title: "Your Article Title"
-description: "Brief description"
-created_at: "2025-01-20"
+title: 'Your Article Title'
+description: 'Brief description'
+created_at: '2025-01-20'
 ---
 
 Your content here...
@@ -117,10 +117,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 ### Deployment Steps
 
 1. **Connect to Vercel**:
+
    ```bash
    # Install Vercel CLI
    pnpm add -g vercel
-   
+
    # Deploy to Vercel
    vercel
    ```

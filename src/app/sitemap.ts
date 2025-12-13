@@ -4,7 +4,7 @@ import type { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
-  const baseUrl = 'https://news.adayroi.jp';
+  const baseUrl = 'https://news.hungba.net';
   const now = new Date();
 
   const staticPages = [

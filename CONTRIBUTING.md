@@ -36,8 +36,8 @@ This project and everyone participating in it is governed by our Code of Conduct
 
 ```bash
 # Clone your fork
-git clone https://github.com/hungdoba/news.adayroi.jp.git
-cd news.adayroi.jp
+git clone https://github.com/hungdoba/news.hungba.net.git
+cd news.hungba.net
 
 # Install dependencies
 pnpm install

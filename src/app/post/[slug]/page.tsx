@@ -71,7 +71,7 @@ export default async function BlogPage({ params }: Props) {
       <div className="flex">
         <div className="w-full px-4">
           <div dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
-          <Share url={`https://news.adayroi.jp/post/${slug}`} />
+          <Share url={`https://news.hungba.net/post/${slug}`} />
         </div>
         <Onthispage className="w-96 text-sm" htmlContent={htmlContent} />
       </div>

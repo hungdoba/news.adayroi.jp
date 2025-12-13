@@ -3,13 +3,13 @@ import Link from 'next/link';
 export default function Footer() {
   return (
     <footer className="mx-4 md:mx-0">
-      <div className="w-full mx-auto py-4 md:py-8">
+      <div className="mx-auto w-full py-4 md:py-8">
         <div className="sm:flex sm:items-center sm:justify-between">
           <Link
             href="/"
-            className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse"
+            className="mb-4 flex items-center space-x-3 sm:mb-0 rtl:space-x-reverse"
           >
-            <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
+            <span className="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">
               adayroi
             </span>
           </Link>
@@ -27,11 +27,11 @@ export default function Footer() {
             </li>
           </ul>
         </div>
-        <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
+        <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8 dark:border-gray-700" />
         <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
           © 2025{' '}
           <Link href="/" className="hover:underline">
-            Adayroi.jp
+            hungba.net
           </Link>
           . All Rights Reserved.
         </span>

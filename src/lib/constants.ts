@@ -2,11 +2,11 @@
 export const APP_CONFIG = {
   name: 'News Adayroi',
   description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
-  url: 'https://news.adayroi.jp',
+  url: 'https://news.hungba.net',
   locale: 'vi_VN',
   timezone: 'Asia/Tokyo',
   author: 'Adayroi Team',
-  email: 'contact@adayroi.jp',
+  email: 'contact@hungba.net',
 } as const;
 
 export const SOCIAL_LINKS = {

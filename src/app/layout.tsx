@@ -15,15 +15,15 @@ export const roboto_mono = Roboto_Mono({
 export const metadata: Metadata = {
   title: 'News - Adayroi',
   description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
-  metadataBase: new URL('https://news.adayroi.jp'),
+  metadataBase: new URL('https://news.hungba.net'),
   openGraph: {
     title: 'News - Adayroi',
     description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
-    url: 'https://news.adayroi.jp',
+    url: 'https://news.hungba.net',
     siteName: 'News - Adayroi',
     images: [
       {
-        url: 'https://news.adayroi.jp/images/thumbnails/logo/logo.png',
+        url: 'https://news.hungba.net/images/thumbnails/logo/logo.png',
         width: 1200,
         height: 630,
         alt: 'News - Adayroi',
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'News - Adayroi',
     description: 'Tin tức cập nhật dành cho người Việt Nam tại Nhật Bản',
-    images: ['https://news.adayroi.jp/images/thumbnails/logo/logo.png'],
+    images: ['https://news.hungba.net/images/thumbnails/logo/logo.png'],
     creator: '@adayroi',
     site: '@adayroi',
   },
@@ -66,7 +66,7 @@ export const metadata: Metadata = {
     ],
   },
   alternates: {
-    canonical: 'https://news.adayroi.jp',
+    canonical: 'https://news.hungba.net',
     // TODO: Uncomment when RSS feed is available
     // types: {
     //   'application/rss+xml': '/feed.xml',

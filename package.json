@@ -4,10 +4,10 @@
   "description": "A modern news website for Vietnamese people living in Japan",
   "author": "hungdoba",
   "license": "MIT",
-  "homepage": "https://news.adayroi.jp",
+  "homepage": "https://news.hungba.net",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hungdoba/news.adayroi.jp.git"
+    "url": "https://github.com/hungdoba/news.hungba.net.git"
   },
   "keywords": [
     "nextjs",
