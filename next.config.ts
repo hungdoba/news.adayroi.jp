@@ -2,10 +2,6 @@ import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
   output: 'export',
-  eslint: {
-    // Warning: This disables ESLint during builds
-    ignoreDuringBuilds: true,
-  },
   images: {
     loader: 'custom',
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
